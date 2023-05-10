@@ -12,5 +12,4 @@ title: "Events"
 
 -   [The 17th International Workshop on Semantic Evaluation](https://semeval.github.io/SemEval2023/): SemEval is a series of international natural language processing (NLP) research workshops whose mission is to advance the current state of the art in semantic analysis and to help create high-quality annotated datasets in a range of increasingly challenging problems in natural language semantics. (July 13-14 2023).
 
--   
-
+To register an event, please use the following form: [GAIME Event Registration](https://docs.google.com/forms/d/e/1FAIpQLSf5IC0p6U6EGrHQz_uSMe0rQ7PKse-ZiOfZiWEAYNo8N8DGTg/viewform?usp=sf_link)
