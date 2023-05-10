@@ -1,3 +1,19 @@
 ---
 title: "Datasets"
 ---
+
+**Automated Essay Scoring**
+
+-   [Kaggle ASAP AES Dataset](https://www.kaggle.com/c/asap-aes): A dataset containing essays to 8 different essay prompts.
+
+**Automated Short Answer Scoring**
+
+-   [Kaggle ASAP SAS Dataset](https://www.kaggle.com/c/asap-sas/): A dataset containing student responses to 10 different short constructed response prompts.
+
+**Formative Feedback**
+
+-   [PERSUADE Corpus](https://github.com/scrosseye/PERSUADE_corpus): The Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements (PERSUADE) corpus which contains over 280,000 discourse annotations for over 25,000 argumentative essays.
+
+-   [IteraTeR, R3 System, and DEIIteraTeR:](https://github.com/vipulraheja/iterater) A repository that provides datasets and code for preprocessing, training and testing models for Iterative Text Revision.
+
+**Item Generation**
