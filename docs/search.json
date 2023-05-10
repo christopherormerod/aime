@@ -33,5 +33,19 @@
     "title": "Datasets",
     "section": "",
     "text": "Automated Essay Scoring\n\nKaggle ASAP AES Dataset: A dataset containing essays to 8 different essay prompts.\n\nAutomated Short Answer Scoring\n\nKaggle ASAP SAS Dataset: A dataset containing student responses to 10 different short constructed response prompts.\n\nFormative Feedback\n\nPERSUADE Corpus: The Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements (PERSUADE) corpus which contains over 280,000 discourse annotations for over 25,000 argumentative essays.\nIteraTeR, R3 System, and DEIIteraTeR: A repository that provides datasets and code for preprocessing, training and testing models for Iterative Text Revision.\n\nItem Generation"
+  },
+  {
+    "objectID": "Events.html",
+    "href": "Events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Conferences\n\nAssociation of Test Publisher's Fourth EdTech and Computational Psychometrics Summit: The 2023 ATP ECPS will be a two-day virtual summit taking place on June 6th and June 7th, 2023, with an optional Pre-Conference Workshop on June 5th, focusing on how edtech & computational psychometrics’ business of assessment and innovation can help conceive digital assessments for lifelong learning. (June 5-7, 2023)\n18th Workshop on Innovative Use of NLP for Building Educational Applications: The BEA Workshop is a leading venue for NLP innovation in the context of educational applications. (July 13, 2023)"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Conferences\n\nAssociation of Test Publisher's Fourth EdTech and Computational Psychometrics Summit: The 2023 ATP ECPS will be a two-day virtual summit taking place on June 6th and June 7th, 2023, with an optional Pre-Conference Workshop on June 5th, focusing on how edtech & computational psychometrics’ business of assessment and innovation can help conceive digital assessments for lifelong learning. (June 5-7, 2023)\n18th Workshop on Innovative Use of NLP for Building Educational Applications: The BEA Workshop is a leading venue for NLP innovation in the context of educational applications. (July 13, 2023)"
   }
 ]
