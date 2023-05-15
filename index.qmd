@@ -4,4 +4,6 @@ title: "Generative AI in Education and Measurement"
 
 **Generative AI in Measurement and Education**
 
-This website is a placeholder for the Special Interest Group on AI in Measurement and Education (GAIME).
+Welcome to the Special Interest Group on Generative Artificial Intelligence in Measurement and Education (GAIME). This group is in the process of being registered with NCME. Our goal is to serve as an intellectual home for data scientists and psychometricians interested in the application of AI to measurement and education. A draft of our charter can be found [here](https://christopherormerod.github.io/gaime/about.html).
+
+The signup form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSf7QGMsxipgugmZjKlgy3ESr3HC4ltEQ-0ahRExgFHTZfOV-A/viewform).
