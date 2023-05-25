@@ -54,5 +54,12 @@
     "title": "Datasets",
     "section": "",
     "text": "This is a collection of datasets that are generally useful\n\nAutomated Essay Scoring\n\nKaggle ASAP AES Dataset: A dataset containing essays to 8 different essay prompts.\n\n\n\nAutomated Short Answer Scoring\n\nKaggle ASAP SAS Dataset: A dataset containing student responses to 10 different short constructed response prompts.\nPowergrading Short Answer Grading Corpus: This corpus contains the original data analyzed in the following paper: Basu, Jacobs, and Vanderwende, “Powergrading: a Clustering Approach to Amplify Human Effort for Short Answer Grading,” Transactions of the ACL, 2013. Last published: October 4, 2013.\n\n\n\nFormative Feedback\n\nPERSUADE Corpus: The Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements (PERSUADE) corpus which contains over 280,000 discourse annotations for over 25,000 argumentative essays.\nIteraTeR, R3 System, and DEIIteraTeR: A repository that provides datasets and code for preprocessing, training and testing models for Iterative Text Revision.\n\n\n\nItem Generation\nTBA\n\n\nUnlabelled\n\nEvaluating Student Writing"
+  },
+  {
+    "objectID": "literature.html",
+    "href": "literature.html",
+    "title": "Literature",
+    "section": "",
+    "text": "This is a collection of references to empirical studies, conceptual articles about LLMs in education, and other publications relevant to understanding the current moment. This is a snapshot (updated 5/25/23) of a Zotero group; read/write access available on request if you have a suggestion or would like to see the latest & greatest.\nThis is a work in progress; a current formatted version of the literature is available here"
   }
 ]
