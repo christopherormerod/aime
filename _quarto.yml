@@ -6,14 +6,14 @@ website:
   title: "Generative AI in Measurement for Education"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - index.qmd
       - about.qmd
-      - open-datasets-code.qmd
+      - open-datasets.qmd
       - events.qmd
       - literature.qmd
+      
 
-bibliography: references.bib
+bibliography: resources/gaime-biblio.bib
 
 format:
   html:
