@@ -2,15 +2,22 @@ project:
   type: website
   output-dir: docs
 
+metadata:
+  bibliography:
+   file: resources/gaime-biblio.bib
+   style: resources/apa-with-abstract.csl
+    
 website:
-  title: "gaime"
+  title: "Generative AI in Measurement for Education"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - datasets.qmd
+      - open-datasets-code.qmd
+#      - resources/gaime-biblio.qmd
       - events.qmd
+
 
 format:
   html:
