@@ -1,6 +1,5 @@
 ---
 title: "About"
-bibliography: resources/gaime-biblio.bib
 ---
 
 The recent explosion of "Generative AI" has broad and deep implications for Education Measurement. By "Generative AI" we mean algorithms that create new text, images, or sound using machine learning algorithms trained on previous existing samples of that data. This technology is already in operational use in assessments and learning solutions and is being rapidly developed.  At the same time, it brings significant challenges to foundational principles in measurement validity, fairness, and reliability. With evidence and constructs constantly recreated, and data not representative nor static, many concepts of measurement and practices to implement them need to be rethought.

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Generative AI in Education and Measurement - Home</title>
+<title>Generative AI in Education and Measurement - Open Datasets</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./open-datasets.html" rel="" target="">
+    <a class="nav-link active" href="./open-datasets.html" rel="" target="" aria-current="page">
  <span class="menu-text">Open Datasets</span></a>
   </li>  
   <li class="nav-item">
@@ -112,14 +112,25 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#automated-essay-scoring" id="toc-automated-essay-scoring" class="nav-link active" data-scroll-target="#automated-essay-scoring"><strong>Automated Essay Scoring</strong></a></li>
+  <li><a href="#automated-short-answer-scoring" id="toc-automated-short-answer-scoring" class="nav-link" data-scroll-target="#automated-short-answer-scoring"><strong>Automated Short Answer Scoring</strong></a></li>
+  <li><a href="#formative-feedback" id="toc-formative-feedback" class="nav-link" data-scroll-target="#formative-feedback"><strong>Formative Feedback</strong></a></li>
+  <li><a href="#item-generation" id="toc-item-generation" class="nav-link" data-scroll-target="#item-generation"><strong>Item Generation</strong></a></li>
+  <li><a href="#process-data-for-learning-pathways" id="toc-process-data-for-learning-pathways" class="nav-link" data-scroll-target="#process-data-for-learning-pathways">Process Data for Learning Pathways</a></li>
+  <li><a href="#unlabelled" id="toc-unlabelled" class="nav-link" data-scroll-target="#unlabelled">Unlabelled</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Home</h1>
+<h1 class="title">Open Datasets</h1>
 </div>
 
 
@@ -134,11 +145,48 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Welcome to the (proposed) Special Interest Group on Generative Artificial Intelligence in Measurement and Education (GAIME) with the <a href="https://www.ncme.org/home">National Council of Measurement in Education</a>. Our goal is to serve as an intellectual home for data scientists and psychometricians interested in the application of AI to measurement and education.</p>
-<p>A draft of our charter can be found <a href="https://christopherormerod.github.io/gaime/about.html">here</a>.</p>
-<p>Interested in joining us? The signup form can be found <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7QGMsxipgugmZjKlgy3ESr3HC4ltEQ-0ahRExgFHTZfOV-A/viewform">here</a>. We currently hold monthly meetings and are organizing a speaker series.</p>
+<p>Training data is required for ML; often authentic data can be difficult to come by. This is a collection of datasets that are generally useful.</p>
+<p>If you have a dataset you’d like to share (or want to find one not listed here), you might consider one of the open data repositories (e.g.&nbsp;<a href="https://research.google/resources/datasets/">Google Research Datasets</a>, <a href="https://www.ed-data.org/">EdData</a>, <a href="https://data.gov/">Data.gov</a>, <a href="https://dataverse.harvard.edu/">Dataverse</a>, <a href="https://www.icpsr.umich.edu/web/pages/">ICPSR</a>, <a href="https://pslcdatashop.web.cmu.edu/">Datashop</a>, <a href="https://archive.ics.uci.edu/ml/index.php">UCI ML Repository</a>).</p>
+<section id="automated-essay-scoring" class="level3">
+<h3 class="anchored" data-anchor-id="automated-essay-scoring"><strong>Automated Essay Scoring</strong></h3>
+<ul>
+<li><a href="https://www.kaggle.com/c/asap-aes">Kaggle ASAP AES Dataset</a>: A dataset containing essays to 8 different essay prompts.</li>
+</ul>
+</section>
+<section id="automated-short-answer-scoring" class="level3">
+<h3 class="anchored" data-anchor-id="automated-short-answer-scoring"><strong>Automated Short Answer Scoring</strong></h3>
+<ul>
+<li><p><a href="https://www.kaggle.com/c/asap-sas/">Kaggle ASAP SAS Dataset</a>: A dataset containing student responses to 10 different short constructed response prompts.</p></li>
+<li><p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=52397">Powergrading Short Answer Grading Corpus</a>: This corpus contains the original data analyzed in the following paper: Basu, Jacobs, and Vanderwende, “Powergrading: a Clustering Approach to Amplify Human Effort for Short Answer Grading,” Transactions of the ACL, 2013. Last published: October 4, 2013.</p></li>
+</ul>
+</section>
+<section id="formative-feedback" class="level3">
+<h3 class="anchored" data-anchor-id="formative-feedback"><strong>Formative Feedback</strong></h3>
+<ul>
+<li><p><a href="https://github.com/scrosseye/PERSUADE_corpus">PERSUADE Corpus</a>: The Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements (PERSUADE) corpus which contains over 280,000 discourse annotations for over 25,000 argumentative essays.</p></li>
+<li><p><a href="https://github.com/vipulraheja/iterater">IteraTeR, R3 System, and DEIIteraTeR:</a> A repository that provides datasets and code for preprocessing, training and testing models for Iterative Text Revision.</p></li>
+</ul>
+</section>
+<section id="item-generation" class="level3">
+<h3 class="anchored" data-anchor-id="item-generation"><strong>Item Generation</strong></h3>
+<p>TBA</p>
+</section>
+<section id="process-data-for-learning-pathways" class="level3">
+<h3 class="anchored" data-anchor-id="process-data-for-learning-pathways">Process Data for Learning Pathways</h3>
+<ul>
+<li><a href="https://github.com/riiid/ednet">EdNet</a> - dataset of all student-system interactions collected over 2 years by <em>Santa</em>, a multi-platform AI tutoring service with more than 780K users in Korea available through Android, iOS and web. Details of dataset are available as a <a href="https://arxiv.org/abs/1912.03072">pre–print</a>.</li>
+<li><a href="https://doi.org/10.7910/DVN/26147">HarvardX-MITx Person-Course Dataset</a><strong>-</strong> this dataset contains information from the first year of edX courses, which are Harvard and MIT’s Massive Open Online Courses (MOOCs). The data includes over 600,000 students and over a billion records.</li>
+<li><a href="https://analyse.kmi.open.ac.uk/open_dataset">Open University Learning Analytics dataset</a> - contains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules). Presentations of courses start in February and October - they are marked by “B” and “J” respectively. The dataset consists of tables connected using unique identifiers. All tables are stored in the csv format.</li>
+</ul>
+</section>
+<section id="unlabelled" class="level3">
+<h3 class="anchored" data-anchor-id="unlabelled">Unlabelled</h3>
+<ul>
+<li><a href="https://huggingface.co/datasets/NahedAbdelgaber/evaluating-student-writing">Evaluating Student Writing</a></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

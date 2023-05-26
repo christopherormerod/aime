@@ -1,0 +1,37 @@
+---
+title: "Open Datasets"
+---
+
+Training data is required for ML; often authentic data can be difficult to come by. This is a collection of datasets that are generally useful.
+
+If you have a dataset you'd like to share (or want to find one not listed here), you might consider one of the open data repositories (e.g. [Google Research Datasets](https://research.google/resources/datasets/), [EdData](https://www.ed-data.org/), [Data.gov](https://data.gov/), [Dataverse](https://dataverse.harvard.edu/), [ICPSR](https://www.icpsr.umich.edu/web/pages/), [Datashop](https://pslcdatashop.web.cmu.edu/), [UCI ML Repository](https://archive.ics.uci.edu/ml/index.php)).
+
+### **Automated Essay Scoring**
+
+-   [Kaggle ASAP AES Dataset](https://www.kaggle.com/c/asap-aes): A dataset containing essays to 8 different essay prompts.
+
+### **Automated Short Answer Scoring**
+
+-   [Kaggle ASAP SAS Dataset](https://www.kaggle.com/c/asap-sas/): A dataset containing student responses to 10 different short constructed response prompts.
+
+-   [Powergrading Short Answer Grading Corpus](https://www.microsoft.com/en-us/download/details.aspx?id=52397): This corpus contains the original data analyzed in the following paper: Basu, Jacobs, and Vanderwende, "Powergrading: a Clustering Approach to Amplify Human Effort for Short Answer Grading," Transactions of the ACL, 2013. Last published: October 4, 2013.
+
+### **Formative Feedback**
+
+-   [PERSUADE Corpus](https://github.com/scrosseye/PERSUADE_corpus): The Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements (PERSUADE) corpus which contains over 280,000 discourse annotations for over 25,000 argumentative essays.
+
+-   [IteraTeR, R3 System, and DEIIteraTeR:](https://github.com/vipulraheja/iterater) A repository that provides datasets and code for preprocessing, training and testing models for Iterative Text Revision.
+
+### **Item Generation**
+
+TBA
+
+### Process Data for Learning Pathways
+
+-   [EdNet](https://github.com/riiid/ednet) - dataset of all student-system interactions collected over 2 years by *Santa*, a multi-platform AI tutoring service with more than 780K users in Korea available through Android, iOS and web. Details of dataset are available as a [pre--print](https://arxiv.org/abs/1912.03072).
+-   [HarvardX-MITx Person-Course Dataset](https://doi.org/10.7910/DVN/26147)**-** this dataset contains information from the first year of edX courses, which are Harvard and MIT's Massive Open Online Courses (MOOCs). The data includes over 600,000 students and over a billion records.
+-   [Open University Learning Analytics dataset](https://analyse.kmi.open.ac.uk/open_dataset) - contains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules). Presentations of courses start in February and October - they are marked by "B" and "J" respectively. The dataset consists of tables connected using unique identifiers. All tables are stored in the csv format.
+
+### Unlabelled
+
+-   [Evaluating Student Writing](https://huggingface.co/datasets/NahedAbdelgaber/evaluating-student-writing)
