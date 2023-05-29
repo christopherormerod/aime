@@ -24,7 +24,9 @@ If you have a dataset you'd like to share (or want to find one not listed here),
 
 ### **Item Generation**
 
-TBA
+-   [SQuAD](https://huggingface.co/datasets/squad_v2): This dataset combines the 100,000 questions in SQuAD1.1 with over 50,000 unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. While often use to train question-answering models, this dataset has also been used to help train question generation.
+
+-   [FairytaleQA](https://www.thequestchallenge.org/overview): The FairytaleQA dataset was created to address the gaps present in similar datasets, as existing datasets rarely distinguish fine-grained reading skills, such as the understanding of varying narrative elements. The goal of the challenge in the link is to generate high quality questions from the dataset.
 
 ### Process Data for Learning Pathways
 
