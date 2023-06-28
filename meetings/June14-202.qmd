@@ -8,7 +8,7 @@ Talked About General Meeting Norms.
 
 Next, Chris gave an overview of the Charter and next steps.
 
-Chris also explained that we need to differentiate from the Big Data group but did not hear back when he asked about their goals. Okan clarified that the larger purpose of that SIGIME was to combine all of the data we have in one place; to support deep learning models etc.
+Chris also explained that we need to differentiate from the Big Data group but did not hear back when he asked about their goals. A member clarified that the larger purpose of that SIGIME was to combine all of the data we have in one place; to support deep learning models etc.
 
 John next shared a brainstorming slide for the different directions the SIGIME can go in, such as a speaker series or works in progress session.
 
@@ -16,12 +16,12 @@ Most people were interested in that and also suggested getting Kristen DiCerbo t
 
 Chris also suggested a joint Github repo for examples of this code. <https://github.com/christopherormerod/gaime>  
 
-Stephen Sireci pointed out that there may be people who are at more of the technical level and more of a high-level and the SIGMIE should cater to both.
+A member pointed out that there may be people who are at more of the technical level and more of a high-level and the SIGMIE should cater to both.
 
 John also discussed the literature review/curation of Zotero for the larger group.
 
-Chris also shared a slide of guidelines for fair use of generative AI.  Stephen Sireci suggested in the chat that the SIGIMIE can coordinate a set of responses to Duolingo\'s ethical AI standards. Steven Nydick (from chat) said we need both technical details and ethical guidelines. I agree with Steve that we should respond to the AI standards put out from Duolingo, but we should ultimately try to come up with standards that would apply to the field more broadly.
+Chris also shared a slide of guidelines for fair use of generative AI. A member suggested in the chat that the SIGIMIE can coordinate a set of responses to Duolingo's ethical AI standards. A member (from chat) said we need both technical details and ethical guidelines. I agree with the former that we should respond to the AI standards put out from Duolingo, but we should ultimately try to come up with standards that would apply to the field more broadly.
 
-Okan Bulut also suggested that we  get in touch with folks from open AI community (e.g., Eleuther AI, https://www.eleuther.ai/) to see how their data curation methods and LLMs could potentially inform educational applications.
+One member also suggested that we get in touch with folks from open AI community (e.g., Eleuther AI, https://www.eleuther.ai/) to see how their data curation methods and LLMs could potentially inform educational applications.
 
-Finally, we discussed the larger NCME endorsement process and Stephen Sireci said he\'d talk to the larger NCME administrators at the next conference.
+Finally, we discussed the larger NCME endorsement process and a member said he'd talk to the larger NCME administrators at the next conference.
