@@ -4,4 +4,5 @@ title: "Literature"
 
 This is a collection of references to empirical studies, conceptual articles about LLMs in education, and other publications relevant to understanding the current moment. This is a snapshot (updated 5/25/23) of a [Zotero group](https://www.zotero.org/groups/5034711/llms_for_edu); read/write access available on request if you have a suggestion or would like to see the latest & greatest.
 
-This is a work in progress; a current formatted version of the literature is available [here](resources/annotated-bibliography.html)
+This is a work in progress; a current formatted version of the literature is available [here](https://www.zotero.org/groups/5034711/llms_for_edu/library)
+

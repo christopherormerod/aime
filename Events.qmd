@@ -10,9 +10,9 @@ We will be holding a first meeting
 
 -   June 14th 4:00pm - 5:00pm (EST) over Zoom. [Notes](meetings/June14-202.html)
 
-### **Conferences**
+-   July 12th 4:00pm - 5:00pm (EST) over Zoom.
 
--   [The 24th International Conference on Artificial Intelligence in Education](https://www.aied2023.org/): The 24th International Conference on Artificial Intelligence in Education, AIED 2023, will take place July 3-7, 2023 in Tokyo, Japan and virtually. (3-7, July 2023)
+### **Conferences**
 
 -   [18th Workshop on Innovative Use of NLP for Building Educational Applications](https://sig-edu.org/bea/2023): The BEA Workshop is a leading venue for NLP innovation in the context of educational applications. (July 13, 2023)
 
@@ -20,4 +20,33 @@ We will be holding a first meeting
 
 -   [The First Conference on AI Generated Content 2023:](https://www.icaigc.org/) As the use of AI continues to expand and evolve, the potential for its impact on content creation is becoming increasingly apparent. Recently, ChatGPT has made a significant impact and has helped to advance the development on the field of AI-generated content. AI-generated content can refer to a range of techniques and applications that use machine learning and deep learning models to automatically generate text, speech, or other forms of content that mimic human-generated content.
 
-To register an event, please use the following form: [GAIME Event Registration](https://docs.google.com/forms/d/e/1FAIpQLSf5IC0p6U6EGrHQz_uSMe0rQ7PKse-ZiOfZiWEAYNo8N8DGTg/viewform?usp=sf_link)
+## Active Publication Opportunities
+
+This is a running list of potentially relevant publication opportunities for Generative AI.
+
+### **Future Shock: Grappling with the Generative AI Revolution** {.smaller}
+
+Journal: Harvard Data Science Review\
+Published: 11 Jul 2023\
+Deadline: 25 August 2023
+
+URL: [Call for papers](https://assets.pubpub.org/tbjq9yfk/Future%20Shock%20Open%20Call%20(generic)-51688668907094.pdf)\
+
+Articles clarifying the nature and limitations of foundation models, large language models (LLMs), and generative AI applications. Articles exploring the wider societal risks and impacts of foundation models, LLMs, and generative AI applications.
+
+### NCME
+
+Deadline: 28 August 2023 URL: [here](https://www.ncme.org/event/annual-meeting/upcoming-meeting2024#:~:text=Proposal%20Submission%20Timeline&text=NCME%20will%20accept%20the%20submission,not%20anticipate%20extending%20the%20deadline.)
+
+### **Leveraging Large Language Models for Assessment Support: Applications and Implications**
+
+Journal: Computers and Education: Artificial Intelligence (Open Access) \
+Published: 28 June 2023\
+Deadline: 30 October 2023\
+Contact: Prof. Rafael Ferreira Mello at rflm\@cesar.org.br
+
+URL: [Call for Papers](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence/about/call-for-papers#leveraging-large-language-models-for-assessment-support-applications-and-implications)
+
+This special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with *particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity*. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process. We particularly encourage empirical research that employs rigorous methodologies, such as experimental studies, case studies, and surveys, to provide evidence of the effectiveness and impact of LLMs on assessment. Additionally, we welcome theoretical papers offering a nuanced and comprehensive understanding of the topic and its educational implications (e.g., for ethics and trustworthiness). Overall, this special issue aims to advance state-of-the-art research by integrating LLMs in the assessment process and identifying key directions for future research in this promising area.
+
+Please send any new entries to John Whitmer [jwhitmer\@fas.org](mailto:jwhitmer@fas.org){.email} and Maggie Beiting-Parrish [Magdalen.Beiting\@ed.gov](mailto:Magdalen.Beiting@ed.gov){.email}
