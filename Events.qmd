@@ -6,17 +6,17 @@ On this page, we aim to keep you up-to-date on events relevant to AI in Educatio
 
 ### **Member Events**
 
-We will be holding a first meeting
-
 -   June 14th 4:00pm - 5:00pm (EST) over Zoom. [Notes](meetings/June14-202.html)
 
 -   July 12th 4:00pm - 5:00pm (EST) over Zoom.
 
+-   August 9th 4:00pm - 5:00pm (EST) over Zoom. 
+
+-   
+
 ### **Conferences**
 
--   [18th Workshop on Innovative Use of NLP for Building Educational Applications](https://sig-edu.org/bea/2023): The BEA Workshop is a leading venue for NLP innovation in the context of educational applications. (July 13, 2023)
-
--   [The 17th International Workshop on Semantic Evaluation](https://semeval.github.io/SemEval2023/): SemEval is a series of international natural language processing (NLP) research workshops whose mission is to advance the current state of the art in semantic analysis and to help create high-quality annotated datasets in a range of increasingly challenging problems in natural language semantics. (July 13-14 2023).
+-   [International Workshop on Artificial Intelligence and Education (WAIE 2023)](http://www.waie.org/) WAIE is an annual event which aims at a key theme on Artificial Intelligence and Education. WAIE 2023 is intended to provide a stimulating forum for researchers, scientists, engineers and practitioners to present their latest research findings, ideas, developments and applications in all aspects of Artificial Intelligence and Education. WAIE 2023 will include keynote addresses by eminent scientists as well as plenary, special and regular presentation sessions. Peer review of all the papers will use a blind process and acceptance will be based on quality, originality and relevance.
 
 -   [The First Conference on AI Generated Content 2023:](https://www.icaigc.org/) As the use of AI continues to expand and evolve, the potential for its impact on content creation is becoming increasingly apparent. Recently, ChatGPT has made a significant impact and has helped to advance the development on the field of AI-generated content. AI-generated content can refer to a range of techniques and applications that use machine learning and deep learning models to automatically generate text, speech, or other forms of content that mimic human-generated content. (August 25-26, 2023)
 
