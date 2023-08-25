@@ -3,7 +3,7 @@ project:
   output-dir: docs
     
 website:
-  title: "Generative AI in Education and Measurement"
+  title: "AI in Measurement and Education"
   navbar:
     left:
       - index.qmd
