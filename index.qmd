@@ -6,4 +6,6 @@ Welcome to the (proposed) Special Interest Group on Artificial Intelligence in M
 
 A draft of our charter can be found [here](https://christopherormerod.github.io/gaime/about.html).
 
-Interested in joining us? The signup form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSf7QGMsxipgugmZjKlgy3ESr3HC4ltEQ-0ahRExgFHTZfOV-A/viewform). We currently hold monthly meetings and are organizing a speaker series.
+Our NCME webpage can b found [here](https://www.ncme.org/community/ncme-sigimie/aime).
+
+Interested in joining us? The signup form can be found [here](https://form.jotform.com/ncme/SIGIMIESIGNUP). We currently hold monthly meetings and are organizing a speaker series.

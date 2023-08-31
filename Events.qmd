@@ -4,23 +4,51 @@ title: "Events"
 
 On this page, we aim to keep you up-to-date on events relevant to AI in Education.
 
-### **Member Events**
+### **Member Events 2023**
 
 -   June 14th 4:00pm - 5:00pm (EST) over Zoom. [Notes](meetings/June14-202.html)
 
+**Introductory meeting**
+
 -   July 12th 4:00pm - 5:00pm (EST) over Zoom.
 
--   August 9th 4:00pm - 5:00pm (EST) over Zoom. 
+**Title:** "Khanmigo" Demonstration & Lessons Learned Building GenAI Apps
 
--   
+**Presenter:** Kristen Dicerbo, Chief Learning Officer, Khan Academy
+
+**Title:** Open Source Revolution: Large Models on Small Hardware
+
+**Presenter:** Chris Ormerod, Principal Data Scientist, Cambium Assessment
+
+-   August 9th 4:00pm - 5:00pm (EST) over Zoom.
+
+**Title :** Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning
+
+**Presenter:** Andrew Lan, University of Massachusetts Amherst
+
+-   September 13th 4:00pm - 5:00pm (EST)
+
+**Title:** Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks
+
+**Presenter:** Andrew Runge, Duolingo
+
+-   October 11th 4:00pm - 5:00pm (EST)
+
+**Title:** Alfred
+
+**Presenter:** Noah Goodman
+
+-   December 8th 4:00pm - 5:00pm (EST)
+
+**Title:** TBD
+
+**Presenter:** TBD
 
 ### **Conferences**
 
 -   [International Workshop on Artificial Intelligence and Education (WAIE 2023)](http://www.waie.org/) WAIE is an annual event which aims at a key theme on Artificial Intelligence and Education. WAIE 2023 is intended to provide a stimulating forum for researchers, scientists, engineers and practitioners to present their latest research findings, ideas, developments and applications in all aspects of Artificial Intelligence and Education. WAIE 2023 will include keynote addresses by eminent scientists as well as plenary, special and regular presentation sessions. Peer review of all the papers will use a blind process and acceptance will be based on quality, originality and relevance.
 
--   [The First Conference on AI Generated Content 2023:](https://www.icaigc.org/) As the use of AI continues to expand and evolve, the potential for its impact on content creation is becoming increasingly apparent. Recently, ChatGPT has made a significant impact and has helped to advance the development on the field of AI-generated content. AI-generated content can refer to a range of techniques and applications that use machine learning and deep learning models to automatically generate text, speech, or other forms of content that mimic human-generated content. (August 25-26, 2023)
-
--   [Emerging Generative AI Trends](https://www.gartner.com/en/conferences/na/symposium-us/conference-resources/gen-ai) Spurred on by the release of ChatGPT in November 2022, Generative AI has the potential to transform the way all enterprises do work, keep up with their competitors, and manage risk. High value use cases for Generative AI are emerging and impacting every industry and job role. CIOs must quickly understand the implications for their organizations and provide critical leadership to define their strategy and take action. Realizing Generative AI’s full competitive potential will require building the right portfolio, ecosystem, deployment model, skills and governance. (October 16–19, 2023)
+-   [Emerging Generative AI Trends](https://www.gartner.com/en/conferences/na/symposium-us/conference-resources/gen-ai) Spurred on by the release of ChatGPT in November 2022, Generative AI has the potential to transform the way all enterprises do work, keep up with their competitors, and manage risk. High value use cases for Generative AI are emerging and impacting every industry and job role. CIOs must quickly understand the implications for their organizations and provide critical leadership to define their strategy and take action. Realizing Generative AI's full competitive potential will require building the right portfolio, ecosystem, deployment model, skills and governance. (October 16--19, 2023)
 
 ## Active Publication Opportunities
 
