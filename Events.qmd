@@ -22,7 +22,7 @@ On this page, we aim to keep you up-to-date on events relevant to AI in Educatio
 
 -   August 9th 4:00pm - 5:00pm (EST) over Zoom.
 
-**Title :** Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning
+**Title :** Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning \[[link](https://us06web.zoom.us/rec/share/5o6RtYJJFZgbRRbZBkRfQ9RbuoVnrFN2kFfEAyPRWShEtb-jyrQMmlQK1VfkL707.kgteeW6fkLc5HGnA)\] (Passcode: BaF?W=\@6)
 
 **Presenter:** Andrew Lan, University of Massachusetts Amherst
 
@@ -38,7 +38,13 @@ On this page, we aim to keep you up-to-date on events relevant to AI in Educatio
 
 **Presenter:** Noah Goodman
 
--   December 8th 4:00pm - 5:00pm (EST)
+-   November 8th 4:00pm - 5:00pm (EST)
+
+**Title:** TBD
+
+**Presenter:** TBD
+
+-   December 13th 4:00pm - 5:00pm (EST)
 
 **Title:** TBD
 
