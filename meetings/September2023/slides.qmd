@@ -1,110 +1,87 @@
 ---
-title: "Generative Artificial Intelligence in Measurement and Education"
+title: "Artificial Intelligence in Measurement and Education"
  
 format: beamer
 ---
- 
+
 # Introductions - Positioning
- 
+
 ## Executive Board
- 
+
 -   Chair: Chris Ormerod
- 
+
 -   Co-chair: John Whitmer
- 
+
 -   Secretary: Maggie Beiting-Parrish
 
- 
+## Welcome to all our new members and everyone who has joined the call!!
+
 # Research Presentations
- 
-Andrew Lan, Assistant Professor at The University of Massachusetts Amherst
- 
-Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning
- 
 
-# Where to from here?
+**Speaker:** Andrew Runge, Senior AI Research Engineer at Duolingo
 
-## Update the Status
- 
-We have been approved by the NCME board. Two more immediate concerns are:
+**Title:** Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks
 
-- Meet with NCME board Liasons.
+# Name Change
 
-- NCME Proposal.
+In our original submission to the NCME, we asked to be called
 
- 
-# Draft NCME SIGIME 2024 Panel Session
- 
-## Applying Generative AI in Education: Demonstrations, Evidence of Impact, and Lessons Learned
- 
-Generative AI has exploded upon our culture and is having widespread impacts in many industries. In this presentation, members of the NCME Generative AI SIGIME will discuss examples of prototyping, piloting, and/or deploying education solutions using these new technologies. While this specific technology is new, measurement experts have significant experience applying innovative technologies in our work and many of our conventional measures of efficacy - namely validity, reliability, and fairness - are more relevant than ever in determining whether these innovations are ready for widescale use.
+## Artificial Intelligence in Measurement and Education (AIME)
 
-# Draft NCME SIGIME 2024 Panel Session
+In subsequent meetings, we have been using
 
- 
-## Call for member submissions - anticipate 3-4 presentations
- 
-Paragraph-length abstract describing your application, which includes:
- 
-1.  Specific problem/use case seeking to address
- 
-2.  Technology / algorithmic approaches used (high level summary)
- 
-3.  Any custom datasets used to tune/train/refine the approach
- 
-4.  Evidence of impact
- 
-# Additional Next Steps (Chris)
+## Generative Artificial Intelligence in Measurement and Education (GAIME)
 
-## Furthering our Goals
+The NCME saw that including AI more generally was a positive for the group.
 
-- Advertising GAIME on NCME
+# White Paper Proposal
 
-- Suggestions for future speakers
+## Call for Participation - The ethical use of AI in education
 
-- Links with AI companies (Future speakers)
+We are looking for researchers to contribute to a white paper on the Ethical use of AI in Measurement and Education. Examples of topics include the follow:
 
-- Advancement of Fair, Accountable, Transparent, and Ethical use of AI
+-   Accountability when AI is used.
 
-# Additional Next Steps (Chris)
+-   Appropriate use of AI
+
+-   Measurement and mitigation of bias when using AI 
+
+-   Transparency in the use of AI
+
+-   Toxicity in Generative AI
+
+If you are interested, please email Okan Bulut at bulut@ualberta.ca. 
+
+# Resources
 
 ## Resources purchases ranking
- 
-- Zoom account (webinar?)
- 
-- Github Organization
- 
-- Zotero w/shared space
- 
-- Paid website domain name
- 
-- Datasets for fine-tuning
- 
-- Other Suggestions? What are we missing?
 
-Note: Use of funds requires some board approval.
- 
-# Publication Oppotunities
- 
-## **Future Shock: Grappling with the Generative AI Revolution** {.smaller}
- 
-Journal: Harvard Data Science Review\
-Published: 11 Jul 2023\
-Deadline: 25 August 2023
- 
-URL: [Call for papers](https://assets.pubpub.org/tbjq9yfk/Future%20Shock%20Open%20Call%20(generic)-51688668907094.pdf)\
- 
-Articles clarifying the nature and limitations of foundation models, large language models (LLMs), and generative AI applications. Articles exploring the wider societal risks and impacts of foundation models, LLMs, and generative AI applications.
+We have submitted the following items for board approval 
+
+-   Zoom account 
+
+-   Github Organization
+
+-   Zotero w/shared space
+
+-   Paid website domain name
+
+# Next Month Speaker
+
+**Speaker:** Noah Goodman, Stanford University
+
+**Title**: TBD
+
 
 # Publication Oppotunities
 
 ## **Leveraging Large Language Models for Assessment Support: Applications and Implications**
- 
-Journal: Computers and Education: Artificial Intelligence (Open Access)  \
+
+Journal: Computers and Education: Artificial Intelligence (Open Access)\
 Published: 28 June 2023\
 Deadline: 30 October 2023\
 Contact: Prof. Rafael Ferreira Mello at rflm\@cesar.org.br
- 
+
 URL: [Call for Papers](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence/about/call-for-papers#leveraging-large-language-models-for-assessment-support-applications-and-implications)
- 
+
 This special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with *particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity*. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process.
