@@ -44,21 +44,21 @@ We are looking for researchers to contribute to a white paper on the Ethical use
 
 -   Appropriate use of AI
 
--   Measurement and mitigation of bias when using AI 
+-   Measurement and mitigation of bias when using AI
 
 -   Transparency in the use of AI
 
 -   Toxicity in Generative AI
 
-If you are interested, please email Okan Bulut at bulut@ualberta.ca. 
+If you are interested, please email Okan Bulut at bulut\@ualberta.ca.
 
 # Resources
 
 ## Resources purchases ranking
 
-We have submitted the following items for board approval 
+We have submitted the following items for board approval
 
--   Zoom account 
+-   Zoom account
 
 -   Github Organization
 
@@ -71,7 +71,6 @@ We have submitted the following items for board approval
 **Speaker:** Noah Goodman, Stanford University
 
 **Title**: TBD
-
 
 # Publication Oppotunities
 

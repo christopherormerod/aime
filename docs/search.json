@@ -35,13 +35,6 @@
     "text": "This is a collection of references to empirical studies, conceptual articles about LLMs in education, and other publications relevant to understanding the current moment. This is a snapshot (updated 5/25/23) of a Zotero group; read/write access available on request if you have a suggestion or would like to see the latest & greatest.\nThis is a work in progress; a current formatted version of the literature is available here"
   },
   {
-    "objectID": "meetings/June14-202.html",
-    "href": "meetings/June14-202.html",
-    "title": "AI in Measurement and Education",
-    "section": "",
-    "text": "Generative Artificial Intelligence in Measurement and Education SIGIME Meeting 1\nJune 14, 2023\nDid initial introductions.\nTalked About General Meeting Norms.\nNext, Chris gave an overview of the Charter and next steps.\nChris also explained that we need to differentiate from the Big Data group but did not hear back when he asked about their goals. A member clarified that the larger purpose of that SIGIME was to combine all of the data we have in one place; to support deep learning models etc.\nJohn next shared a brainstorming slide for the different directions the SIGIME can go in, such as a speaker series or works in progress session.\nMost people were interested in that and also suggested getting Kristen DiCerbo to present as well as other people in different industries to partner with. Including the idea of code examples/tutorials.\nChris also suggested a joint Github repo for examples of this code. https://github.com/christopherormerod/gaime  \nA member pointed out that there may be people who are at more of the technical level and more of a high-level and the SIGMIE should cater to both.\nJohn also discussed the literature review/curation of Zotero for the larger group.\nChris also shared a slide of guidelines for fair use of generative AI. A member suggested in the chat that the SIGIMIE can coordinate a set of responses to Duolingo’s ethical AI standards. A member (from chat) said we need both technical details and ethical guidelines. I agree with the former that we should respond to the AI standards put out from Duolingo, but we should ultimately try to come up with standards that would apply to the field more broadly.\nOne member also suggested that we get in touch with folks from open AI community (e.g., Eleuther AI, https://www.eleuther.ai/) to see how their data curation methods and LLMs could potentially inform educational applications.\nFinally, we discussed the larger NCME endorsement process and a member said he’d talk to the larger NCME administrators at the next conference."
-  },
-  {
     "objectID": "open-datasets.html",
     "href": "open-datasets.html",
     "title": "Open Datasets",

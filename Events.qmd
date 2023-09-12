@@ -6,11 +6,11 @@ On this page, we aim to keep you up-to-date on events relevant to AI in Educatio
 
 ### **Member Events 2023**
 
--   June 14th 4:00pm - 5:00pm (EST) over Zoom. [Notes](meetings/June14-202.html)
+-   June 14th 4:00pm - 5:00pm (EST) over Zoom. [Notes](meetings/June14-202.html) [Slides](meetings/June2023/slides.pdf)
 
 **Introductory meeting**
 
--   July 12th 4:00pm - 5:00pm (EST) over Zoom.
+-   July 12th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/July2023/slides.pdf)
 
 **Title:** "Khanmigo" Demonstration & Lessons Learned Building GenAI Apps
 
@@ -20,13 +20,15 @@ On this page, we aim to keep you up-to-date on events relevant to AI in Educatio
 
 **Presenter:** Chris Ormerod, Principal Data Scientist, Cambium Assessment
 
--   August 9th 4:00pm - 5:00pm (EST) over Zoom.
+-   August 9th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/August2023/slides.pdf)
 
-**Title :** Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning \[[link](https://us06web.zoom.us/rec/share/5o6RtYJJFZgbRRbZBkRfQ9RbuoVnrFN2kFfEAyPRWShEtb-jyrQMmlQK1VfkL707.kgteeW6fkLc5HGnA)\] (Passcode: BaF?W=\@6)
+**Title :** Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning
 
 **Presenter:** Andrew Lan, University of Massachusetts Amherst
 
--   September 13th 4:00pm - 5:00pm (EST)
+**Recording :** \[[link](https://us06web.zoom.us/rec/share/5o6RtYJJFZgbRRbZBkRfQ9RbuoVnrFN2kFfEAyPRWShEtb-jyrQMmlQK1VfkL707.kgteeW6fkLc5HGnA)\] (Passcode: BaF?W=\@6)
+
+-   September 13th 4:00pm - 5:00pm (EST). Slides
 
 **Title:** Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks
 
