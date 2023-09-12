@@ -1,46 +1,39 @@
 ---
-title: "Artificial Intelligence in Measurement and Education"
+title: "October 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting"
  
 format: beamer
 ---
 
-# Introductions - Positioning
+# Outline
+-   Overview & Updates
+-   Today's Speaker: Andrew Runge, Duolingo
+-   Additional SIG Updates & Calls for Participation 
 
-## Executive Board
+# Overview & Updates
 
--   Chair: Chris Ormerod
+## Welcome to new members and everyone who has joined today's call!!
 
--   Co-chair: John Whitmer
+## Quick Updates
 
--   Secretary: Maggie Beiting-Parrish
+-   We're official! NCME Board approved and announced to membership; please share with colleagues (signup via [NCME Website](https://www.ncme.org/community/ncme-sigimie/aime))
+-   We are "Artificial Intelligence in Measurement and Education (AIME)" (not GAIME)
+-   Will continue monthly speaker series, invite community to self-nominate to present
 
-## Welcome to all our new members and everyone who has joined the call!!
-
-# Research Presentations
+# Today's Research Presentation
 
 **Speaker:** Andrew Runge, Senior AI Research Engineer at Duolingo
 
 **Title:** Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks
 
-# Name Change
+# Additional SIG Updates & Calls for Participation 
 
-In our original submission to the NCME, we asked to be called
 
-## Artificial Intelligence in Measurement and Education (AIME)
 
-In subsequent meetings, we have been using
-
-## Generative Artificial Intelligence in Measurement and Education (GAIME)
-
-The NCME saw that including AI more generally was a positive for the group.
-
-# White Paper Proposal
-
-## Call for Participation - The ethical use of AI in education
+## # White Paper Proposal - Call for Participation - The ethical use of AI in education
 
 We are looking for researchers to contribute to a white paper on the Ethical use of AI in Measurement and Education. Examples of topics include the follow:
 
--   Accountability when AI is used.
+-   Accountability when AI is used
 
 -   Appropriate use of AI
 
@@ -56,23 +49,23 @@ If you are interested, please email Okan Bulut at bulut\@ualberta.ca.
 
 ## Resources purchases ranking
 
-We have submitted the following items for board approval
+We have requested the following purchases with our SIG funds
 
--   Zoom account
+-   Zoom account (in case we grow >100)
 
--   Github Organization
+-   Github Organization (for code sharing and management)
 
--   Zotero w/shared space
+-   Zotero w/shared space (for sharing docs and pubs privately)
 
--   Paid website domain name
+-   Paid website domain name (for public space for resources)
 
-# Next Month Speaker
+# Next Month's Speaker
 
 **Speaker:** Noah Goodman, Stanford University
 
 **Title**: TBD
 
-# Publication Oppotunities
+# Publication & Position Opportunities
 
 ## **Leveraging Large Language Models for Assessment Support: Applications and Implications**
 
@@ -84,3 +77,26 @@ Contact: Prof. Rafael Ferreira Mello at rflm\@cesar.org.br
 URL: [Call for Papers](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence/about/call-for-papers#leveraging-large-language-models-for-assessment-support-applications-and-implications)
 
 This special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with *particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity*. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process.
+
+## Assistant Professor of Artificial Intelligence in Learning and Education @ Harvard University 
+
+The Harvard Graduate School of Education (HGSE) invites applications for a full-time, tenure track faculty position at the rank of Assistant Professor focused on artificial intelligence (AI) in learning and education.
+
+We seek scholars whose research, teaching, and impact in the field will advance one or more dimensions of AI in learning and education, including but not limited to: 
+-     Theoretical and Empirical Foundations: Investigating the foundational theoretical principles of various learning processes in relation to AI, and/or examining these through empirical studies to understand their impact on learning and cognition.
+-     Design: Conceptualizing, creating, and evaluating AI-based designs, such as tools or curricula used in classrooms, online platforms, and out-of-school-time settings.
+-     Practice: Analyzing the pedagogical potentials and complexities of AI, attending to learners’ present needs and preparation for future needs in life and work.
+-     Ethical and Societal Implications: Interrogating the ethical, historical, and cultural impacts of AI in learning and education, such as privacy and bias.
+
+Strong applicants will be distinguished by the quality of their research, their use of rigorous methods, and the significance of their work for policy and practice.
+
+## Postdoc Research Association - AI Learning Technologies @ USC
+
+The Learning Sciences group would like to share a position opening for a postdoctoral researcher. If you have any questions, please contact Dr. Ben Nye (nye@ict.usc.edu).
+
+Additional details are below.
+--------------------------------------------------------------------------------
+Postdoctoral Research Associate - AI Learning Technologies
+University of Southern California, Institute for Creative Technologies
+
+Apply at: https://usccareers.usc.edu/job/los-angeles/postdoctoral-research-associate-ai-learning-technologies/1209/53758066992
