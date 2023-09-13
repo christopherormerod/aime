@@ -1,7 +1,9 @@
 ---
 title: "October 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting"
  
-format: beamer
+format: 
+  beamer
+
 ---
 
 # Outline
@@ -29,19 +31,19 @@ format: beamer
 
 
 
-## # White Paper Proposal - Call for Participation - The ethical use of AI in education
+## White Paper Proposal - Call for Participation - The ethical use of AI in educational measurement
 
-We are looking for researchers to contribute to a white paper on the Ethical use of AI in Measurement and Education. Examples of topics include the follow:
+We are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:
 
--   Accountability when AI is used
+-  Accountability when AI is used for measurement
 
--   Appropriate use of AI
+-  Detection and mitigation of algorithmic bias when using AI for measurement
 
--   Measurement and mitigation of bias when using AI
+-  Transparency in the use of AI for measurement
 
--   Transparency in the use of AI
+-  Toxicity in Generative AI
 
--   Toxicity in Generative AI
+-  Regulations on the ethical use of AI for measurement 
 
 If you are interested, please email Okan Bulut at bulut\@ualberta.ca.
 
@@ -78,17 +80,27 @@ URL: [Call for Papers](https://www.sciencedirect.com/journal/computers-and-educa
 
 This special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with *particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity*. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process.
 
+---
+
 ## Assistant Professor of Artificial Intelligence in Learning and Education @ Harvard University 
 
 The Harvard Graduate School of Education (HGSE) invites applications for a full-time, tenure track faculty position at the rank of Assistant Professor focused on artificial intelligence (AI) in learning and education.
 
-We seek scholars whose research, teaching, and impact in the field will advance one or more dimensions of AI in learning and education, including but not limited to: 
--     Theoretical and Empirical Foundations: Investigating the foundational theoretical principles of various learning processes in relation to AI, and/or examining these through empirical studies to understand their impact on learning and cognition.
--     Design: Conceptualizing, creating, and evaluating AI-based designs, such as tools or curricula used in classrooms, online platforms, and out-of-school-time settings.
--     Practice: Analyzing the pedagogical potentials and complexities of AI, attending to learners’ present needs and preparation for future needs in life and work.
--     Ethical and Societal Implications: Interrogating the ethical, historical, and cultural impacts of AI in learning and education, such as privacy and bias.
+We seek scholars whose research, teaching, and impact in the field will advance one or more dimensions of AI in learning and education, including but not limited to:
+
+- Theoretical and Empirical Foundations: Investigating the foundational theoretical principles of various learning processes in relation to AI, and/or examining these through empirical studies to understand their impact on learning and cognition.
+
+- Design: Conceptualizing, creating, and evaluating AI-based designs, such as tools or curricula used in classrooms, online platforms, and out-of-school-time settings.
+
+---
+
+- Practice: Analyzing the pedagogical potentials and complexities of AI, attending to learners’ present needs and preparation for future needs in life and work.
+
+- Ethical and Societal Implications: Interrogating the ethical, historical, and cultural impacts of AI in learning and education, such as privacy and bias.
 
 Strong applicants will be distinguished by the quality of their research, their use of rigorous methods, and the significance of their work for policy and practice.
+
+---
 
 ## Postdoc Research Association - AI Learning Technologies @ USC
 
