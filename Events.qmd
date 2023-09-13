@@ -78,19 +78,6 @@ September 13th 4:00pm - 5:00pm (EST).
 
 This is a running list of potentially relevant publication opportunities for Generative AI.
 
-### **Future Shock: Grappling with the Generative AI Revolution** {.smaller}
-
-Journal: Harvard Data Science Review\
-Published: 11 Jul 2023\
-Deadline: 25 August 2023
-
-URL: [Call for papers](https://assets.pubpub.org/tbjq9yfk/Future%20Shock%20Open%20Call%20(generic)-51688668907094.pdf)\
-
-Articles clarifying the nature and limitations of foundation models, large language models (LLMs), and generative AI applications. Articles exploring the wider societal risks and impacts of foundation models, LLMs, and generative AI applications.
-
-### NCME
-
-Deadline: 28 August 2023 URL: [here](https://www.ncme.org/event/annual-meeting/upcoming-meeting2024#:~:text=Proposal%20Submission%20Timeline&text=NCME%20will%20accept%20the%20submission,not%20anticipate%20extending%20the%20deadline.)
 
 ### **Leveraging Large Language Models for Assessment Support: Applications and Implications**
 
