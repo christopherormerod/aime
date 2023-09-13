@@ -31,7 +31,7 @@ format:
 
 
 
-## White Paper Proposal - Call for Participation - The ethical use of AI in educational measurement
+# White Paper Proposal - Call for Participation - The ethical use of AI in educational measurement
 
 We are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:
 
@@ -46,6 +46,23 @@ We are looking for researchers to contribute to a white paper on the Ethical use
 -  Regulations on the ethical use of AI for measurement 
 
 If you are interested, please email Okan Bulut at bulut\@ualberta.ca.
+
+# NCME 2024 SIG Session Submitted  {.scrollable}
+
+***Using Generative AI in Education: Results from Large-Scale EdTech Platform R&D
+Abstract***
+
+**Presenters** 
+- Andrew Runge (Senior Research Engineer, Duolingo)
+- Andrew Lan (Assistant Professor, UMASS-Amherst) 
+- Kristen Dicerbo (Chief Learning Officer, Khan Academy) 
+- Paul Deane (Principal Research Scientist, ETS) 
+
+Chair: John Whitmer (Senior Fellow, Federation of American Scientists)
+Moderator: Christopher Ormerod (Cambium Assessments) 
+Discussant: Maggie Beiting-Parrish (Federation of American Scientists) 
+
+Full abstract [here](https://docs.google.com/document/d/1zCSfRlUlJS6hiXhLQY6fZHsEoyxY5jkhcfu-wkzRK6w/edit)
 
 # Resources
 
