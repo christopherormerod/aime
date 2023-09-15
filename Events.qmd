@@ -6,11 +6,17 @@ On this page, we aim to keep you up-to-date on events relevant to AI in Educatio
 
 ### **Member Events 2023**
 
----
+------------------------------------------------------------------------
 
 June 14th 4:00pm - 5:00pm (EST) over Zoom. [Notes](meetings/June14-202.html) [Slides](meetings/June2023/slides.pdf)
 
 **Introductory meeting**
+
+------------------------------------------------------------------------
+
+## Speaker Series
+
+If you are interested in presenting, please contact the leadership team. Guidelines for speakers can be found [here](guidelines.html).
 
 ---
 
@@ -24,7 +30,7 @@ July 12th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/July2023/slides.pdf
 
 **Presenter:** Chris Ormerod, Principal Data Scientist, Cambium Assessment
 
----
+------------------------------------------------------------------------
 
 August 9th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/August2023/slides.pdf)
 
@@ -34,7 +40,7 @@ August 9th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/August2023/slides.
 
 **Recording :** \[[link](https://us06web.zoom.us/rec/share/5o6RtYJJFZgbRRbZBkRfQ9RbuoVnrFN2kFfEAyPRWShEtb-jyrQMmlQK1VfkL707.kgteeW6fkLc5HGnA)\] (Passcode: BaF?W=\@6)
 
----
+------------------------------------------------------------------------
 
 September 13th 4:00pm - 5:00pm (EST).
 
@@ -42,7 +48,7 @@ September 13th 4:00pm - 5:00pm (EST).
 
 **Presenter:** Andrew Runge, Duolingo
 
----
+------------------------------------------------------------------------
 
 -   October 11th 4:00pm - 5:00pm (EST)
 
@@ -50,7 +56,7 @@ September 13th 4:00pm - 5:00pm (EST).
 
 **Presenter:** Noah Goodman
 
----
+------------------------------------------------------------------------
 
 -   November 8th 4:00pm - 5:00pm (EST)
 
@@ -58,7 +64,7 @@ September 13th 4:00pm - 5:00pm (EST).
 
 **Presenter:** TBD
 
----
+------------------------------------------------------------------------
 
 -   December 13th 4:00pm - 5:00pm (EST)
 
@@ -66,7 +72,7 @@ September 13th 4:00pm - 5:00pm (EST).
 
 **Presenter:** TBD
 
----
+------------------------------------------------------------------------
 
 ### **Conferences**
 
@@ -77,7 +83,6 @@ September 13th 4:00pm - 5:00pm (EST).
 ## Active Publication Opportunities
 
 This is a running list of potentially relevant publication opportunities for Generative AI.
-
 
 ### **Leveraging Large Language Models for Assessment Support: Applications and Implications**
 
