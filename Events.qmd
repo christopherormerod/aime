@@ -18,7 +18,7 @@ June 14th 4:00pm - 5:00pm (EST) over Zoom. [Notes](meetings/June14-202.html) [Sl
 
 If you are interested in presenting, please contact the leadership team. Guidelines for speakers can be found [here](guidelines.html).
 
----
+------------------------------------------------------------------------
 
 July 12th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/July2023/slides.pdf)
 
@@ -83,6 +83,24 @@ September 13th 4:00pm - 5:00pm (EST).
 ## Active Publication Opportunities
 
 This is a running list of potentially relevant publication opportunities for Generative AI.
+
+# White Paper Proposal
+
+## Call for Participation - The ethical use of AI in educational measurement
+
+We are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:
+
+-   Accountability when AI is used for measurement
+
+-   Detection and mitigation of algorithmic bias when using AI for measurement
+
+-   Transparency in the use of AI for measurement
+
+-   Toxicity in generative AI applications
+
+-   Regulations on the ethical use of AI for measurement
+
+If you are interested, please email Okan Bulut at [bulut\@ualberta.ca](mailto:bulut@ualberta.ca).
 
 ### **Leveraging Large Language Models for Assessment Support: Applications and Implications**
 
