@@ -1,5 +1,5 @@
 ---
-title: "October 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting"
+title: "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting"
  
 format: 
   beamer

@@ -14,18 +14,74 @@
     "text": "On this page, we aim to keep you up-to-date on events relevant to AI in Education."
   },
   {
+    "objectID": "events.html#speaker-series",
+    "href": "events.html#speaker-series",
+    "title": "Events",
+    "section": "Speaker Series",
+    "text": "Speaker Series\nIf you are interested in presenting, please contact the leadership team. Guidelines for speakers can be found here.\n\nJuly 12th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle: “Khanmigo” Demonstration & Lessons Learned Building GenAI Apps\nPresenter: Kristen Dicerbo, Chief Learning Officer, Khan Academy\nTitle: Open Source Revolution: Large Models on Small Hardware\nPresenter: Chris Ormerod, Principal Data Scientist, Cambium Assessment\n\nAugust 9th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle : Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning\nPresenter: Andrew Lan, University of Massachusetts Amherst\nRecording : [link] (Passcode: BaF?W=@6)\n\nSeptember 13th 4:00pm - 5:00pm (EST).\nTitle: Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks\nPresenter: Andrew Runge, Duolingo\nRecording : [link] (Passcode: MA4^r8E#)\n\n\nOctober 11th 4:00pm - 5:00pm (EST)\n\nTitle: Alfred\nPresenter: Noah Goodman\n\n\nNovember 8th 4:00pm - 5:00pm (EST)\n\nTitle: TBD\nPresenter: TBD\n\n\nDecember 13th 4:00pm - 5:00pm (EST)\n\nTitle: TBD\nPresenter: TBD\n\n\nConferences\n\nInternational Workshop on Artificial Intelligence and Education (WAIE 2023) WAIE is an annual event which aims at a key theme on Artificial Intelligence and Education. WAIE 2023 is intended to provide a stimulating forum for researchers, scientists, engineers and practitioners to present their latest research findings, ideas, developments and applications in all aspects of Artificial Intelligence and Education. WAIE 2023 will include keynote addresses by eminent scientists as well as plenary, special and regular presentation sessions. Peer review of all the papers will use a blind process and acceptance will be based on quality, originality and relevance.\nEmerging Generative AI Trends Spurred on by the release of ChatGPT in November 2022, Generative AI has the potential to transform the way all enterprises do work, keep up with their competitors, and manage risk. High value use cases for Generative AI are emerging and impacting every industry and job role. CIOs must quickly understand the implications for their organizations and provide critical leadership to define their strategy and take action. Realizing Generative AI’s full competitive potential will require building the right portfolio, ecosystem, deployment model, skills and governance. (October 16–19, 2023)"
+  },
+  {
     "objectID": "events.html#active-publication-opportunities",
     "href": "events.html#active-publication-opportunities",
     "title": "Events",
     "section": "Active Publication Opportunities",
-    "text": "Active Publication Opportunities\nThis is a running list of potentially relevant publication opportunities for Generative AI.\n\nLeveraging Large Language Models for Assessment Support: Applications and Implications\nJournal: Computers and Education: Artificial Intelligence (Open Access) \nPublished: 28 June 2023\nDeadline: 30 October 2023\nContact: Prof. Rafael Ferreira Mello at rflm@cesar.org.br\nURL: Call for Papers\nThis special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process. We particularly encourage empirical research that employs rigorous methodologies, such as experimental studies, case studies, and surveys, to provide evidence of the effectiveness and impact of LLMs on assessment. Additionally, we welcome theoretical papers offering a nuanced and comprehensive understanding of the topic and its educational implications (e.g., for ethics and trustworthiness). Overall, this special issue aims to advance state-of-the-art research by integrating LLMs in the assessment process and identifying key directions for future research in this promising area.\nPlease send any new entries to John Whitmer jwhitmer@fas.org and Maggie Beiting-Parrish Magdalen.Beiting@ed.gov"
+    "text": "Active Publication Opportunities\nThis is a running list of potentially relevant publication opportunities for Generative AI."
+  },
+  {
+    "objectID": "events.html#call-for-participation---the-ethical-use-of-ai-in-educational-measurement",
+    "href": "events.html#call-for-participation---the-ethical-use-of-ai-in-educational-measurement",
+    "title": "Events",
+    "section": "Call for Participation - The ethical use of AI in educational measurement",
+    "text": "Call for Participation - The ethical use of AI in educational measurement\nWe are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:\n\nAccountability when AI is used for measurement\nDetection and mitigation of algorithmic bias when using AI for measurement\nTransparency in the use of AI for measurement\nToxicity in generative AI applications\nRegulations on the ethical use of AI for measurement\n\nIf you are interested, please email Okan Bulut at bulut@ualberta.ca.\n\nLeveraging Large Language Models for Assessment Support: Applications and Implications\nJournal: Computers and Education: Artificial Intelligence (Open Access) \nPublished: 28 June 2023\nDeadline: 30 October 2023\nContact: Prof. Rafael Ferreira Mello at rflm@cesar.org.br\nURL: Call for Papers\nThis special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process. We particularly encourage empirical research that employs rigorous methodologies, such as experimental studies, case studies, and surveys, to provide evidence of the effectiveness and impact of LLMs on assessment. Additionally, we welcome theoretical papers offering a nuanced and comprehensive understanding of the topic and its educational implications (e.g., for ethics and trustworthiness). Overall, this special issue aims to advance state-of-the-art research by integrating LLMs in the assessment process and identifying key directions for future research in this promising area.\nPlease send any new entries to John Whitmer jwhitmer@fas.org and Maggie Beiting-Parrish Magdalen.Beiting@ed.gov"
+  },
+  {
+    "objectID": "guidelines.html",
+    "href": "guidelines.html",
+    "title": "Guidelines for a Talk at AIME",
+    "section": "",
+    "text": "Firstly, we appreciate all the time our speakers dedicate to giving a talk in the AIME speaker series. This speaker series was designed as an interdisciplinary collaboration between data scientists and psychometricians. The idea behind this merger was to pair the use of AI in teaching and assessment with the expertise required to measure their educational benefits. Examples of topics of interest to the series include:\nAs the field of data science and NLP continues to develop, we expect that new applications to education will arise. We are very interested in data scientists who are actively seeking educational applications of their research."
+  },
+  {
+    "objectID": "guidelines.html#getting-started",
+    "href": "guidelines.html#getting-started",
+    "title": "Guidelines for a Talk at AIME",
+    "section": "Getting Started",
+    "text": "Getting Started\nLike any talk, the first two things we will need from you are a Title and Abstract (&lt;200 words), which will be used to advertise the talk. As a special interest group of the National Council for Measurement in Education (NCME), it will be advertised to all (approximately 1,800) members of the NCME. We will also advertise the event to SIG members through our group email. Feel free to share the provided link to anyone who might be interested.\nWe also encourage presenters to provide draft slides to the AIME leadership group for feedback ~1 week before their session."
+  },
+  {
+    "objectID": "guidelines.html#audience",
+    "href": "guidelines.html#audience",
+    "title": "Guidelines for a Talk at AIME",
+    "section": "Audience",
+    "text": "Audience\nThis SIGIMIE serves as an intellectual home for data scientists and psychometricians who are interested in the applications of AI to education. Our members are a mix of academics, industry professionals, and government researchers. This means that most members hold advanced degrees in a scientific or educational discipline with a solid statistical background. With this being the case, many of our members will be as interested in the methodologies you present as the final results; please spend some time discussing technical details about your approach."
+  },
+  {
+    "objectID": "guidelines.html#timing",
+    "href": "guidelines.html#timing",
+    "title": "Guidelines for a Talk at AIME",
+    "section": "Timing",
+    "text": "Timing\nOne of the great things about an AIME talk is the discussions afterwards. It is difficult for these discussions to take place if a talk is too long. For this reason, we kindly ask speakers to limit their presentation to 30 minutes unless otherwise advised. The organizers will provide you with the time you have remaining."
+  },
+  {
+    "objectID": "guidelines.html#recording-and-slides",
+    "href": "guidelines.html#recording-and-slides",
+    "title": "Guidelines for a Talk at AIME",
+    "section": "Recording and Slides",
+    "text": "Recording and Slides\nIt is expected that many of our members have prior commitments that may exclude them from participating on the day of your talk. For this reason, we record talks and make any supplementary materials available on the AIME website. This ensures that people don’t miss out on your presentation if they cannot attend, and they are also able to explore the details at their own pace afterwards. Please let us know of any copyright issues that may prevent the open dissemination of any material provided. (We encourage, Creative Commons By-Share-alike licensing for presentations)."
+  },
+  {
+    "objectID": "guidelines.html#have-fun",
+    "href": "guidelines.html#have-fun",
+    "title": "Guidelines for a Talk at AIME",
+    "section": "Have Fun",
+    "text": "Have Fun\nLastly, have some fun with it. If you are like us, then you believe the application of AI to educational measurement presents an exciting interdisciplinary opportunity. Let your passion resonate in what you say and how you say it. The more you are excited about your work, the more likely everyone else will be excited by it too."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Welcome to the (proposed) Special Interest Group on Artificial Intelligence in Measurement and Education (AIME) with the National Council of Measurement in Education. Our goal is to serve as an intellectual home for data scientists and psychometricians interested in the application of AI to measurement and education.\nA draft of our charter can be found here.\nOur NCME webpage can be found here.\nInterested in joining us? The signup form can be found here. We currently hold monthly meetings and are organizing a speaker series."
+    "text": "Welcome to the (proposed) Special Interest Group on Artificial Intelligence in Measurement and Education (AIME) with the National Council of Measurement in Education. Our goal is to serve as an intellectual home for data scientists and psychometricians interested in the application of AI to measurement and education.\nOur charter can be found here.\nOur NCME webpage can be found here.\nInterested in joining us? The signup form can be found here. We currently hold monthly meetings and are organizing a speaker series."
   },
   {
     "objectID": "literature.html",
