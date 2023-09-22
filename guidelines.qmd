@@ -1,39 +1,39 @@
 ---
 title: "Guidelines for a Talk at AIME"
 ---
- 
+
 Firstly, we appreciate all the time our speakers dedicate to giving a talk in the AIME speaker series. This speaker series was designed as an interdisciplinary collaboration between data scientists and psychometricians. The idea behind this merger was to pair the use of AI in teaching and assessment with the expertise required to measure their educational benefits. Examples of topics of interest to the series include:
- 
+
 -   The use of generative AI in test development.
- 
+
 -   Automated Tutoring Systems and Automated Writing Evaluation Systems.
- 
+
 -   Automated Scoring of Constructed Responses.
- 
+
 -   Fairness, Accountability, Transparency, and Ethics (FATE) around the use of AI in education.
- 
+
 -   The evaluation and mitigation of Bias in AI.
- 
+
 As the field of data science and NLP continues to develop, we expect that new applications to education will arise. We are very interested in data scientists who are actively seeking educational applications of their research.
- 
+
 ## Getting Started
- 
-Like any talk, the first two things we will need from you are a **Title** and **Abstract** (<200 words), which will be used to advertise the talk. As a special interest group of the National Council for Measurement in Education ([NCME](https://www.ncme.org/)), it will be advertised to all (approximately 1,800) members of the NCME. We will also advertise the event to SIG members through our group email. Feel free to share the provided link to anyone who might be interested. 
- 
-We also encourage presenters to provide draft slides to the AIME leadership group for feedback  ~1 week before their session.
- 
+
+Like any talk, the first two things we will need from you are a **Title** and **Abstract** (\<200 words), which will be used to advertise the talk. As a special interest group of the National Council for Measurement in Education ([NCME](https://www.ncme.org/)), it will be advertised to all (approximately 1,800) members of the NCME. We will also advertise the event to SIG members through our group email. Feel free to share the provided link to anyone who might be interested.
+
+We also encourage presenters to provide draft slides to the AIME leadership group for feedback \~1 week before their session.
+
 ## Audience
- 
+
 This SIGIMIE serves as an intellectual home for data scientists and psychometricians who are interested in the applications of AI to education. Our members are a mix of academics, industry professionals, and government researchers. This means that most members hold advanced degrees in a scientific or educational discipline with a solid statistical background. With this being the case, many of our members will be as interested in the methodologies you present as the final results; please spend some time discussing technical details about your approach.
- 
+
 ## Timing
- 
+
 One of the great things about an AIME talk is the discussions afterwards. It is difficult for these discussions to take place if a talk is too long. For this reason, we kindly ask speakers to limit their presentation to **30 minutes** unless otherwise advised. The organizers will provide you with the time you have remaining.
- 
+
 ## Recording and Slides
- 
+
 It is expected that many of our members have prior commitments that may exclude them from participating on the day of your talk. For this reason, we record talks and make any supplementary materials available on the AIME website. This ensures that people don't miss out on your presentation if they cannot attend, and they are also able to explore the details at their own pace afterwards. Please let us know of any copyright issues that may prevent the open dissemination of any material provided. (We encourage, Creative Commons By-Share-alike licensing for presentations).
- 
+
 ## Have Fun
- 
-Lastly, have some fun with it. If you are like us, then you believe the application of AI to educational measurement presents an exciting interdisciplinary opportunity. Let your passion resonate in what you say and how you say it. The more you are excited about your work, the more likely everyone else will be excited by it too. 
+
+Lastly, have some fun with it. If you are like us, then you believe the application of AI to educational measurement presents an exciting interdisciplinary opportunity. Let your passion resonate in what you say and how you say it. The more you are excited about your work, the more likely everyone else will be excited by it too.
