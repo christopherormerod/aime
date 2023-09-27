@@ -1,6 +1,6 @@
 ---
-title: "Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting"
-
+title: "Artificial Intelligence in Measurement and Education"
+ 
 format: 
   revealjs:
     logo: ../../images/logo-no-background-name.png
@@ -125,7 +125,7 @@ Strong applicants will be distinguished by the quality of their research, their 
 The Learning Sciences group would like to share a position opening for a postdoctoral researcher. If you have any questions, please contact Dr. Ben Nye (nye@ict.usc.edu).
 
 Additional details are below.
---------------------------------------------------------------------------------
+---
 Postdoctoral Research Associate - AI Learning Technologies
 University of Southern California, Institute for Creative Technologies
 
