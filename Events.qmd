@@ -52,7 +52,7 @@ September 13th 4:00pm - 5:00pm (EST). [Slides](meetings/September2023/slides.htm
 
 ------------------------------------------------------------------------
 
--   October 11th 4:00pm - 5:00pm (EST)
+October 11th 4:00pm - 5:00pm (EST)
 
 **Title:** Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies
 
@@ -60,7 +60,7 @@ September 13th 4:00pm - 5:00pm (EST). [Slides](meetings/September2023/slides.htm
 
 ------------------------------------------------------------------------
 
--   November 8th 4:00pm - 5:00pm (EST)
+November 8th 4:00pm - 5:00pm (EST)
 
 **Title:** TBD
 
