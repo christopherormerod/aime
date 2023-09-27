@@ -20,7 +20,7 @@ If you are interested in presenting, please contact the leadership team. Guideli
 
 ------------------------------------------------------------------------
 
-July 12th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/July2023/slides.pdf)
+July 12th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/July2023/slides.html)
 
 **Title:** "Khanmigo" Demonstration & Lessons Learned Building GenAI Apps
 
@@ -32,7 +32,7 @@ July 12th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/July2023/slides.pdf
 
 ------------------------------------------------------------------------
 
-August 9th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/August2023/slides.pdf)
+August 9th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/August2023/slides.html)
 
 **Title :** Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning
 
@@ -42,21 +42,21 @@ August 9th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/August2023/slides.
 
 ------------------------------------------------------------------------
 
-September 13th 4:00pm - 5:00pm (EST).
+September 13th 4:00pm - 5:00pm (EST). [Slides](meetings/September2023/slides.html)
 
 **Title:** Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks
 
 **Presenter:** Andrew Runge, Duolingo
 
-**Recording :** \[[link](https://us06web.zoom.us/rec/share/4NrrZz3BHsylFTjWaRT5PSZQ7-oqXw0FkuV7igUO26QfY1YcJY5hDYpIj5zcAnYz.mo5Vu0kQERdtpjUP)\] (Passcode:  MA4^r8E#)
+**Recording :** \[[link](https://us06web.zoom.us/rec/share/4NrrZz3BHsylFTjWaRT5PSZQ7-oqXw0FkuV7igUO26QfY1YcJY5hDYpIj5zcAnYz.mo5Vu0kQERdtpjUP)\] (Passcode: MA4\^r8E#)
 
 ------------------------------------------------------------------------
 
 -   October 11th 4:00pm - 5:00pm (EST)
 
-**Title:** Alfred
+**Title:** Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies
 
-**Presenter:** Noah Goodman
+**Presenter:** Réne Kizilcec, Assistant Professor, Purdue University
 
 ------------------------------------------------------------------------
 

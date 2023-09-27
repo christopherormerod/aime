@@ -3,16 +3,15 @@ project:
   output-dir: docs
     
 website:
-  title: "AI in Measurement and Education"
   navbar:
+    logo: images/logo-no-background.png
     left:
       - index.qmd
       - about.qmd
       - open-datasets.qmd
       - events.qmd
       - literature.qmd
-      
-
+    
 bibliography: resources/gaime-biblio.bib
 
 format:

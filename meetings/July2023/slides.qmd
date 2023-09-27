@@ -1,35 +1,38 @@
 ---
-title: "Generative Artificial Intelligence in Measurement and Education"
-
-format: beamer
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background.png
+    theme: [default, ../aime_theme.scss]
 ---
 
-## Introductions - Positioning
+# Introductions - Positioning
 
-### Executive Board
+## Executive Board
 
--   Chair: Chris Ormerod
+-   Co-Chair: Chris Ormerod
 
 -   Co-chair: John Whitmer
 
 -   Secretary: Maggie Beiting-Parrish
 
-### Research Presentations
+# Research Presentations
 
-Kristen Dicerbo, Chief Learning Officer, Khan Academy"
+- Kristen Dicerbo, Chief Learning Officer, Khan Academy"
 
 "Khanmigo" Demonstration & Lessons Learned Building GenAI Apps
 
-Chris Ormerod, Principal Data Scientist, Cambium Assessment
+- Chris Ormerod, Principal Data Scientist, Cambium Assessment
 
 The Open Source Revolution: Large Models on Small Hardware
 
-### Update the Status
+# Update the Status
 
 We have attempted to reach Big Data. We proceeded without their input.
 
 Executive committee will proceed and review our status at the July 21 meeting.
 
-### Publications
+# Publications
 
 NCME Presentations

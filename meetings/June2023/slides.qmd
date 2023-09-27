@@ -1,12 +1,15 @@
 ---
-title: "Generative Artificial Intelligence in Measurement and Education"
-
-format: beamer
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background.png
+    theme: [default, ../aime_theme.scss]
 ---
 
-## Introductions
+# Introductions
 
-### Executive Board
+## Executive Board
 
 -   Chair: Chris Ormerod
 
@@ -14,7 +17,7 @@ format: beamer
 
 -   Secretary: Maggie Beiting-Parrish
 
-### Members in attendance
+# Members in attendance
 
 Introductions:
 
@@ -24,7 +27,7 @@ Organization
 
 What you can contribute and/or learn.
 
-## Meeting Norms
+# Meeting Norms
 
 -   Punctuality & Agenda
 
@@ -34,9 +37,9 @@ What you can contribute and/or learn.
 
 -   Collaboration and mutual support.
 
-## Overview of GAIME
+# Overview of GAIME
 
-### Charter
+## Charter
 
 We seek to create an intellectual home within NCME for researchers interested in:
 
@@ -46,7 +49,7 @@ We seek to create an intellectual home within NCME for researchers interested in
 
 -   Formative Feedback
 
-### Update the Status
+## Update the Status
 
 Executive committee has agreed to put the matter to the full board at the July 21 meeting. Summary of points raised: 
 
@@ -54,13 +57,13 @@ Executive committee has agreed to put the matter to the full board at the July 2
 
 -   How to leverage NCME website infrastructure.
 
-### Outline the Benefits
+## Outline the Benefits
 
 Coordinated Sessions, NCME resources, collaborations.
 
-## Brainstorm
+# Brainstorm
 
-### Speaker Series
+## Speaker Series
 
 -   Foundational Research.
 
@@ -68,17 +71,17 @@ Coordinated Sessions, NCME resources, collaborations.
 
 -   Involving non-measurement industry.
 
-### Literature Review and Synthesis
+## Literature Review and Synthesis
 
-### Resarch project Collaborations
+## Resarch project Collaborations
 
-### Promotion of Events and Resources
+## Promotion of Events and Resources
 
-### Dicussion
+## Dicussion
 
 ## Initial Tools
 
-### Website
+## Website
 
 https://github.com/christopherormerod/gaime
 
