@@ -1,9 +1,10 @@
 ---
-title: "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting"
- 
-format: 
-  revealjs
+title: "Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting"
 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
 ---
 
 # Outline

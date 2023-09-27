@@ -8,7 +8,7 @@ On this page, we aim to keep you up-to-date on events relevant to AI in Educatio
 
 ------------------------------------------------------------------------
 
-June 14th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/June2023/slides.html)
+June 14th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/June2023/slides.html) [Notes](meetings/June14-202.html)
 
 **Introductory meeting**
 
@@ -104,7 +104,7 @@ We are looking for researchers to contribute to a white paper on the Ethical use
 
 If you are interested, please email Okan Bulut at [bulut\@ualberta.ca](mailto:bulut@ualberta.ca).
 
-### **Leveraging Large Language Models for Assessment Support: Applications and Implications**
+## **Leveraging Large Language Models for Assessment Support: Applications and Implications**
 
 Journal: Computers and Education: Artificial Intelligence (Open Access) \
 Published: 28 June 2023\

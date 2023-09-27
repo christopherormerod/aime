@@ -3,8 +3,8 @@ title: "Artificial Intelligence in Measurement and Education"
  
 format: 
   revealjs:
-    logo: ../../images/logo-no-background.png
-    theme: [default, ../aime_theme.scss]
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
 ---
 
 # Introductions - Positioning

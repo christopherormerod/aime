@@ -32,7 +32,14 @@
     "href": "events.html#call-for-participation---the-ethical-use-of-ai-in-educational-measurement",
     "title": "Events",
     "section": "Call for Participation - The ethical use of AI in educational measurement",
-    "text": "Call for Participation - The ethical use of AI in educational measurement\nWe are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:\n\nAccountability when AI is used for measurement\nDetection and mitigation of algorithmic bias when using AI for measurement\nTransparency in the use of AI for measurement\nToxicity in generative AI applications\nRegulations on the ethical use of AI for measurement\n\nIf you are interested, please email Okan Bulut at bulut@ualberta.ca.\n\nLeveraging Large Language Models for Assessment Support: Applications and Implications\nJournal: Computers and Education: Artificial Intelligence (Open Access) \nPublished: 28 June 2023\nDeadline: 30 October 2023\nContact: Prof. Rafael Ferreira Mello at rflm@cesar.org.br\nURL: Call for Papers\nThis special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process. We particularly encourage empirical research that employs rigorous methodologies, such as experimental studies, case studies, and surveys, to provide evidence of the effectiveness and impact of LLMs on assessment. Additionally, we welcome theoretical papers offering a nuanced and comprehensive understanding of the topic and its educational implications (e.g., for ethics and trustworthiness). Overall, this special issue aims to advance state-of-the-art research by integrating LLMs in the assessment process and identifying key directions for future research in this promising area.\nPlease send any new entries to John Whitmer jwhitmer@fas.org and Maggie Beiting-Parrish Magdalen.Beiting@ed.gov"
+    "text": "Call for Participation - The ethical use of AI in educational measurement\nWe are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:\n\nAccountability when AI is used for measurement\nDetection and mitigation of algorithmic bias when using AI for measurement\nTransparency in the use of AI for measurement\nToxicity in generative AI applications\nRegulations on the ethical use of AI for measurement\n\nIf you are interested, please email Okan Bulut at bulut@ualberta.ca."
+  },
+  {
+    "objectID": "events.html#leveraging-large-language-models-for-assessment-support-applications-and-implications",
+    "href": "events.html#leveraging-large-language-models-for-assessment-support-applications-and-implications",
+    "title": "Events",
+    "section": "Leveraging Large Language Models for Assessment Support: Applications and Implications",
+    "text": "Leveraging Large Language Models for Assessment Support: Applications and Implications\nJournal: Computers and Education: Artificial Intelligence (Open Access) \nPublished: 28 June 2023\nDeadline: 30 October 2023\nContact: Prof. Rafael Ferreira Mello at rflm@cesar.org.br\nURL: Call for Papers\nThis special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process. We particularly encourage empirical research that employs rigorous methodologies, such as experimental studies, case studies, and surveys, to provide evidence of the effectiveness and impact of LLMs on assessment. Additionally, we welcome theoretical papers offering a nuanced and comprehensive understanding of the topic and its educational implications (e.g., for ethics and trustworthiness). Overall, this special issue aims to advance state-of-the-art research by integrating LLMs in the assessment process and identifying key directions for future research in this promising area.\nPlease send any new entries to John Whitmer jwhitmer@fas.org and Maggie Beiting-Parrish Magdalen.Beiting@ed.gov"
   },
   {
     "objectID": "guidelines.html",
@@ -94,8 +101,8 @@
     "objectID": "meetings/August2023/slides.html#executive-board",
     "href": "meetings/August2023/slides.html#executive-board",
     "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Executive Board",
-    "text": "Executive Board\n\nCo-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+    "section": "",
+    "text": "Co-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
   },
   {
     "objectID": "meetings/August2023/slides.html#update-the-status",
@@ -150,15 +157,22 @@
     "objectID": "meetings/July2023/slides.html#executive-board",
     "href": "meetings/July2023/slides.html#executive-board",
     "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Executive Board",
-    "text": "Executive Board\n\nCo-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+    "section": "",
+    "text": "Co-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+  },
+  {
+    "objectID": "meetings/June14-202.html",
+    "href": "meetings/June14-202.html",
+    "title": "",
+    "section": "",
+    "text": "Generative Artificial Intelligence in Measurement and Education SIGIME Meeting 1\nJune 14, 2023\nDid initial introductions.\nTalked About General Meeting Norms.\nNext, Chris gave an overview of the Charter and next steps.\nChris also explained that we need to differentiate from the Big Data group but did not hear back when he asked about their goals. A member clarified that the larger purpose of that SIGIME was to combine all of the data we have in one place; to support deep learning models etc.\nJohn next shared a brainstorming slide for the different directions the SIGIME can go in, such as a speaker series or works in progress session.\nMost people were interested in that and also suggested getting Kristen DiCerbo to present as well as other people in different industries to partner with. Including the idea of code examples/tutorials.\nChris also suggested a joint Github repo for examples of this code. https://github.com/christopherormerod/gaime  \nA member pointed out that there may be people who are at more of the technical level and more of a high-level and the SIGMIE should cater to both.\nJohn also discussed the literature review/curation of Zotero for the larger group.\nChris also shared a slide of guidelines for fair use of generative AI. A member suggested in the chat that the SIGIMIE can coordinate a set of responses to Duolingo’s ethical AI standards. A member (from chat) said we need both technical details and ethical guidelines. I agree with the former that we should respond to the AI standards put out from Duolingo, but we should ultimately try to come up with standards that would apply to the field more broadly.\nOne member also suggested that we get in touch with folks from open AI community (e.g., Eleuther AI, https://www.eleuther.ai/) to see how their data curation methods and LLMs could potentially inform educational applications.\nFinally, we discussed the larger NCME endorsement process and a member said he’d talk to the larger NCME administrators at the next conference."
   },
   {
     "objectID": "meetings/June2023/slides.html#executive-board",
     "href": "meetings/June2023/slides.html#executive-board",
     "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Executive Board",
-    "text": "Executive Board\n\nChair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+    "section": "",
+    "text": "Co-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
   },
   {
     "objectID": "meetings/June2023/slides.html#charter",
@@ -235,7 +249,7 @@
     "href": "meetings/June2023/slides.html#initial-tools-1",
     "title": "Artificial Intelligence in Measurement and Education",
     "section": "Initial Tools",
-    "text": "Initial Tools\nZotero Group :\nhttps://www.zotero.org/groups/5034711/llms_for_edu"
+    "text": "Initial Tools\n\nZotero Group :\nhttps://www.zotero.org/groups/5034711/llms_for_edu"
   },
   {
     "objectID": "meetings/June2023/slides.html#initial-tools-2",
@@ -256,54 +270,54 @@
     "href": "meetings/June2023/slides.html#meeting-close",
     "title": "Artificial Intelligence in Measurement and Education",
     "section": "Meeting Close",
-    "text": "Meeting Close\nAny final thoughts?"
+    "text": "Meeting Close\n\nAny final thoughts?"
   },
   {
     "objectID": "meetings/September2023/slides.html#welcome-to-new-members-and-everyone-who-has-joined-todays-call",
     "href": "meetings/September2023/slides.html#welcome-to-new-members-and-everyone-who-has-joined-todays-call",
-    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "title": "Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
     "section": "Welcome to new members and everyone who has joined today’s call!!",
     "text": "Welcome to new members and everyone who has joined today’s call!!"
   },
   {
     "objectID": "meetings/September2023/slides.html#quick-updates",
     "href": "meetings/September2023/slides.html#quick-updates",
-    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "title": "Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
     "section": "Quick Updates",
     "text": "Quick Updates\n\nWe’re official! NCME Board approved and announced to membership; please share with colleagues (signup via NCME Website)\nWe are “Artificial Intelligence in Measurement and Education (AIME)” (not GAIME)\nWill continue monthly speaker series, invite community to self-nominate to present"
   },
   {
     "objectID": "meetings/September2023/slides.html#resources-purchases-ranking",
     "href": "meetings/September2023/slides.html#resources-purchases-ranking",
-    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "title": "Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
     "section": "Resources purchases ranking",
     "text": "Resources purchases ranking\nWe have requested the following purchases with our SIG funds\n\nZoom account (in case we grow &gt;100)\nGithub Organization (for code sharing and management)\nZotero w/shared space (for sharing docs and pubs privately)\nPaid website domain name (for public space for resources)"
   },
   {
     "objectID": "meetings/September2023/slides.html#leveraging-large-language-models-for-assessment-support-applications-and-implications",
     "href": "meetings/September2023/slides.html#leveraging-large-language-models-for-assessment-support-applications-and-implications",
-    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "title": "Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
     "section": "Leveraging Large Language Models for Assessment Support: Applications and Implications",
     "text": "Leveraging Large Language Models for Assessment Support: Applications and Implications\nJournal: Computers and Education: Artificial Intelligence (Open Access)\nPublished: 28 June 2023\nDeadline: 30 October 2023\nContact: Prof. Rafael Ferreira Mello at rflm@cesar.org.br\nURL: Call for Papers\nThis special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process."
   },
   {
     "objectID": "meetings/September2023/slides.html#assistant-professor-of-artificial-intelligence-in-learning-and-education-harvard-university",
     "href": "meetings/September2023/slides.html#assistant-professor-of-artificial-intelligence-in-learning-and-education-harvard-university",
-    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "title": "Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
     "section": "Assistant Professor of Artificial Intelligence in Learning and Education @ Harvard University",
-    "text": "Assistant Professor of Artificial Intelligence in Learning and Education @ Harvard University\nThe Harvard Graduate School of Education (HGSE) invites applications for a full-time, tenure track faculty position at the rank of Assistant Professor focused on artificial intelligence (AI) in learning and education.\nWe seek scholars whose research, teaching, and impact in the field will advance one or more dimensions of AI in learning and education, including but not limited to:\n\nTheoretical and Empirical Foundations: Investigating the foundational theoretical principles of various learning processes in relation to AI, and/or examining these through empirical studies to understand their impact on learning and cognition.\nDesign: Conceptualizing, creating, and evaluating AI-based designs, such as tools or curricula used in classrooms, online platforms, and out-of-school-time settings."
+    "text": "Assistant Professor of Artificial Intelligence in Learning and Education @ Harvard University\nThe Harvard Graduate School of Education (HGSE) invites applications for a full-time, tenure track faculty position at the rank of Assistant Professor focused on artificial intelligence (AI) in learning and education.\nWe seek scholars whose research, teaching, and impact in the field will advance one or more dimensions of AI in learning and education, including but not limited to:\n\nTheoretical and Empirical Foundations: Investigating the foundational theoretical principles of various learning processes in relation to AI, and/or examining these through empirical studies to understand their impact on learning and cognition.\nDesign: Conceptualizing, creating, and evaluating AI-based designs, such as tools or curricula used in classrooms, online platforms, and out-of-school-time settings.\n\n\n\nPractice: Analyzing the pedagogical potentials and complexities of AI, attending to learners’ present needs and preparation for future needs in life and work.\nEthical and Societal Implications: Interrogating the ethical, historical, and cultural impacts of AI in learning and education, such as privacy and bias.\n\nStrong applicants will be distinguished by the quality of their research, their use of rigorous methods, and the significance of their work for policy and practice."
   },
   {
     "objectID": "meetings/September2023/slides.html#postdoc-research-association---ai-learning-technologies-usc",
     "href": "meetings/September2023/slides.html#postdoc-research-association---ai-learning-technologies-usc",
-    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "title": "Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
     "section": "Postdoc Research Association - AI Learning Technologies @ USC",
     "text": "Postdoc Research Association - AI Learning Technologies @ USC\nThe Learning Sciences group would like to share a position opening for a postdoctoral researcher. If you have any questions, please contact Dr. Ben Nye (nye@ict.usc.edu)."
   },
   {
     "objectID": "meetings/September2023/slides.html#additional-details-are-below.",
     "href": "meetings/September2023/slides.html#additional-details-are-below.",
-    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "title": "Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
     "section": "Additional details are below.",
     "text": "Additional details are below.\nPostdoctoral Research Associate - AI Learning Technologies University of Southern California, Institute for Creative Technologies\nApply at: https://usccareers.usc.edu/job/los-angeles/postdoctoral-research-associate-ai-learning-technologies/1209/53758066992"
   },
@@ -313,5 +327,33 @@
     "title": "Open Datasets",
     "section": "",
     "text": "Training data is required for ML; often authentic data can be difficult to come by. This is a collection of datasets that are generally useful.\nIf you have a dataset you’d like to share (or want to find one not listed here), you might consider one of the open data repositories (e.g. Google Research Datasets, EdData, Data.gov, Dataverse, ICPSR, Datashop, UCI ML Repository).\n\nAutomated Essay Scoring\n\nKaggle ASAP AES Dataset: A dataset containing essays to 8 different essay prompts.\n\n\n\nAutomated Short Answer Scoring\n\nKaggle ASAP SAS Dataset: A dataset containing student responses to 10 different short constructed response prompts.\nPowergrading Short Answer Grading Corpus: This corpus contains the original data analyzed in the following paper: Basu, Jacobs, and Vanderwende, “Powergrading: a Clustering Approach to Amplify Human Effort for Short Answer Grading,” Transactions of the ACL, 2013. Last published: October 4, 2013.\n\n\n\nFormative Feedback\n\nPERSUADE Corpus: The Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements (PERSUADE) corpus which contains over 280,000 discourse annotations for over 25,000 argumentative essays.\nIteraTeR, R3 System, and DEIIteraTeR: A repository that provides datasets and code for preprocessing, training and testing models for Iterative Text Revision.\n\n\n\nItem Generation\n\nSQuAD: This dataset combines the 100,000 questions in SQuAD1.1 with over 50,000 unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. While often use to train question-answering models, this dataset has also been used to help train question generation.\nFairytaleQA: The FairytaleQA dataset was created to address the gaps present in similar datasets, as existing datasets rarely distinguish fine-grained reading skills, such as the understanding of varying narrative elements. The goal of the challenge in the link is to generate high quality questions from the dataset.\n\n\n\nProcess Data for Learning Pathways\n\nEdNet - dataset of all student-system interactions collected over 2 years by Santa, a multi-platform AI tutoring service with more than 780K users in Korea available through Android, iOS and web. Details of dataset are available as a pre–print.\nHarvardX-MITx Person-Course Dataset- this dataset contains information from the first year of edX courses, which are Harvard and MIT’s Massive Open Online Courses (MOOCs). The data includes over 600,000 students and over a billion records.\nOpen University Learning Analytics dataset - contains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules). Presentations of courses start in February and October - they are marked by “B” and “J” respectively. The dataset consists of tables connected using unique identifiers. All tables are stored in the csv format.\n\n\n\nUnlabelled\n\nEvaluating Student Writing"
+  },
+  {
+    "objectID": "meetings/August2023/slides.html",
+    "href": "meetings/August2023/slides.html",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "",
+    "text": "Co-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+  },
+  {
+    "objectID": "meetings/July2023/slides.html",
+    "href": "meetings/July2023/slides.html",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "",
+    "text": "Co-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html",
+    "href": "meetings/June2023/slides.html",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "",
+    "text": "Co-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+  },
+  {
+    "objectID": "meetings/September2023/slides.html",
+    "href": "meetings/September2023/slides.html",
+    "title": "Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "section": "",
+    "text": "Overview & Updates\nToday’s Speaker: Andrew Runge, Duolingo\nAdditional SIG Updates & Calls for Participation"
   }
 ]
