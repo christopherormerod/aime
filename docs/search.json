@@ -18,7 +18,7 @@
     "href": "events.html#speaker-series",
     "title": "Events",
     "section": "Speaker Series",
-    "text": "Speaker Series\nIf you are interested in presenting, please contact the leadership team. Guidelines for speakers can be found here.\n\nJuly 12th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle: “Khanmigo” Demonstration & Lessons Learned Building GenAI Apps\nPresenter: Kristen Dicerbo, Chief Learning Officer, Khan Academy\nTitle: Open Source Revolution: Large Models on Small Hardware\nPresenter: Chris Ormerod, Principal Data Scientist, Cambium Assessment\n\nAugust 9th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle : Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning\nPresenter: Andrew Lan, University of Massachusetts Amherst\nRecording : [link] (Passcode: BaF?W=@6)\n\nSeptember 13th 4:00pm - 5:00pm (EST).\nTitle: Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks\nPresenter: Andrew Runge, Duolingo\nRecording : [link] (Passcode: MA4^r8E#)\n\n\nOctober 11th 4:00pm - 5:00pm (EST)\n\nTitle: Alfred\nPresenter: Noah Goodman\n\n\nNovember 8th 4:00pm - 5:00pm (EST)\n\nTitle: TBD\nPresenter: TBD\n\n\nDecember 13th 4:00pm - 5:00pm (EST)\n\nTitle: TBD\nPresenter: TBD\n\n\nConferences\n\nInternational Workshop on Artificial Intelligence and Education (WAIE 2023) WAIE is an annual event which aims at a key theme on Artificial Intelligence and Education. WAIE 2023 is intended to provide a stimulating forum for researchers, scientists, engineers and practitioners to present their latest research findings, ideas, developments and applications in all aspects of Artificial Intelligence and Education. WAIE 2023 will include keynote addresses by eminent scientists as well as plenary, special and regular presentation sessions. Peer review of all the papers will use a blind process and acceptance will be based on quality, originality and relevance.\nEmerging Generative AI Trends Spurred on by the release of ChatGPT in November 2022, Generative AI has the potential to transform the way all enterprises do work, keep up with their competitors, and manage risk. High value use cases for Generative AI are emerging and impacting every industry and job role. CIOs must quickly understand the implications for their organizations and provide critical leadership to define their strategy and take action. Realizing Generative AI’s full competitive potential will require building the right portfolio, ecosystem, deployment model, skills and governance. (October 16–19, 2023)"
+    "text": "Speaker Series\nIf you are interested in presenting, please contact the leadership team. Guidelines for speakers can be found here.\n\nJuly 12th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle: “Khanmigo” Demonstration & Lessons Learned Building GenAI Apps\nPresenter: Kristen Dicerbo, Chief Learning Officer, Khan Academy\nTitle: Open Source Revolution: Large Models on Small Hardware\nPresenter: Chris Ormerod, Principal Data Scientist, Cambium Assessment\n\nAugust 9th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle : Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning\nPresenter: Andrew Lan, University of Massachusetts Amherst\nRecording : [link] (Passcode: BaF?W=@6)\n\nSeptember 13th 4:00pm - 5:00pm (EST). Slides\nTitle: Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks\nPresenter: Andrew Runge, Duolingo\nRecording : [link] (Passcode: MA4^r8E#)\n\n\nOctober 11th 4:00pm - 5:00pm (EST)\n\nTitle: Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies\nPresenter: Réne Kizilcec, Assistant Professor, Purdue University\n\n\nNovember 8th 4:00pm - 5:00pm (EST)\n\nTitle: TBD\nPresenter: TBD\n\n\nDecember 13th 4:00pm - 5:00pm (EST)\n\nTitle: TBD\nPresenter: TBD\n\n\nConferences\n\nInternational Workshop on Artificial Intelligence and Education (WAIE 2023) WAIE is an annual event which aims at a key theme on Artificial Intelligence and Education. WAIE 2023 is intended to provide a stimulating forum for researchers, scientists, engineers and practitioners to present their latest research findings, ideas, developments and applications in all aspects of Artificial Intelligence and Education. WAIE 2023 will include keynote addresses by eminent scientists as well as plenary, special and regular presentation sessions. Peer review of all the papers will use a blind process and acceptance will be based on quality, originality and relevance.\nEmerging Generative AI Trends Spurred on by the release of ChatGPT in November 2022, Generative AI has the potential to transform the way all enterprises do work, keep up with their competitors, and manage risk. High value use cases for Generative AI are emerging and impacting every industry and job role. CIOs must quickly understand the implications for their organizations and provide critical leadership to define their strategy and take action. Realizing Generative AI’s full competitive potential will require building the right portfolio, ecosystem, deployment model, skills and governance. (October 16–19, 2023)"
   },
   {
     "objectID": "events.html#active-publication-opportunities",
@@ -89,6 +89,223 @@
     "title": "Literature",
     "section": "",
     "text": "This is a collection of references to empirical studies, conceptual articles about LLMs in education, and other publications relevant to understanding the current moment. This is a snapshot (updated 5/25/23) of a Zotero group; read/write access available on request if you have a suggestion or would like to see the latest & greatest.\nThis is a work in progress; a current formatted version of the literature is available here"
+  },
+  {
+    "objectID": "meetings/August2023/slides.html#executive-board",
+    "href": "meetings/August2023/slides.html#executive-board",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Executive Board",
+    "text": "Executive Board\n\nCo-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+  },
+  {
+    "objectID": "meetings/August2023/slides.html#update-the-status",
+    "href": "meetings/August2023/slides.html#update-the-status",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Update the Status",
+    "text": "Update the Status\nWe have been approved by the NCME board. Two more immediate concerns are:\n\nMeet with NCME board Liasons.\nNCME Proposal."
+  },
+  {
+    "objectID": "meetings/August2023/slides.html#applying-generative-ai-in-education-demonstrations-evidence-of-impact-and-lessons-learned",
+    "href": "meetings/August2023/slides.html#applying-generative-ai-in-education-demonstrations-evidence-of-impact-and-lessons-learned",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Applying Generative AI in Education: Demonstrations, Evidence of Impact, and Lessons Learned",
+    "text": "Applying Generative AI in Education: Demonstrations, Evidence of Impact, and Lessons Learned\nGenerative AI has exploded upon our culture and is having widespread impacts in many industries. In this presentation, members of the NCME Generative AI SIGIME will discuss examples of prototyping, piloting, and/or deploying education solutions using these new technologies. While this specific technology is new, measurement experts have significant experience applying innovative technologies in our work and many of our conventional measures of efficacy - namely validity, reliability, and fairness - are more relevant than ever in determining whether these innovations are ready for widescale use."
+  },
+  {
+    "objectID": "meetings/August2023/slides.html#call-for-member-submissions---anticipate-3-4-presentations",
+    "href": "meetings/August2023/slides.html#call-for-member-submissions---anticipate-3-4-presentations",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Call for member submissions - anticipate 3-4 presentations",
+    "text": "Call for member submissions - anticipate 3-4 presentations\nParagraph-length abstract describing your application, which includes:\n\nSpecific problem/use case seeking to address\nTechnology / algorithmic approaches used (high level summary)\nAny custom datasets used to tune/train/refine the approach\nEvidence of impact"
+  },
+  {
+    "objectID": "meetings/August2023/slides.html#furthering-our-goals",
+    "href": "meetings/August2023/slides.html#furthering-our-goals",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Furthering our Goals",
+    "text": "Furthering our Goals\n\nAdvertising GAIME on NCME\nSuggestions for future speakers\nLinks with AI companies (Future speakers)\nAdvancement of Fair, Accountable, Transparent, and Ethical use of AI"
+  },
+  {
+    "objectID": "meetings/August2023/slides.html#resources-purchases-ranking",
+    "href": "meetings/August2023/slides.html#resources-purchases-ranking",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Resources purchases ranking",
+    "text": "Resources purchases ranking\n\nZoom account (webinar?)\nGithub Organization\nZotero w/shared space\nPaid website domain name\nDatasets for fine-tuning\nOther Suggestions? What are we missing?\n\nNote: Use of funds requires some board approval."
+  },
+  {
+    "objectID": "meetings/August2023/slides.html#future-shock-grappling-with-the-generative-ai-revolution",
+    "href": "meetings/August2023/slides.html#future-shock-grappling-with-the-generative-ai-revolution",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Future Shock: Grappling with the Generative AI Revolution",
+    "text": "Future Shock: Grappling with the Generative AI Revolution\nJournal: Harvard Data Science Review\nPublished: 11 Jul 2023\nDeadline: 25 August 2023\nURL: Call for papers\n\nArticles clarifying the nature and limitations of foundation models, large language models (LLMs), and generative AI applications. Articles exploring the wider societal risks and impacts of foundation models, LLMs, and generative AI applications."
+  },
+  {
+    "objectID": "meetings/August2023/slides.html#leveraging-large-language-models-for-assessment-support-applications-and-implications",
+    "href": "meetings/August2023/slides.html#leveraging-large-language-models-for-assessment-support-applications-and-implications",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Leveraging Large Language Models for Assessment Support: Applications and Implications",
+    "text": "Leveraging Large Language Models for Assessment Support: Applications and Implications\nJournal: Computers and Education: Artificial Intelligence (Open Access)\nPublished: 28 June 2023\nDeadline: 30 October 2023\nContact: Prof. Rafael Ferreira Mello at rflm@cesar.org.br\nURL: Call for Papers\nThis special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process."
+  },
+  {
+    "objectID": "meetings/July2023/slides.html#executive-board",
+    "href": "meetings/July2023/slides.html#executive-board",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Executive Board",
+    "text": "Executive Board\n\nCo-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#executive-board",
+    "href": "meetings/June2023/slides.html#executive-board",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Executive Board",
+    "text": "Executive Board\n\nChair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#charter",
+    "href": "meetings/June2023/slides.html#charter",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Charter",
+    "text": "Charter\nWe seek to create an intellectual home within NCME for researchers interested in:\n\nItem Generation\nAutomated Scoring of open-ended Items\nFormative Feedback"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#update-the-status",
+    "href": "meetings/June2023/slides.html#update-the-status",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Update the Status",
+    "text": "Update the Status\nExecutive committee has agreed to put the matter to the full board at the July 21 meeting. Summary of points raised: \n\nHow the GAIME SIGIMIE will be distinguished from the Big Data in Educational Measurement SIGIMIE.\nHow to leverage NCME website infrastructure."
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#outline-the-benefits",
+    "href": "meetings/June2023/slides.html#outline-the-benefits",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Outline the Benefits",
+    "text": "Outline the Benefits\nCoordinated Sessions, NCME resources, collaborations."
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#speaker-series",
+    "href": "meetings/June2023/slides.html#speaker-series",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Speaker Series",
+    "text": "Speaker Series\n\nFoundational Research.\nMeasure service implementation.\nInvolving non-measurement industry."
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#literature-review-and-synthesis",
+    "href": "meetings/June2023/slides.html#literature-review-and-synthesis",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Literature Review and Synthesis",
+    "text": "Literature Review and Synthesis"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#resarch-project-collaborations",
+    "href": "meetings/June2023/slides.html#resarch-project-collaborations",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Resarch project Collaborations",
+    "text": "Resarch project Collaborations"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#promotion-of-events-and-resources",
+    "href": "meetings/June2023/slides.html#promotion-of-events-and-resources",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Promotion of Events and Resources",
+    "text": "Promotion of Events and Resources"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#dicussion",
+    "href": "meetings/June2023/slides.html#dicussion",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Dicussion",
+    "text": "Dicussion"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#initial-tools",
+    "href": "meetings/June2023/slides.html#initial-tools",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Initial Tools",
+    "text": "Initial Tools"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#website",
+    "href": "meetings/June2023/slides.html#website",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Website",
+    "text": "Website\nhttps://github.com/christopherormerod/gaime\nawaiting NCME Approval for domain name"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#initial-tools-1",
+    "href": "meetings/June2023/slides.html#initial-tools-1",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Initial Tools",
+    "text": "Initial Tools\nZotero Group :\nhttps://www.zotero.org/groups/5034711/llms_for_edu"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#initial-tools-2",
+    "href": "meetings/June2023/slides.html#initial-tools-2",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Initial Tools",
+    "text": "Initial Tools\n\nGithub Repo :\n\nhttps://github.com/christopherormerod/gaime-example-code\nawaiting NCME Approval for domain\n\nOSF Project Site"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#guidelines-for-fair-use",
+    "href": "meetings/June2023/slides.html#guidelines-for-fair-use",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Guidelines for Fair Use",
+    "text": "Guidelines for Fair Use\nWe need clear guidelines moving forward regarding fair and appropriate use of generative AI:\n\nValidity and Reliability\nFairness\nPrivacy and Security\nAccountability and Transparency\n\nSee https://duolingo-papers.s3.amazonaws.com/other/DET+Responsible+AI+033123.pdf"
+  },
+  {
+    "objectID": "meetings/June2023/slides.html#meeting-close",
+    "href": "meetings/June2023/slides.html#meeting-close",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Meeting Close",
+    "text": "Meeting Close\nAny final thoughts?"
+  },
+  {
+    "objectID": "meetings/September2023/slides.html#welcome-to-new-members-and-everyone-who-has-joined-todays-call",
+    "href": "meetings/September2023/slides.html#welcome-to-new-members-and-everyone-who-has-joined-todays-call",
+    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "section": "Welcome to new members and everyone who has joined today’s call!!",
+    "text": "Welcome to new members and everyone who has joined today’s call!!"
+  },
+  {
+    "objectID": "meetings/September2023/slides.html#quick-updates",
+    "href": "meetings/September2023/slides.html#quick-updates",
+    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "section": "Quick Updates",
+    "text": "Quick Updates\n\nWe’re official! NCME Board approved and announced to membership; please share with colleagues (signup via NCME Website)\nWe are “Artificial Intelligence in Measurement and Education (AIME)” (not GAIME)\nWill continue monthly speaker series, invite community to self-nominate to present"
+  },
+  {
+    "objectID": "meetings/September2023/slides.html#resources-purchases-ranking",
+    "href": "meetings/September2023/slides.html#resources-purchases-ranking",
+    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "section": "Resources purchases ranking",
+    "text": "Resources purchases ranking\nWe have requested the following purchases with our SIG funds\n\nZoom account (in case we grow &gt;100)\nGithub Organization (for code sharing and management)\nZotero w/shared space (for sharing docs and pubs privately)\nPaid website domain name (for public space for resources)"
+  },
+  {
+    "objectID": "meetings/September2023/slides.html#leveraging-large-language-models-for-assessment-support-applications-and-implications",
+    "href": "meetings/September2023/slides.html#leveraging-large-language-models-for-assessment-support-applications-and-implications",
+    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "section": "Leveraging Large Language Models for Assessment Support: Applications and Implications",
+    "text": "Leveraging Large Language Models for Assessment Support: Applications and Implications\nJournal: Computers and Education: Artificial Intelligence (Open Access)\nPublished: 28 June 2023\nDeadline: 30 October 2023\nContact: Prof. Rafael Ferreira Mello at rflm@cesar.org.br\nURL: Call for Papers\nThis special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process."
+  },
+  {
+    "objectID": "meetings/September2023/slides.html#assistant-professor-of-artificial-intelligence-in-learning-and-education-harvard-university",
+    "href": "meetings/September2023/slides.html#assistant-professor-of-artificial-intelligence-in-learning-and-education-harvard-university",
+    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "section": "Assistant Professor of Artificial Intelligence in Learning and Education @ Harvard University",
+    "text": "Assistant Professor of Artificial Intelligence in Learning and Education @ Harvard University\nThe Harvard Graduate School of Education (HGSE) invites applications for a full-time, tenure track faculty position at the rank of Assistant Professor focused on artificial intelligence (AI) in learning and education.\nWe seek scholars whose research, teaching, and impact in the field will advance one or more dimensions of AI in learning and education, including but not limited to:\n\nTheoretical and Empirical Foundations: Investigating the foundational theoretical principles of various learning processes in relation to AI, and/or examining these through empirical studies to understand their impact on learning and cognition.\nDesign: Conceptualizing, creating, and evaluating AI-based designs, such as tools or curricula used in classrooms, online platforms, and out-of-school-time settings."
+  },
+  {
+    "objectID": "meetings/September2023/slides.html#postdoc-research-association---ai-learning-technologies-usc",
+    "href": "meetings/September2023/slides.html#postdoc-research-association---ai-learning-technologies-usc",
+    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "section": "Postdoc Research Association - AI Learning Technologies @ USC",
+    "text": "Postdoc Research Association - AI Learning Technologies @ USC\nThe Learning Sciences group would like to share a position opening for a postdoctoral researcher. If you have any questions, please contact Dr. Ben Nye (nye@ict.usc.edu)."
+  },
+  {
+    "objectID": "meetings/September2023/slides.html#additional-details-are-below.",
+    "href": "meetings/September2023/slides.html#additional-details-are-below.",
+    "title": "September 2023 Artificial Intelligence in Measurement and Education NCME SIGIMIE Meeting",
+    "section": "Additional details are below.",
+    "text": "Additional details are below.\nPostdoctoral Research Associate - AI Learning Technologies University of Southern California, Institute for Creative Technologies\nApply at: https://usccareers.usc.edu/job/los-angeles/postdoctoral-research-associate-ai-learning-technologies/1209/53758066992"
   },
   {
     "objectID": "open-datasets.html",
