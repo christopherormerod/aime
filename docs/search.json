@@ -18,7 +18,7 @@
     "href": "events.html#speaker-series",
     "title": "Events",
     "section": "Speaker Series",
-    "text": "Speaker Series\nIf you are interested in presenting, please contact the leadership team. Guidelines for speakers can be found here.\n\nJuly 12th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle: “Khanmigo” Demonstration & Lessons Learned Building GenAI Apps\nPresenter: Kristen Dicerbo, Chief Learning Officer, Khan Academy\nTitle: Open Source Revolution: Large Models on Small Hardware\nPresenter: Chris Ormerod, Principal Data Scientist, Cambium Assessment\n\nAugust 9th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle : Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning\nPresenter: Andrew Lan, University of Massachusetts Amherst\nRecording : [link] (Passcode: BaF?W=@6)\n\nSeptember 13th 4:00pm - 5:00pm (EST). Slides\nTitle: Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks\nPresenter: Andrew Runge, Duolingo\nRecording : [link] (Passcode: MA4^r8E#)\n\nOctober 11th 4:00pm - 5:00pm (EST)\nTitle: Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies\nPresenter: Réne Kizilcec, Assistant Professor, Purdue University\n\nNovember 8th 4:00pm - 5:00pm (EST)\nTitle: TBD\nPresenter: TBD\n\n\nDecember 13th 4:00pm - 5:00pm (EST)\n\nTitle: TBD\nPresenter: TBD\n\n\nConferences\n\nInternational Workshop on Artificial Intelligence and Education (WAIE 2023) WAIE is an annual event which aims at a key theme on Artificial Intelligence and Education. WAIE 2023 is intended to provide a stimulating forum for researchers, scientists, engineers and practitioners to present their latest research findings, ideas, developments and applications in all aspects of Artificial Intelligence and Education. WAIE 2023 will include keynote addresses by eminent scientists as well as plenary, special and regular presentation sessions. Peer review of all the papers will use a blind process and acceptance will be based on quality, originality and relevance.\nEmerging Generative AI Trends Spurred on by the release of ChatGPT in November 2022, Generative AI has the potential to transform the way all enterprises do work, keep up with their competitors, and manage risk. High value use cases for Generative AI are emerging and impacting every industry and job role. CIOs must quickly understand the implications for their organizations and provide critical leadership to define their strategy and take action. Realizing Generative AI’s full competitive potential will require building the right portfolio, ecosystem, deployment model, skills and governance. (October 16–19, 2023)"
+    "text": "Speaker Series\nIf you are interested in presenting, please contact the leadership team. Guidelines for speakers can be found here.\n\nJuly 12th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle: “Khanmigo” Demonstration & Lessons Learned Building GenAI Apps\nPresenter: Kristen Dicerbo, Chief Learning Officer, Khan Academy\nTitle: Open Source Revolution: Large Models on Small Hardware\nPresenter: Chris Ormerod, Principal Data Scientist, Cambium Assessment\n\nAugust 9th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle : Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning\nPresenter: Andrew Lan, University of Massachusetts Amherst\nRecording : [link] (Passcode: BaF?W=@6)\n\nSeptember 13th 4:00pm - 5:00pm (EST). Slides\nTitle: Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks\nPresenter: Andrew Runge, Duolingo\nRecording: [link] (Passcode: MA4^r8E#)\n\nOctober 11th 4:00pm - 5:00pm (EST)\nTitle: Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies\nPresenter: Réne Kizilcec, Assistant Professor, Purdue University\nRecording: [link]\n\nNovember 8th 4:00pm - 5:00pm (EST)\nTitle: TBD\nPresenter: TBD\n\n\nDecember 13th 4:00pm - 5:00pm (EST)\n\nTitle: TBD\nPresenter: TBD\n\n\nConferences\n\nInternational Workshop on Artificial Intelligence and Education (WAIE 2023) WAIE is an annual event which aims at a key theme on Artificial Intelligence and Education. WAIE 2023 is intended to provide a stimulating forum for researchers, scientists, engineers and practitioners to present their latest research findings, ideas, developments and applications in all aspects of Artificial Intelligence and Education. WAIE 2023 will include keynote addresses by eminent scientists as well as plenary, special and regular presentation sessions. Peer review of all the papers will use a blind process and acceptance will be based on quality, originality and relevance.\nEmerging Generative AI Trends Spurred on by the release of ChatGPT in November 2022, Generative AI has the potential to transform the way all enterprises do work, keep up with their competitors, and manage risk. High value use cases for Generative AI are emerging and impacting every industry and job role. CIOs must quickly understand the implications for their organizations and provide critical leadership to define their strategy and take action. Realizing Generative AI’s full competitive potential will require building the right portfolio, ecosystem, deployment model, skills and governance. (October 16–19, 2023)"
   },
   {
     "objectID": "events.html#active-publication-opportunities",
@@ -273,6 +273,55 @@
     "text": "Meeting Close\nAny final thoughts?"
   },
   {
+    "objectID": "meetings/October2023/slides.html#introductions",
+    "href": "meetings/October2023/slides.html#introductions",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Introductions",
+    "text": "Introductions\nExecutive Board\n\nCo-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+  },
+  {
+    "objectID": "meetings/October2023/slides.html#outline",
+    "href": "meetings/October2023/slides.html#outline",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Outline",
+    "text": "Outline\n\nOverview & Updates\nToday’s Speaker: Rene Kizilcec, Cornell University’s Future of Learning Lab\nAdditional SIG Updates & Calls for Participation"
+  },
+  {
+    "objectID": "meetings/October2023/slides.html#quick-updates",
+    "href": "meetings/October2023/slides.html#quick-updates",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Quick Updates",
+    "text": "Quick Updates\nThe website is up and running\n\nwww.ncme-aime.org\n\n\n\n\nContains\n\nPast events with recordings\nCalls for Participation\nDatasets and literature"
+  },
+  {
+    "objectID": "meetings/October2023/slides.html#collaboration-with-salal",
+    "href": "meetings/October2023/slides.html#collaboration-with-salal",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Collaboration with SALAL",
+    "text": "Collaboration with SALAL\nThe State & Local Assessment Leaders SIGIMIE. Talk series on\nHow can AI benefit State & Local Assessment Leaders:\n\nImproved Scoring, Accommodations, Lessons, and Results.\nCustomized translation, reporting, lession plans.\nTime, cost, and effort efficiencies.\n\nAddressing the concerns of State & Local Assessment Leaders:\n\nCost, comprimised learning, decrease human interactions\nThreat to Jobs, security, PII concerns, Bias.\n\nIf you are interested in working with SALAL towards a series that promotes the widespread adoption of AI in Education, contact christopher.ormerod@cambiumassessment.com."
+  },
+  {
+    "objectID": "meetings/October2023/slides.html#assistant-professor-of-artificial-intelligence-in-learning-and-education-harvard-university",
+    "href": "meetings/October2023/slides.html#assistant-professor-of-artificial-intelligence-in-learning-and-education-harvard-university",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Assistant Professor of Artificial Intelligence in Learning and Education @ Harvard University",
+    "text": "Assistant Professor of Artificial Intelligence in Learning and Education @ Harvard University\nThe Harvard Graduate School of Education (HGSE) invites applications for a full-time, tenure track faculty position at the rank of Assistant Professor focused on artificial intelligence (AI) in learning and education.\nWe seek scholars whose research, teaching, and impact in the field will advance one or more dimensions of AI in learning and education, including but not limited to:\n\nTheoretical and Empirical Foundations: Investigating the foundational theoretical principles of various learning processes in relation to AI, and/or examining these through empirical studies to understand their impact on learning and cognition."
+  },
+  {
+    "objectID": "meetings/October2023/slides.html#postdoc-research-association---ai-learning-technologies-usc",
+    "href": "meetings/October2023/slides.html#postdoc-research-association---ai-learning-technologies-usc",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Postdoc Research Association - AI Learning Technologies @ USC",
+    "text": "Postdoc Research Association - AI Learning Technologies @ USC\nThe Learning Sciences group would like to share a position opening for a postdoctoral researcher. If you have any questions, please contact Dr. Ben Nye (nye@ict.usc.edu).\nAdditional details are below.\n\nPostdoctoral Research Associate - AI Learning Technologies University of Southern California, Institute for Creative Technologies\n\nApply at: https://usccareers.usc.edu/job/los-angeles/postdoctoral-research-associate-ai-learning-technologies/1209/53758066992"
+  },
+  {
+    "objectID": "meetings/October2023/slides.html#global-research-alliance-for-ai-in-learning-and-education",
+    "href": "meetings/October2023/slides.html#global-research-alliance-for-ai-in-learning-and-education",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Global Research Alliance for AI in Learning and Education",
+    "text": "Global Research Alliance for AI in Learning and Education\nEmpowering Learners in AI 2023, October 23 - 26, 2023\nEmpower Learners for the Age of AI (ELAI) is the premier conference globally investing the research and practice around AI adoption in schools, universities, and corporate settings.\nhttps://empoweringlearners.ai/"
+  },
+  {
     "objectID": "meetings/September2023/slides.html#welcome-to-new-members-and-everyone-who-has-joined-todays-call",
     "href": "meetings/September2023/slides.html#welcome-to-new-members-and-everyone-who-has-joined-todays-call",
     "title": "Artificial Intelligence in Measurement and Education",
@@ -320,82 +369,5 @@
     "title": "Open Datasets",
     "section": "",
     "text": "Training data is required for ML; often authentic data can be difficult to come by. This is a collection of datasets that are generally useful.\nIf you have a dataset you’d like to share (or want to find one not listed here), you might consider one of the open data repositories (e.g. Google Research Datasets, EdData, Data.gov, Dataverse, ICPSR, Datashop, UCI ML Repository).\n\nAutomated Essay Scoring\n\nKaggle ASAP AES Dataset: A dataset containing essays to 8 different essay prompts.\n\n\n\nAutomated Short Answer Scoring\n\nKaggle ASAP SAS Dataset: A dataset containing student responses to 10 different short constructed response prompts.\nPowergrading Short Answer Grading Corpus: This corpus contains the original data analyzed in the following paper: Basu, Jacobs, and Vanderwende, “Powergrading: a Clustering Approach to Amplify Human Effort for Short Answer Grading,” Transactions of the ACL, 2013. Last published: October 4, 2013.\n\n\n\nFormative Feedback\n\nPERSUADE Corpus: The Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements (PERSUADE) corpus which contains over 280,000 discourse annotations for over 25,000 argumentative essays.\nIteraTeR, R3 System, and DEIIteraTeR: A repository that provides datasets and code for preprocessing, training and testing models for Iterative Text Revision.\n\n\n\nItem Generation\n\nSQuAD: This dataset combines the 100,000 questions in SQuAD1.1 with over 50,000 unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. While often use to train question-answering models, this dataset has also been used to help train question generation.\nFairytaleQA: The FairytaleQA dataset was created to address the gaps present in similar datasets, as existing datasets rarely distinguish fine-grained reading skills, such as the understanding of varying narrative elements. The goal of the challenge in the link is to generate high quality questions from the dataset.\n\n\n\nProcess Data for Learning Pathways\n\nEdNet - dataset of all student-system interactions collected over 2 years by Santa, a multi-platform AI tutoring service with more than 780K users in Korea available through Android, iOS and web. Details of dataset are available as a pre–print.\nHarvardX-MITx Person-Course Dataset- this dataset contains information from the first year of edX courses, which are Harvard and MIT’s Massive Open Online Courses (MOOCs). The data includes over 600,000 students and over a billion records.\nOpen University Learning Analytics dataset - contains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules). Presentations of courses start in February and October - they are marked by “B” and “J” respectively. The dataset consists of tables connected using unique identifiers. All tables are stored in the csv format.\n\n\n\nUnlabelled\n\nEvaluating Student Writing"
-  },
-  {
-    "objectID": "meetings/October2023/slides.html#executive-board",
-    "href": "meetings/October2023/slides.html#executive-board",
-    "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Executive Board",
-    "text": "Executive Board\n\nCo-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
-  },
-  {
-    "objectID": "meetings/October2023/slides.html#welcome-to-new-members-and-everyone-who-has-joined-todays-call",
-    "href": "meetings/October2023/slides.html#welcome-to-new-members-and-everyone-who-has-joined-todays-call",
-    "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Welcome to new members and everyone who has joined today’s call!!",
-    "text": "Welcome to new members and everyone who has joined today’s call!!"
-  },
-  {
-    "objectID": "meetings/October2023/slides.html#quick-updates",
-    "href": "meetings/October2023/slides.html#quick-updates",
-    "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Quick Updates",
-    "text": "Quick Updates\nThe website is up and running\n\nwww.ncme-aime.org\n\n\n\n\nContains\n\nPast events with recordings\nCalls for Participation\nDatasets and literature."
-  },
-  {
-    "objectID": "meetings/October2023/slides.html#resources-purchases-ranking",
-    "href": "meetings/October2023/slides.html#resources-purchases-ranking",
-    "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Resources purchases ranking",
-    "text": "Resources purchases ranking\nWe have requested the following purchases with our SIG funds\n\nZoom account (in case we grow &gt;100)\nGithub Organization (for code sharing and management)\nZotero w/shared space (for sharing docs and pubs privately)\nPaid website domain name (for public space for resources)"
-  },
-  {
-    "objectID": "meetings/October2023/slides.html#leveraging-large-language-models-for-assessment-support-applications-and-implications",
-    "href": "meetings/October2023/slides.html#leveraging-large-language-models-for-assessment-support-applications-and-implications",
-    "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Leveraging Large Language Models for Assessment Support: Applications and Implications",
-    "text": "Leveraging Large Language Models for Assessment Support: Applications and Implications\nJournal: Computers and Education: Artificial Intelligence (Open Access)\nPublished: 28 June 2023\nDeadline: 30 October 2023\nContact: Prof. Rafael Ferreira Mello at rflm@cesar.org.br\nURL: Call for Papers\nThis special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process."
-  },
-  {
-    "objectID": "meetings/October2023/slides.html#assistant-professor-of-artificial-intelligence-in-learning-and-education-harvard-university",
-    "href": "meetings/October2023/slides.html#assistant-professor-of-artificial-intelligence-in-learning-and-education-harvard-university",
-    "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Assistant Professor of Artificial Intelligence in Learning and Education @ Harvard University",
-    "text": "Assistant Professor of Artificial Intelligence in Learning and Education @ Harvard University\nThe Harvard Graduate School of Education (HGSE) invites applications for a full-time, tenure track faculty position at the rank of Assistant Professor focused on artificial intelligence (AI) in learning and education.\nWe seek scholars whose research, teaching, and impact in the field will advance one or more dimensions of AI in learning and education, including but not limited to:\n\nTheoretical and Empirical Foundations: Investigating the foundational theoretical principles of various learning processes in relation to AI, and/or examining these through empirical studies to understand their impact on learning and cognition."
-  },
-  {
-    "objectID": "meetings/October2023/slides.html#postdoc-research-association---ai-learning-technologies-usc",
-    "href": "meetings/October2023/slides.html#postdoc-research-association---ai-learning-technologies-usc",
-    "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Postdoc Research Association - AI Learning Technologies @ USC",
-    "text": "Postdoc Research Association - AI Learning Technologies @ USC\nThe Learning Sciences group would like to share a position opening for a postdoctoral researcher. If you have any questions, please contact Dr. Ben Nye (nye@ict.usc.edu).\nAdditional details are below.\n\nPostdoctoral Research Associate - AI Learning Technologies University of Southern California, Institute for Creative Technologies\n\nApply at: https://usccareers.usc.edu/job/los-angeles/postdoctoral-research-associate-ai-learning-technologies/1209/53758066992"
-  },
-  {
-    "objectID": "meetings/October2023/slides.html#introductions",
-    "href": "meetings/October2023/slides.html#introductions",
-    "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Introductions",
-    "text": "Introductions\nExecutive Board\n\nCo-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
-  },
-  {
-    "objectID": "meetings/October2023/slides.html#outline",
-    "href": "meetings/October2023/slides.html#outline",
-    "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Outline",
-    "text": "Outline\n\nOverview & Updates\nToday’s Speaker: Rene Kizilcec, Cornell University’s Future of Learning Lab\nAdditional SIG Updates & Calls for Participation"
-  },
-  {
-    "objectID": "meetings/October2023/slides.html#collaboration-with-salal",
-    "href": "meetings/October2023/slides.html#collaboration-with-salal",
-    "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Collaboration with SALAL",
-    "text": "Collaboration with SALAL\nThe State & Local Assessment Leaders SIGIMIE. Talk series on\nHow can AI benefit State & Local Assessment Leaders:\n\nImproved Scoring, Accommodations, Lessons, and Results.\nCustomized translation, reporting, lession plans.\nTime, cost, and effort efficiencies.\n\nAddressing the concerns of State & Local Assessment Leaders:\n\nCost, comprimised learning, decrease human interactions\nThreat to Jobs, security, PII concerns, Bias.\n\nIf you are interested in working with SALAL towards a series that promotes the widespread adoption of AI in Education, contact christopher.ormerod@cambiumassessment.com."
-  },
-  {
-    "objectID": "meetings/October2023/slides.html#how-can-state-and-assessment-leaders-benefit",
-    "href": "meetings/October2023/slides.html#how-can-state-and-assessment-leaders-benefit",
-    "title": "Artificial Intelligence in Measurement and Education",
-    "section": "How can State and Assessment leaders benefit:",
-    "text": "How can State and Assessment leaders benefit:"
   }
 ]
