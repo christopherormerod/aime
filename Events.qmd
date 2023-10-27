@@ -48,7 +48,7 @@ September 13th 4:00pm - 5:00pm (EST). [Slides](meetings/September2023/slides.htm
 
 **Presenter:** Andrew Runge, Duolingo
 
-**Recording:** \[[link](https://us06web.zoom.us/rec/share/4NrrZz3BHsylFTjWaRT5PSZQ7-oqXw0FkuV7igUO26QfY1YcJY5hDYpIj5zcAnYz.mo5Vu0kQERdtpjUP)\] (Passcode: MA4\^r8E#)
+**Recording :** \[[link](https://us06web.zoom.us/rec/share/4NrrZz3BHsylFTjWaRT5PSZQ7-oqXw0FkuV7igUO26QfY1YcJY5hDYpIj5zcAnYz.mo5Vu0kQERdtpjUP)\] (Passcode: MA4\^r8E#)
 
 ------------------------------------------------------------------------
 
@@ -57,8 +57,6 @@ October 11th 4:00pm - 5:00pm (EST)
 **Title:** Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies
 
 **Presenter:** Réne Kizilcec, Assistant Professor, Purdue University
-
-**Recording:** \[[link](https://drive.google.com/file/d/1ln9eJJq4lCOSBscKgvf32eeN_TX5tplH/view?usp=drive_link)\]
 
 ------------------------------------------------------------------------
 
