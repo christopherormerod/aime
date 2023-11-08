@@ -1,0 +1,145 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   Overview & Updates
+-   Today's Speaker: Maggie Beiting-Parrish, Federation of Scientists
+-   Additional SIG Updates & Calls for Participation
+
+# Today's Research Presentation
+
+**Speaker:** Maggie Beiting-Parrish, Federation of Scientists
+
+**Title:** Exploring the Results of the NAEP Math and Reading Automated Scoring Challenges: Implications for Fairness
+
+# Additional SIG Updates & Calls for Participation
+
+# The ethical use of AI in educational measurement
+
+We are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:
+
+-   Accountability when AI is used for measurement
+
+-   Detection and mitigation of algorithmic bias when using AI for measurement
+
+-   Transparency in the use of AI for measurement
+
+-   Toxicity in Generative AI
+
+-   Regulations on the ethical use of AI for measurement
+
+If you are interested, please email Okan Bulut at bulut\@ualberta.ca.
+
+## Collaboration with SALAL
+
+The State & Local Assessment Leaders SIGIMIE. Talk series on
+
+### How can AI benefit State & Local Assessment Leaders:
+
+-   Improved Scoring, Accommodations, Lessons, and Results.
+
+-   Customized translation, reporting, lession plans.
+
+-   Time, cost, and effort efficiencies.
+
+### Addressing the concerns of State & Local Assessment Leaders:
+
+-   Cost, comprimised learning, decrease human interactions
+
+-   Threat to Jobs, security, PII concerns, Bias.
+
+If you are interested in working with SALAL towards a series that promotes the widespread adoption of AI in Education, contact christopher.ormerod\@cambiumassessment.com.
+
+## Special issue for TESOL Quarterly
+
+### Exploring the Effects of Generative AI on the Teaching, Learning, and Assessment of English Productive Skills
+
+Topics include:
+
+- Integration	of	generative	AI	techniques	to	augment	instructional	and	assessment	practices
+
+- Efficacy	of	generative	AI	tools	in	improving	productive	language	skills	
+
+- Strategies	leveraging	generative	AI	technology	during	assessment	processes
+
+------------------------------------------------------------------------
+
+- User	interface	and	user	experience	design	in	generative	AI	tools	in	language	education
+
+- Ethical	issues	and	considerations of	generative	AI	in	language	teaching	and	assessment
+
+**Deadline	for	abstract	submission:** January	31,	2024
+
+**Invitation	for	full	paper:** February	15,	2024
+
+**Contact:** tqspecialissue2025@gmail.com
+
+## Special Issue Education and Information Technologies
+
+### Special Issue on Applications of Generative Artificial Intelligence Technologies in Education
+
+Topics include
+
+- Tools for teachers
+
+- Personalized feedback for students and parents
+
+- Changes to curricula and evaluation practices 
+
+- Policies, sustainability, and equity. 
+
+**Submission deadline:** 1 December 2023
+
+**Submission website** www.editorialmanager.com/eait
+
+
+## Assistant Professor of Artificial Intelligence in Learning and Education \@ Harvard University
+
+The Harvard Graduate School of Education (HGSE) invites applications for a full-time, tenure track faculty position at the rank of Assistant Professor focused on artificial intelligence (AI) in learning and education.
+
+We seek scholars whose research, teaching, and impact in the field will advance one or more dimensions of AI in learning and education, including but not limited to:
+
+-   Theoretical and Empirical Foundations: Investigating the foundational theoretical principles of various learning processes in relation to AI, and/or examining these through empirical studies to understand their impact on learning and cognition.
+
+------------------------------------------------------------------------
+
+-   Design: Conceptualizing, creating, and evaluating AI-based designs, such as tools or curricula used in classrooms, online platforms, and out-of-school-time settings.
+
+-   Practice: Analyzing the pedagogical potentials and complexities of AI, attending to learners' present needs and preparation for future needs in life and work.
+
+-   Ethical and Societal Implications: Interrogating the ethical, historical, and cultural impacts of AI in learning and education, such as privacy and bias.
+
+Strong applicants will be distinguished by the quality of their research, their use of rigorous methods, and the significance of their work for policy and practice.
+
+------------------------------------------------------------------------
+
+## Postdoc Research Association - AI Learning Technologies \@ USC
+
+The Learning Sciences group would like to share a position opening for a postdoctoral researcher. If you have any questions, please contact Dr. Ben Nye (nye\@ict.usc.edu).
+
+Additional details are below.
+
+<hr>
+
+Postdoctoral Research Associate - AI Learning Technologies University of Southern California, Institute for Creative Technologies
+
+<hr>
+
+Apply at: https://usccareers.usc.edu/job/los-angeles/postdoctoral-research-associate-ai-learning-technologies/1209/53758066992
