@@ -25,7 +25,7 @@ format:
 
 # Today's Research Presentation
 
-**Speaker:** Maggie Beiting-Parrish, Federation of Scientists
+**Speaker:** Maggie Beiting-Parrish, Federation of American Scientists
 
 **Title:** Exploring the Results of the NAEP Math and Reading Automated Scoring Challenges: Implications for Fairness
 
@@ -55,13 +55,13 @@ The State & Local Assessment Leaders SIGIMIE. Talk series on
 
 -   Improved Scoring, Accommodations, Lessons, and Results.
 
--   Customized translation, reporting, lession plans.
+-   Customized translation, reporting, lesson plans.
 
 -   Time, cost, and effort efficiencies.
 
 ### Addressing the concerns of State & Local Assessment Leaders:
 
--   Cost, comprimised learning, decrease human interactions
+-   Cost, compromised learning, decrease human interactions
 
 -   Threat to Jobs, security, PII concerns, Bias.
 
@@ -73,23 +73,23 @@ If you are interested in working with SALAL towards a series that promotes the w
 
 Topics include:
 
-- Integration	of	generative	AI	techniques	to	augment	instructional	and	assessment	practices
+-   Integration of generative AI techniques to augment instructional and assessment practices
 
-- Efficacy	of	generative	AI	tools	in	improving	productive	language	skills	
+-   Efficacy of generative AI tools in improving productive language skills
 
-- Strategies	leveraging	generative	AI	technology	during	assessment	processes
+-   Strategies leveraging generative AI technology during assessment processes
 
 ------------------------------------------------------------------------
 
-- User	interface	and	user	experience	design	in	generative	AI	tools	in	language	education
+-   User interface and user experience design in generative AI tools in language education
 
-- Ethical	issues	and	considerations of	generative	AI	in	language	teaching	and	assessment
+-   Ethical issues and considerations of generative AI in language teaching and assessment
 
-**Deadline	for	abstract	submission:** January	31,	2024
+**Deadline for abstract submission:** January 31, 2024
 
-**Invitation	for	full	paper:** February	15,	2024
+**Invitation for full paper:** February 15, 2024
 
-**Contact:** tqspecialissue2025@gmail.com
+**Contact:** tqspecialissue2025\@gmail.com
 
 ## Special Issue Education and Information Technologies
 
@@ -97,18 +97,17 @@ Topics include:
 
 Topics include
 
-- Tools for teachers
+-   Tools for teachers
 
-- Personalized feedback for students and parents
+-   Personalized feedback for students and parents
 
-- Changes to curricula and evaluation practices 
+-   Changes to curricula and evaluation practices
 
-- Policies, sustainability, and equity. 
+-   Policies, sustainability, and equity.
 
 **Submission deadline:** 1 December 2023
 
 **Submission website** www.editorialmanager.com/eait
-
 
 ## Assistant Professor of Artificial Intelligence in Learning and Education \@ Harvard University
 

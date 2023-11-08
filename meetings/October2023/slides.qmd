@@ -33,11 +33,11 @@ The website is up and running
 
 ### Contains
 
-- Past events with recordings
+-   Past events with recordings
 
-- Calls for Participation
+-   Calls for Participation
 
-- Datasets and literature
+-   Datasets and literature
 
 # Today's Research Presentation
 
@@ -69,20 +69,19 @@ The State & Local Assessment Leaders SIGIMIE. Talk series on
 
 ### How can AI benefit State & Local Assessment Leaders:
 
-- Improved Scoring, Accommodations, Lessons, and Results.
+-   Improved Scoring, Accommodations, Lessons, and Results.
 
-- Customized translation, reporting, lession plans.
+-   Customized translation, reporting, lesson plans.
 
-- Time, cost, and effort efficiencies. 
+-   Time, cost, and effort efficiencies.
 
 ### Addressing the concerns of State & Local Assessment Leaders:
 
-- Cost, comprimised learning, decrease human interactions
+-   Cost, comprimised learning, decrease human interactions
 
-- Threat to Jobs, security, PII concerns, Bias.
+-   Threat to Jobs, security, PII concerns, Bias.
 
 If you are interested in working with SALAL towards a series that promotes the widespread adoption of AI in Education, contact christopher.ormerod\@cambiumassessment.com.
-
 
 ## Assistant Professor of Artificial Intelligence in Learning and Education \@ Harvard University
 
@@ -92,7 +91,7 @@ We seek scholars whose research, teaching, and impact in the field will advance 
 
 -   Theoretical and Empirical Foundations: Investigating the foundational theoretical principles of various learning processes in relation to AI, and/or examining these through empirical studies to understand their impact on learning and cognition.
 
----
+------------------------------------------------------------------------
 
 -   Design: Conceptualizing, creating, and evaluating AI-based designs, such as tools or curricula used in classrooms, online platforms, and out-of-school-time settings.
 
@@ -102,7 +101,7 @@ We seek scholars whose research, teaching, and impact in the field will advance 
 
 Strong applicants will be distinguished by the quality of their research, their use of rigorous methods, and the significance of their work for policy and practice.
 
----
+------------------------------------------------------------------------
 
 ## Postdoc Research Association - AI Learning Technologies \@ USC
 

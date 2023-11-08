@@ -52,7 +52,7 @@ September 13th 4:00pm - 5:00pm (EST). [Slides](meetings/September2023/slides.htm
 
 ------------------------------------------------------------------------
 
-October 11th 4:00pm - 5:00pm (EST)
+October 11th 4:00pm - 5:00pm (EST) [Slides](meetings/October2023/slides.html)
 
 **Title:** Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies
 
@@ -64,31 +64,25 @@ November 8th 4:00pm - 5:00pm (EST)
 
 **Title:** Exploring the Results of the NAEP Math and Reading Automated Scoring Challenges: Implications for Fairness
 
-**Presenter:** Maggie Beiting-Parrish
+**Presenter:** Maggie Beiting-Parrish, Federation of American Scientists
 
 ------------------------------------------------------------------------
 
 -   December 13th 4:00pm - 5:00pm (EST)
 
-**Title:** TBD
+**Title:** Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference
 
-**Presenter:** TBD
+**Presenter:** Zachary Levonian
 
 ------------------------------------------------------------------------
 
-### **Conferences**
-
--   [International Workshop on Artificial Intelligence and Education (WAIE 2023)](http://www.waie.org/) WAIE is an annual event which aims at a key theme on Artificial Intelligence and Education. WAIE 2023 is intended to provide a stimulating forum for researchers, scientists, engineers and practitioners to present their latest research findings, ideas, developments and applications in all aspects of Artificial Intelligence and Education. WAIE 2023 will include keynote addresses by eminent scientists as well as plenary, special and regular presentation sessions. Peer review of all the papers will use a blind process and acceptance will be based on quality, originality and relevance.
-
--   [Emerging Generative AI Trends](https://www.gartner.com/en/conferences/na/symposium-us/conference-resources/gen-ai) Spurred on by the release of ChatGPT in November 2022, Generative AI has the potential to transform the way all enterprises do work, keep up with their competitors, and manage risk. High value use cases for Generative AI are emerging and impacting every industry and job role. CIOs must quickly understand the implications for their organizations and provide critical leadership to define their strategy and take action. Realizing Generative AI's full competitive potential will require building the right portfolio, ecosystem, deployment model, skills and governance. (October 16--19, 2023)
-
-## Active Publication Opportunities
+# Active Publication Opportunities
 
 This is a running list of potentially relevant publication opportunities for Generative AI.
 
-# White Paper Proposal
+## White Paper Proposal
 
-## Call for Participation - The ethical use of AI in educational measurement
+### Call for Participation - The ethical use of AI in educational measurement
 
 We are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:
 
@@ -104,15 +98,50 @@ We are looking for researchers to contribute to a white paper on the Ethical use
 
 If you are interested, please email Okan Bulut at [bulut\@ualberta.ca](mailto:bulut@ualberta.ca).
 
-## **Leveraging Large Language Models for Assessment Support: Applications and Implications**
 
-Journal: Computers and Education: Artificial Intelligence (Open Access) \
-Published: 28 June 2023\
-Deadline: 30 October 2023\
-Contact: Prof. Rafael Ferreira Mello at rflm\@cesar.org.br
+## Special issue for TESOL Quarterly
 
-URL: [Call for Papers](https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence/about/call-for-papers#leveraging-large-language-models-for-assessment-support-applications-and-implications)
+### Exploring the Effects of Generative AI on the Teaching, Learning, and Assessment of English Productive Skills
 
-This special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with *particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity*. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process. We particularly encourage empirical research that employs rigorous methodologies, such as experimental studies, case studies, and surveys, to provide evidence of the effectiveness and impact of LLMs on assessment. Additionally, we welcome theoretical papers offering a nuanced and comprehensive understanding of the topic and its educational implications (e.g., for ethics and trustworthiness). Overall, this special issue aims to advance state-of-the-art research by integrating LLMs in the assessment process and identifying key directions for future research in this promising area.
+We	invite	empirical (quantitative,	qualitative,	and	mixed-methods)	papers	on	a	wide	range	of	topics including,	but	not	limited	to:
+
+- Integration	of	generative	AI	techniques	to	augment	instructional	and	assessment	practices	
+- Efficacy	of	generative	AI	tools	in	improving	productive	language	skills	
+
+- Strategies	leveraging	generative	AI	technology	during	assessment	processes
+
+- User	interface	and	user	experience	design	in	generative	AI	tools	in	language	education
+
+- Ethical	issues	and	considerations of	generative	AI	in	language	teaching	and	assessment
+
+**Submission	Guidelines:**
+
+For	the	special	issue,	we	are	accepting	submissions	for	Full-Length	Articles	and	Brief	Reports.	Those	interested	in	contributing	to	the	special	issue	should	send	the	following	information	to	both	guest	editors	at	tqspecialissue2025@gmail.com by	January	31,	2024
+
+# Special Issue Education and Information Technologies
+
+Special Issue on Applications of Generative Artificial Intelligence Technologies in Education
+Applications of generative technologies to education are diverse and can be described through several viewpoints: Stakeholders, employment sector, ethical issues. Expected contributions include the following, but as we write this call for papers new applications appear in new contexts, so works illustrating other points of view are also welcome:
+
+- helpful tools for teachers, such as MCQ generators that simplify their daily tasks and save more time for direct interaction with students
+
+- changing teachers’ and institutions’ evaluation practices to avoid possible cheating and plagiarism
+
+- personalized advice and follow up for students, new tools available for helping them in solving many problems
+
+- new policies design by institutions, including new diploma architectures
+applications dedicated to parents
+- new curricula adapted in terms of content as well as in ways of teaching and learning
+
+From an ethical viewpoint,
+
+- how to deal with potential “fakes” everywhere
+- would educators and parents accept the use of core tools applications if their underlying principles are not made public?
+- would educators and parents accept new tools if their training needs a computing power that only a handful of private world corporations can afford and that needs huge amounts of energy?
+- How does generative artificial intelligence affect progress towards the United Nation's Sustainable Development Goal 4, on ensuring inclusive and equitable quality education for all? 
+
+Submission website www.editorialmanager.com/eait
+
+---
 
 Please send any new entries to John Whitmer [jwhitmer\@fas.org](mailto:jwhitmer@fas.org){.email} and Maggie Beiting-Parrish [Magdalen.Beiting\@ed.gov](mailto:Magdalen.Beiting@ed.gov){.email}

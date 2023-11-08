@@ -8,9 +8,10 @@ format:
 ---
 
 # Outline
+
 -   Overview & Updates
 -   Today's Speaker: Andrew Runge, Duolingo
--   Additional SIG Updates & Calls for Participation 
+-   Additional SIG Updates & Calls for Participation
 
 # Overview & Updates
 
@@ -28,40 +29,31 @@ format:
 
 **Title:** Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks
 
-# Additional SIG Updates & Calls for Participation 
-
-
+# Additional SIG Updates & Calls for Participation
 
 # White Paper Proposal - Call for Participation - The ethical use of AI in educational measurement
 
 We are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:
 
--  Accountability when AI is used for measurement
+-   Accountability when AI is used for measurement
 
--  Detection and mitigation of algorithmic bias when using AI for measurement
+-   Detection and mitigation of algorithmic bias when using AI for measurement
 
--  Transparency in the use of AI for measurement
+-   Transparency in the use of AI for measurement
 
--  Toxicity in Generative AI
+-   Toxicity in Generative AI
 
--  Regulations on the ethical use of AI for measurement 
+-   Regulations on the ethical use of AI for measurement
 
 If you are interested, please email Okan Bulut at bulut\@ualberta.ca.
 
-# NCME 2024 SIG Session Submitted  {.scrollable}
+# NCME 2024 SIG Session Submitted {.scrollable}
 
-***Using Generative AI in Education: Results from Large-Scale EdTech Platform R&D
-Abstract***
+***Using Generative AI in Education: Results from Large-Scale EdTech Platform R&D Abstract***
 
-**Presenters** 
-- Andrew Runge (Senior Research Engineer, Duolingo)
-- Andrew Lan (Assistant Professor, UMASS-Amherst) 
-- Kristen Dicerbo (Chief Learning Officer, Khan Academy) 
-- Paul Deane (Principal Research Scientist, ETS) 
+**Presenters** - Andrew Runge (Senior Research Engineer, Duolingo) - Andrew Lan (Assistant Professor, UMASS-Amherst) - Kristen Dicerbo (Chief Learning Officer, Khan Academy) - Paul Deane (Principal Research Scientist, ETS)
 
-Chair: John Whitmer (Senior Fellow, Federation of American Scientists)
-Moderator: Christopher Ormerod (Cambium Assessments) 
-Discussant: Maggie Beiting-Parrish (Federation of American Scientists) 
+Chair: John Whitmer (Senior Fellow, Federation of American Scientists) Moderator: Christopher Ormerod (Cambium Assessments) Discussant: Maggie Beiting-Parrish (Federation of American Scientists)
 
 Full abstract [here](https://docs.google.com/document/d/1zCSfRlUlJS6hiXhLQY6fZHsEoyxY5jkhcfu-wkzRK6w/edit)
 
@@ -71,7 +63,7 @@ Full abstract [here](https://docs.google.com/document/d/1zCSfRlUlJS6hiXhLQY6fZHs
 
 We have requested the following purchases with our SIG funds
 
--   Zoom account (in case we grow >100)
+-   Zoom account (in case we grow \>100)
 
 -   Github Organization (for code sharing and management)
 
@@ -98,37 +90,36 @@ URL: [Call for Papers](https://www.sciencedirect.com/journal/computers-and-educa
 
 This special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with *particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity*. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process.
 
----
+------------------------------------------------------------------------
 
-## Assistant Professor of Artificial Intelligence in Learning and Education @ Harvard University 
+## Assistant Professor of Artificial Intelligence in Learning and Education \@ Harvard University
 
 The Harvard Graduate School of Education (HGSE) invites applications for a full-time, tenure track faculty position at the rank of Assistant Professor focused on artificial intelligence (AI) in learning and education.
 
 We seek scholars whose research, teaching, and impact in the field will advance one or more dimensions of AI in learning and education, including but not limited to:
 
-- Theoretical and Empirical Foundations: Investigating the foundational theoretical principles of various learning processes in relation to AI, and/or examining these through empirical studies to understand their impact on learning and cognition.
+-   Theoretical and Empirical Foundations: Investigating the foundational theoretical principles of various learning processes in relation to AI, and/or examining these through empirical studies to understand their impact on learning and cognition.
 
-- Design: Conceptualizing, creating, and evaluating AI-based designs, such as tools or curricula used in classrooms, online platforms, and out-of-school-time settings.
+-   Design: Conceptualizing, creating, and evaluating AI-based designs, such as tools or curricula used in classrooms, online platforms, and out-of-school-time settings.
 
----
+------------------------------------------------------------------------
 
-- Practice: Analyzing the pedagogical potentials and complexities of AI, attending to learners’ present needs and preparation for future needs in life and work.
+-   Practice: Analyzing the pedagogical potentials and complexities of AI, attending to learners' present needs and preparation for future needs in life and work.
 
-- Ethical and Societal Implications: Interrogating the ethical, historical, and cultural impacts of AI in learning and education, such as privacy and bias.
+-   Ethical and Societal Implications: Interrogating the ethical, historical, and cultural impacts of AI in learning and education, such as privacy and bias.
 
 Strong applicants will be distinguished by the quality of their research, their use of rigorous methods, and the significance of their work for policy and practice.
 
----
+------------------------------------------------------------------------
 
-## Postdoc Research Association - AI Learning Technologies @ USC
+## Postdoc Research Association - AI Learning Technologies \@ USC
 
-The Learning Sciences group would like to share a position opening for a postdoctoral researcher. If you have any questions, please contact Dr. Ben Nye (nye@ict.usc.edu).
+The Learning Sciences group would like to share a position opening for a postdoctoral researcher. If you have any questions, please contact Dr. Ben Nye (nye\@ict.usc.edu).
 
 Additional details are below.
 
----
+------------------------------------------------------------------------
 
-Postdoctoral Research Associate - AI Learning Technologies
-University of Southern California, Institute for Creative Technologies
+Postdoctoral Research Associate - AI Learning Technologies University of Southern California, Institute for Creative Technologies
 
 Apply at: https://usccareers.usc.edu/job/los-angeles/postdoctoral-research-associate-ai-learning-technologies/1209/53758066992
