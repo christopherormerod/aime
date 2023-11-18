@@ -18,4 +18,3 @@ We suggest three initial applied areas for exploration: 
 
 Generative AI is taking the world by storm, and we believe NCME can make a deep and substantive contribution to how this technology is used in education.  A special interest group on Artificial Intelligence (AI) in Measurement and Education would provide a timely forum for researchers and practitioners in the use of AI in Education and Measurement to share their work, discuss challenges, and develop best practices. 
 
-\
