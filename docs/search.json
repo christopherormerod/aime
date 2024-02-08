@@ -18,7 +18,7 @@
     "href": "events.html#speaker-series",
     "title": "Events",
     "section": "Speaker Series",
-    "text": "Speaker Series\nIf you are interested in presenting, please contact the leadership team. Guidelines for speakers can be found here.\n\nJuly 12th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle: “Khanmigo” Demonstration & Lessons Learned Building GenAI Apps\nPresenter: Kristen Dicerbo, Chief Learning Officer, Khan Academy\nTitle: Open Source Revolution: Large Models on Small Hardware\nPresenter: Chris Ormerod, Principal Data Scientist, Cambium Assessment\n\nAugust 9th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle : Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning\nPresenter: Andrew Lan, University of Massachusetts Amherst\nRecording : [link] (Passcode: BaF?W=@6)\n\nSeptember 13th 4:00pm - 5:00pm (EST). Slides\nTitle: Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks\nPresenter: Andrew Runge, Duolingo\nRecording : [link] (Passcode: MA4^r8E#)\n\nOctober 11th 4:00pm - 5:00pm (EST) Slides\nTitle: Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies\nPresenter: Réne Kizilcec, Assistant Professor, Purdue University [link]\n\nNovember 8th 4:00pm - 5:00pm (EST) Slides\nTitle: Exploring the Results of the NAEP Math and Reading Automated Scoring Challenges: Implications for Fairness\nPresenter: Maggie Beiting-Parrish, Federation of American Scientists [link]\n\n\nDecember 13th 4:00pm - 5:00pm (EST)\n\nTitle: Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference\nPresenter: Zachary Levonian"
+    "text": "Speaker Series\nIf you are interested in presenting, please contact the leadership team. Guidelines for speakers can be found here.\n\nJuly 12th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle: “Khanmigo” Demonstration & Lessons Learned Building GenAI Apps\nPresenter: Kristen Dicerbo, Chief Learning Officer, Khan Academy\nTitle: Open Source Revolution: Large Models on Small Hardware\nPresenter: Chris Ormerod, Principal Data Scientist, Cambium Assessment\n\nAugust 9th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle : Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning\nPresenter: Andrew Lan, University of Massachusetts Amherst\nRecording : [link] (Passcode: BaF?W=@6)\n\nSeptember 13th 4:00pm - 5:00pm (EST). Slides\nTitle: Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks\nPresenter: Andrew Runge, Duolingo\nRecording : [link] (Passcode: MA4^r8E#)\n\nOctober 11th 4:00pm - 5:00pm (EST) Slides\nTitle: Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies\nPresenter: Réne Kizilcec, Assistant Professor, Purdue University [link]\n\nNovember 8th 4:00pm - 5:00pm (EST) Slides\nTitle: Exploring the Results of the NAEP Math and Reading Automated Scoring Challenges: Implications for Fairness\nPresenter: Maggie Beiting-Parrish, Federation of American Scientists [link]\n\nDecember 13th 4:00pm - 5:00pm (EST)\nTitle: Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference\nPresenter: Zachary Levonian [link]\n\n\nMember Events 2024\nFebruary 14th 4:00pm - 5:00pm (EST)\nTitle: An Application of Text Embeddings to Support Alignment of Educational Content Standards\nPresenters: Harold Doran & Reese Butterfuss, Human Resources Research Organization"
   },
   {
     "objectID": "events.html#white-paper-proposal",
@@ -26,13 +26,6 @@
     "title": "Events",
     "section": "White Paper Proposal",
     "text": "White Paper Proposal\n\nCall for Participation - The ethical use of AI in educational measurement\nWe are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:\n\nAccountability when AI is used for measurement\nDetection and mitigation of algorithmic bias when using AI for measurement\nTransparency in the use of AI for measurement\nToxicity in generative AI applications\nRegulations on the ethical use of AI for measurement\n\nIf you are interested, please email Okan Bulut at bulut@ualberta.ca."
-  },
-  {
-    "objectID": "events.html#special-issue-for-tesol-quarterly",
-    "href": "events.html#special-issue-for-tesol-quarterly",
-    "title": "Events",
-    "section": "Special issue for TESOL Quarterly",
-    "text": "Special issue for TESOL Quarterly\n\nExploring the Effects of Generative AI on the Teaching, Learning, and Assessment of English Productive Skills\nWe invite empirical (quantitative, qualitative, and mixed-methods) papers on a wide range of topics including, but not limited to:\n\nIntegration of generative AI techniques to augment instructional and assessment practices\n\nEfficacy of generative AI tools in improving productive language skills\nStrategies leveraging generative AI technology during assessment processes\nUser interface and user experience design in generative AI tools in language education\nEthical issues and considerations of generative AI in language teaching and assessment\n\nSubmission Guidelines:\nFor the special issue, we are accepting submissions for Full-Length Articles and Brief Reports. Those interested in contributing to the special issue should send the following information to both guest editors at tqspecialissue2025@gmail.com by January 31, 2024"
   },
   {
     "objectID": "guidelines.html",
@@ -145,6 +138,62 @@
     "title": "Artificial Intelligence in Measurement and Education",
     "section": "Leveraging Large Language Models for Assessment Support: Applications and Implications",
     "text": "Leveraging Large Language Models for Assessment Support: Applications and Implications\nJournal: Computers and Education: Artificial Intelligence (Open Access)\nPublished: 28 June 2023\nDeadline: 30 October 2023\nContact: Prof. Rafael Ferreira Mello at rflm@cesar.org.br\nURL: Call for Papers\nThis special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process."
+  },
+  {
+    "objectID": "meetings/December2023/slides.html#introductions",
+    "href": "meetings/December2023/slides.html#introductions",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Introductions",
+    "text": "Introductions\nExecutive Board\n\nCo-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+  },
+  {
+    "objectID": "meetings/December2023/slides.html#outline",
+    "href": "meetings/December2023/slides.html#outline",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Outline",
+    "text": "Outline\n\nOverview & Updates\nToday’s Speaker: Zachary Levonian, Digital Harbor Foundation\nAdditional SIG Updates & Calls for Participation"
+  },
+  {
+    "objectID": "meetings/December2023/slides.html#overview-and-updates",
+    "href": "meetings/December2023/slides.html#overview-and-updates",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Overview and Updates",
+    "text": "Overview and Updates\nThe Annual Meeting will be held April 11-14, 2024 in Philadelphia, PA.\nUsing Generative AI in Education: Results from Large-Scale EdTech Platform R&D\nPresenters:\nAndrew Runge (Senior Research Engineer, Duolingo)\nAndrew Lan (Assistant Professor, UMASS-Amherst)\nKristen Dicerbo (Chief Learning Officer, Khan Academy)\nPaul Deane (Principal Research Scientist, ETS)\n\nChair: John Whitmer (Senior Fellow, Federation of American Scientists)\nModerator: Christopher Ormerod (Cambium Assessments)\nDiscussant: Maggie Beiting-Parrish (Federation of American Scientists)"
+  },
+  {
+    "objectID": "meetings/December2023/slides.html#ncme-committee-on-informing-assessment-policy.",
+    "href": "meetings/December2023/slides.html#ncme-committee-on-informing-assessment-policy.",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "NCME Committee on Informing Assessment Policy.",
+    "text": "NCME Committee on Informing Assessment Policy.\nThe CIAP will be hosting a 90-minute webinar on the dynamic landscape of artificial intelligence in K-12 education and assessment with a specialized focus on policy considerations.\nDate: January 25, 2024\nTime: 11-12:30 am ET | 10-11:30 CT | 8-9:30 PT\nContact: regina.lewis@maine.gov"
+  },
+  {
+    "objectID": "meetings/December2023/slides.html#the-ethical-use-of-ai-in-educational-measurement",
+    "href": "meetings/December2023/slides.html#the-ethical-use-of-ai-in-educational-measurement",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "The ethical use of AI in educational measurement",
+    "text": "The ethical use of AI in educational measurement\nWe are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:\n\nAccountability when AI is used for measurement\nDetection and mitigation of algorithmic bias when using AI for measurement\nTransparency in the use of AI for measurement\nToxicity in Generative AI\nRegulations on the ethical use of AI for measurement\n\nIf you are interested, please email Okan Bulut at bulut@ualberta.ca."
+  },
+  {
+    "objectID": "meetings/December2023/slides.html#collaboration-with-salal",
+    "href": "meetings/December2023/slides.html#collaboration-with-salal",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Collaboration with SALAL",
+    "text": "Collaboration with SALAL\nThe State & Local Assessment Leaders SIGIMIE. Talk series on\nHow can AI benefit State & Local Assessment Leaders:\n\nImproved Scoring, Accommodations, Lessons, and Results.\nCustomized translation, reporting, lesson plans.\nTime, cost, and effort efficiencies.\n\nAddressing the concerns of State & Local Assessment Leaders:\n\nCost, compromised learning, decrease human interactions\nThreat to Jobs, security, PII concerns, Bias.\n\nIf you are interested in working with SALAL towards a series that promotes the widespread adoption of AI in Education, contact christopher.ormerod@cambiumassessment.com."
+  },
+  {
+    "objectID": "meetings/December2023/slides.html#special-issue-for-tesol-quarterly",
+    "href": "meetings/December2023/slides.html#special-issue-for-tesol-quarterly",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Special issue for TESOL Quarterly",
+    "text": "Special issue for TESOL Quarterly\nExploring the Effects of Generative AI on the Teaching, Learning, and Assessment of English Productive Skills\nTopics include:\n\nIntegration of generative AI techniques to augment instructional and assessment practices\nEfficacy of generative AI tools in improving productive language skills\nStrategies leveraging generative AI technology during assessment processes\nUser interface and user experience design in generative AI tools in language education\nEthical issues and considerations of generative AI in language teaching and assessment\n\nDeadline for abstract submission: January 31, 2024\nInvitation for full paper: February 15, 2024\nContact: tqspecialissue2025@gmail.com"
+  },
+  {
+    "objectID": "meetings/December2023/slides.html#aaai2024-workshop-on-ai-for-education",
+    "href": "meetings/December2023/slides.html#aaai2024-workshop-on-ai-for-education",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "AAAI2024 Workshop on AI for Education",
+    "text": "AAAI2024 Workshop on AI for Education\nBridging Innovation and Responsibility\nThis two-day in-person workshop explores the innovations in artificial intelligence (AI), specifically generative-AI (GenAI), in educational applications, and discusses the related ethical implications of responsible-AI (RAI).\nDay 1. Cognitive and learning science principles for improving genAI-based learning frameworks and tutoring systems.\nDay 2. Responsible AI (RAI; e.g., Fairness, Accountability, Interpretability, and Transparency) for consequential decision-making in education (e.g. admissions, early warning systems, grading).\n\n\nhttps://ai4ed.cc/workshops/aaai2024\nDate: February 26-27, 2024\nLocation: Vancouver Convention Center, Vancouver, Canada"
   },
   {
     "objectID": "meetings/July2023/slides.html#executive-board",

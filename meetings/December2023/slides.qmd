@@ -1,0 +1,146 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   Overview & Updates
+-   Today's Speaker:  Zachary Levonian, Digital Harbor Foundation
+-   Additional SIG Updates & Calls for Participation
+
+## Overview and Updates
+
+The Annual Meeting will be held April 11-14, 2024 in Philadelphia, PA. 
+
+**Using Generative AI in Education: Results from Large-Scale EdTech Platform R\&D**
+
+**Presenters:**
+
+Andrew Runge (Senior Research Engineer, Duolingo)
+
+Andrew Lan (Assistant Professor, UMASS-Amherst)
+
+Kristen Dicerbo (Chief Learning Officer, Khan Academy)
+
+Paul Deane (Principal Research Scientist, ETS) 
+
+<br>
+
+**Chair:** John Whitmer (Senior Fellow, Federation of American Scientists)
+
+**Moderator:** Christopher Ormerod (Cambium Assessments)
+
+**Discussant:** Maggie Beiting-Parrish (Federation of American Scientists) 
+
+<br>
+
+
+
+# Today's Research Presentation
+
+**Speaker:** Zachary Levonian, Digital Harbor Foundation
+
+**Title:** Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference
+
+# Additional SIG Updates & Calls for Participation
+
+## NCME Committee on Informing Assessment Policy.  
+
+The CIAP will be hosting a 90-minute webinar on the dynamic landscape of artificial intelligence in K-12 education and assessment with a specialized focus on policy considerations. 
+
+**Date:** January 25, 2024
+
+**Time:** 11-12:30 am ET | 10-11:30 CT | 8-9:30 PT 
+
+**Contact:** regina.lewis\@maine.gov
+
+## The ethical use of AI in educational measurement
+
+We are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:
+
+-   Accountability when AI is used for measurement
+
+-   Detection and mitigation of algorithmic bias when using AI for measurement
+
+-   Transparency in the use of AI for measurement
+
+-   Toxicity in Generative AI
+
+-   Regulations on the ethical use of AI for measurement
+
+If you are interested, please email Okan Bulut at bulut\@ualberta.ca.
+
+## Collaboration with SALAL
+
+The State & Local Assessment Leaders SIGIMIE. Talk series on
+
+### How can AI benefit State & Local Assessment Leaders:
+
+-   Improved Scoring, Accommodations, Lessons, and Results.
+
+-   Customized translation, reporting, lesson plans.
+
+-   Time, cost, and effort efficiencies.
+
+### Addressing the concerns of State & Local Assessment Leaders:
+
+-   Cost, compromised learning, decrease human interactions
+
+-   Threat to Jobs, security, PII concerns, Bias.
+
+If you are interested in working with SALAL towards a series that promotes the widespread adoption of AI in Education, contact christopher.ormerod\@cambiumassessment.com.
+
+## Special issue for TESOL Quarterly
+
+### Exploring the Effects of Generative AI on the Teaching, Learning, and Assessment of English Productive Skills
+
+Topics include:
+
+-   Integration of generative AI techniques to augment instructional and assessment practices
+
+-   Efficacy of generative AI tools in improving productive language skills
+
+-   Strategies leveraging generative AI technology during assessment processes
+
+-   User interface and user experience design in generative AI tools in language education
+
+-   Ethical issues and considerations of generative AI in language teaching and assessment
+
+**Deadline for abstract submission:** January 31, 2024
+
+**Invitation for full paper:** February 15, 2024
+
+**Contact:** tqspecialissue2025\@gmail.com
+
+## AAAI2024 Workshop on AI for Education
+
+### Bridging Innovation and Responsibility
+
+This two-day in-person workshop explores the innovations in artificial intelligence (AI), specifically generative-AI (GenAI), in educational applications, and discusses the related ethical implications of responsible-AI (RAI). 
+
+**Day 1.** Cognitive and learning science principles for improving genAI-based learning frameworks and tutoring systems.
+
+**Day 2.** Responsible AI (RAI; e.g., Fairness, Accountability, Interpretability, and Transparency) for consequential decision-making in education (e.g. admissions, early warning systems, grading).
+
+<br>
+
+<center>[https://ai4ed.cc/workshops/aaai2024](https://ai4ed.cc/workshops/aaai2024)
+
+**Date:** February 26-27, 2024
+
+**Location:** Vancouver Convention Center, Vancouver, Canada</center>

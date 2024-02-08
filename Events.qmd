@@ -68,13 +68,21 @@ November 8th 4:00pm - 5:00pm (EST) [Slides](meetings/November2023/slides.html)
 
 ------------------------------------------------------------------------
 
--   December 13th 4:00pm - 5:00pm (EST)
+December 13th 4:00pm - 5:00pm (EST)
 
 **Title:** Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference
 
-**Presenter:** Zachary Levonian
+**Presenter:** Zachary Levonian \[[link](https://drive.google.com/file/d/1x1rHOZVzbfxtdUbGWXPPbMHo0iafAkDk/view?usp=drive_link)\]
 
 ------------------------------------------------------------------------
+
+### **Member Events 2024**
+
+February 14th 4:00pm - 5:00pm (EST)
+
+**Title:** An Application of Text Embeddings to Support Alignment of Educational Content Standards
+
+**Presenters:** Harold Doran & Reese Butterfuss, Human Resources Research Organization
 
 # Active Publication Opportunities
 
@@ -99,49 +107,29 @@ We are looking for researchers to contribute to a white paper on the Ethical use
 If you are interested, please email Okan Bulut at [bulut\@ualberta.ca](mailto:bulut@ualberta.ca).
 
 
-## Special issue for TESOL Quarterly
-
-### Exploring the Effects of Generative AI on the Teaching, Learning, and Assessment of English Productive Skills
-
-We	invite	empirical (quantitative,	qualitative,	and	mixed-methods)	papers	on	a	wide	range	of	topics including,	but	not	limited	to:
-
-- Integration	of	generative	AI	techniques	to	augment	instructional	and	assessment	practices	
-- Efficacy	of	generative	AI	tools	in	improving	productive	language	skills	
-
-- Strategies	leveraging	generative	AI	technology	during	assessment	processes
-
-- User	interface	and	user	experience	design	in	generative	AI	tools	in	language	education
-
-- Ethical	issues	and	considerations of	generative	AI	in	language	teaching	and	assessment
-
-**Submission	Guidelines:**
-
-For	the	special	issue,	we	are	accepting	submissions	for	Full-Length	Articles	and	Brief	Reports.	Those	interested	in	contributing	to	the	special	issue	should	send	the	following	information	to	both	guest	editors	at	tqspecialissue2025@gmail.com by	January	31,	2024
-
 # Special Issue Education and Information Technologies
 
-Special Issue on Applications of Generative Artificial Intelligence Technologies in Education
-Applications of generative technologies to education are diverse and can be described through several viewpoints: Stakeholders, employment sector, ethical issues. Expected contributions include the following, but as we write this call for papers new applications appear in new contexts, so works illustrating other points of view are also welcome:
+Special Issue on Applications of Generative Artificial Intelligence Technologies in Education Applications of generative technologies to education are diverse and can be described through several viewpoints: Stakeholders, employment sector, ethical issues. Expected contributions include the following, but as we write this call for papers new applications appear in new contexts, so works illustrating other points of view are also welcome:
 
-- helpful tools for teachers, such as MCQ generators that simplify their daily tasks and save more time for direct interaction with students
+-   helpful tools for teachers, such as MCQ generators that simplify their daily tasks and save more time for direct interaction with students
 
-- changing teachers’ and institutions’ evaluation practices to avoid possible cheating and plagiarism
+-   changing teachers' and institutions' evaluation practices to avoid possible cheating and plagiarism
 
-- personalized advice and follow up for students, new tools available for helping them in solving many problems
+-   personalized advice and follow up for students, new tools available for helping them in solving many problems
 
-- new policies design by institutions, including new diploma architectures
-applications dedicated to parents
-- new curricula adapted in terms of content as well as in ways of teaching and learning
+-   new policies design by institutions, including new diploma architectures applications dedicated to parents
+
+-   new curricula adapted in terms of content as well as in ways of teaching and learning
 
 From an ethical viewpoint,
 
-- how to deal with potential “fakes” everywhere
-- would educators and parents accept the use of core tools applications if their underlying principles are not made public?
-- would educators and parents accept new tools if their training needs a computing power that only a handful of private world corporations can afford and that needs huge amounts of energy?
-- How does generative artificial intelligence affect progress towards the United Nation's Sustainable Development Goal 4, on ensuring inclusive and equitable quality education for all? 
+-   how to deal with potential "fakes" everywhere
+-   would educators and parents accept the use of core tools applications if their underlying principles are not made public?
+-   would educators and parents accept new tools if their training needs a computing power that only a handful of private world corporations can afford and that needs huge amounts of energy?
+-   How does generative artificial intelligence affect progress towards the United Nation's Sustainable Development Goal 4, on ensuring inclusive and equitable quality education for all?
 
 Submission website www.editorialmanager.com/eait
 
----
+------------------------------------------------------------------------
 
 Please send any new entries to John Whitmer [jwhitmer\@fas.org](mailto:jwhitmer@fas.org){.email} and Maggie Beiting-Parrish [Magdalen.Beiting\@ed.gov](mailto:Magdalen.Beiting@ed.gov){.email}
