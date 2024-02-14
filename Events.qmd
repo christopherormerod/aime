@@ -78,7 +78,7 @@ December 13th 4:00pm - 5:00pm (EST)
 
 ### **Member Events 2024**
 
-February 14th 4:00pm - 5:00pm (EST)
+February 14th 4:00pm - 5:00pm (EST) [Slides](meetings/February2024/slides.html)
 
 **Title:** An Application of Text Embeddings to Support Alignment of Educational Content Standards
 

@@ -1,0 +1,107 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   Overview & Updates
+-   Today's Speaker: Harold Doran \& Reese Butterfuss, Human Resources Research Organization
+
+An Application of Text Embeddings to Support Alignment of Educational Content Standards
+
+-   Additional SIG Updates & Calls for Participation
+
+
+## NCME Annual Conference
+
+The NCME Schedule has been released and is available from 
+
+https://convention2.allacademic.com/one/ncme/ncme24/
+
+- Our SIGIMIE session is on Friday.
+
+- We are planning an in-person get-together on Saturday.
+
+## Research Presentation
+
+Harold Doran \& Reese Butterfuss, Human Resources Research Organization
+
+An Application of Text Embeddings to Support Alignment of Educational Content Standards
+
+# Additional SIG Updates & Calls for Participation
+
+
+## ATP EdTech Conference
+
+**Dates:** Friday, March 3rd - 6th, 2024
+
+**Place:** Anaheim, CA
+
+From the introduction of generative AI to the expansion of test security, our industry faces a new horizon of technical evolution. Now more than ever, it is imperative that we come together to learn, share, and guide the assessment industry through this transformation.
+
+[https://www.innovationsintesting.org/](https://www.innovationsintesting.org/)
+
+## Webinar AI-Based Assessment
+
+**Webinar:** AI-Based Assessment: Promises, Progress, and Pitfalls
+Sponsored by Buros Center for Testing and the MAP Academy at UNL
+ 
+**Date:** Friday, March 1st, 2024 
+
+**Time:** 11:00 a.m. to 1:30 p.m. CST
+ 
+Five psychologists working in education, business, and healthcare will share their expertise and insights on the advantages and disadvantages of using AI-based assessments.  Researchers and practitioners will have the opportunity to hear from and engage these experts in this discussion.  Continuing education credit and group discounts are available.
+
+For more information and to register, visit 
+
+[https://buros.org/ai-based-assessment-webinar-panel](https://buros.org/ai-based-assessment-webinar-panel)
+
+## Teaching and Learning with AI
+
+**Dates:** July 22nd-24th, 2024
+
+**Place:** Orlando, FL
+
+The Teaching & Learning with AI conference aims to discuss how to use AI tools effectively in instruction and support. By joining this conversation, you can help shape the impact of artificial intelligence in both teaching and learning.
+
+[https://digitallearning.ucf.edu/teachwithai/](https://digitallearning.ucf.edu/teachwithai/)
+
+## AI+Education Summit
+
+### AI in the Service of Teaching and Learning
+
+**Date:** Wednesday, February 15, 2023
+**Time:** 9:00 a.m. - 5:00 p.m. PST
+
+This summit showcased the latest research in AI & education from Stanford faculty and researchers, examined how AI can be used to advance human learning through new pedagogies, new modalities of assessment, new foundation models, and more. In doing so, the summit asked the question of how AI can transform teaching and learning in an ethical, equitable, and safe manner.
+
+[https://hai.stanford.edu/events/aieducation-summit-ai-service-teaching-and-learning](https://hai.stanford.edu/events/aieducation-summit-ai-service-teaching-and-learning)
+
+## AI For Educators Conference 2024
+
+### Artificial Intelligence: Friend or Foe?
+
+**Date:** 15th of July
+
+Curious to know how schools and districts successfully implement artificial intelligence (AI) in educational settings? Eager to get real-world examples of how AI is personalizing learning, increasing student engagement, improving processes, increasing productivity, and more?
+
+Discover how AI can benefit you at the AI for Educators Conference (AI for Edu)!
+
+[https://tcea.org/event/ai-for-educators-conference-2024/](https://tcea.org/event/ai-for-educators-conference-2024/)
+
+# Thank You
