@@ -20,14 +20,14 @@ format:
 ## Outline
 
 -   Overview & Updates
--   Today's Speaker:  Zachary Levonian, Digital Harbor Foundation
+-   Today's Speaker: Zachary Levonian, Digital Harbor Foundation
 -   Additional SIG Updates & Calls for Participation
 
 ## Overview and Updates
 
-The Annual Meeting will be held April 11-14, 2024 in Philadelphia, PA. 
+The Annual Meeting will be held April 11-14, 2024 in Philadelphia, PA.
 
-**Using Generative AI in Education: Results from Large-Scale EdTech Platform R\&D**
+**Using Generative AI in Education: Results from Large-Scale EdTech Platform R&D**
 
 **Presenters:**
 
@@ -37,7 +37,7 @@ Andrew Lan (Assistant Professor, UMASS-Amherst)
 
 Kristen Dicerbo (Chief Learning Officer, Khan Academy)
 
-Paul Deane (Principal Research Scientist, ETS) 
+Paul Deane (Principal Research Scientist, ETS)
 
 <br>
 
@@ -45,11 +45,9 @@ Paul Deane (Principal Research Scientist, ETS)
 
 **Moderator:** Christopher Ormerod (Cambium Assessments)
 
-**Discussant:** Maggie Beiting-Parrish (Federation of American Scientists) 
+**Discussant:** Maggie Beiting-Parrish (Federation of American Scientists)
 
 <br>
-
-
 
 # Today's Research Presentation
 
@@ -59,13 +57,13 @@ Paul Deane (Principal Research Scientist, ETS)
 
 # Additional SIG Updates & Calls for Participation
 
-## NCME Committee on Informing Assessment Policy.  
+## NCME Committee on Informing Assessment Policy.
 
-The CIAP will be hosting a 90-minute webinar on the dynamic landscape of artificial intelligence in K-12 education and assessment with a specialized focus on policy considerations. 
+The CIAP will be hosting a 90-minute webinar on the dynamic landscape of artificial intelligence in K-12 education and assessment with a specialized focus on policy considerations.
 
 **Date:** January 25, 2024
 
-**Time:** 11-12:30 am ET | 10-11:30 CT | 8-9:30 PT 
+**Time:** 11-12:30 am ET \| 10-11:30 CT \| 8-9:30 PT
 
 **Contact:** regina.lewis\@maine.gov
 
@@ -131,7 +129,7 @@ Topics include:
 
 ### Bridging Innovation and Responsibility
 
-This two-day in-person workshop explores the innovations in artificial intelligence (AI), specifically generative-AI (GenAI), in educational applications, and discusses the related ethical implications of responsible-AI (RAI). 
+This two-day in-person workshop explores the innovations in artificial intelligence (AI), specifically generative-AI (GenAI), in educational applications, and discusses the related ethical implications of responsible-AI (RAI).
 
 **Day 1.** Cognitive and learning science principles for improving genAI-based learning frameworks and tutoring systems.
 
@@ -139,8 +137,12 @@ This two-day in-person workshop explores the innovations in artificial intellige
 
 <br>
 
-<center>[https://ai4ed.cc/workshops/aaai2024](https://ai4ed.cc/workshops/aaai2024)
+<center>
+
+<https://ai4ed.cc/workshops/aaai2024>
 
 **Date:** February 26-27, 2024
 
-**Location:** Vancouver Convention Center, Vancouver, Canada</center>
+**Location:** Vancouver Convention Center, Vancouver, Canada
+
+</center>
