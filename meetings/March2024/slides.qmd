@@ -1,0 +1,72 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   Overview & Updates
+
+-   Today's Speaker: Victoria Yaneva, National Board of Medical Examiners
+
+
+-   Additional SIG Updates & Calls for Participation
+
+## NCME Annual Conference
+
+The NCME Schedule has been released and is available from
+
+https://convention2.allacademic.com/one/ncme/ncme24/
+
+-   Our session is Friday, April 12, 10:05 to 11:05am, Convention Center, Floor: Fourth, Terrace Ballroom III
+
+-   We are planning an in-person get-together on Saturday.
+
+-   Proceedings of the NCME conference by AIME members.
+
+## Research Presentation
+
+Victoria Yaneva, National Board of Medical Examiners
+
+Using Large Language Models for Item Development beyond Language Testing: Barriers and Opportunities
+
+# Additional SIG Updates & Calls for Participation
+
+## Teaching and Learning with AI
+
+**Dates:** July 22nd-24th, 2024
+
+**Place:** Orlando, FL
+
+The Teaching & Learning with AI conference aims to discuss how to use AI tools effectively in instruction and support. By joining this conversation, you can help shape the impact of artificial intelligence in both teaching and learning.
+
+<https://digitallearning.ucf.edu/teachwithai/>
+
+
+## AI For Educators Conference 2024
+
+### Artificial Intelligence: Friend or Foe?
+
+**Date:** 15th of July
+
+Curious to know how schools and districts successfully implement artificial intelligence (AI) in educational settings? Eager to get real-world examples of how AI is personalizing learning, increasing student engagement, improving processes, increasing productivity, and more?
+
+Discover how AI can benefit you at the AI for Educators Conference (AI for Edu)!
+
+<https://tcea.org/event/ai-for-educators-conference-2024/>
+
+# Thank You

@@ -84,6 +84,15 @@ February 14th 4:00pm - 5:00pm (EST) [Slides](meetings/February2024/slides.html)
 
 **Presenters:** Harold Doran & Reese Butterfuss, Human Resources Research Organization
 
+------------------------------------------------------------------------
+
+February 14th 4:00pm - 5:00pm (EST) [Slides](meetings/March2024/slides.html)
+
+**Title:** Using Large Language Models for Item Development beyond Language Testing: Barriers and Opportunities
+
+**Presenters:** Victoria Yaneva, National Board of Medical Examiners
+
+
 # Active Publication Opportunities
 
 This is a running list of potentially relevant publication opportunities for Generative AI.
@@ -105,7 +114,6 @@ We are looking for researchers to contribute to a white paper on the Ethical use
 -   Regulations on the ethical use of AI for measurement
 
 If you are interested, please email Okan Bulut at [bulut\@ualberta.ca](mailto:bulut@ualberta.ca).
-
 
 # Special Issue Education and Information Technologies
 
