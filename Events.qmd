@@ -86,11 +86,19 @@ February 14th 4:00pm - 5:00pm (EST) [Slides](meetings/February2024/slides.html)
 
 ------------------------------------------------------------------------
 
-February 14th 4:00pm - 5:00pm (EST) [Slides](meetings/March2024/slides.html)
+March 14th 4:00pm - 5:00pm (EST) [Slides](meetings/March2024/slides.html)
 
 **Title:** Using Large Language Models for Item Development beyond Language Testing: Barriers and Opportunities
 
-**Presenters:** Victoria Yaneva, National Board of Medical Examiners
+**Presenter:** Victoria Yaneva, National Board of Medical Examiners
+
+------------------------------------------------------------------------
+
+April 11th-14th : NCME Annual Conference
+
+Consider this [Schedule of Talks about AI and Measurement or Education](meetings/NCME2024/ncme-conference.html)
+
+------------------------------------------------------------------------
 
 
 # Active Publication Opportunities
