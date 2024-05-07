@@ -1,0 +1,11 @@
+---
+title: "NCME Conference Proceedings 2024"
+format: 
+  html:
+    page-layout: full
+---
+
+
+Kwako, A., & Ormerod, C. (2024). [Improving Transformer-Based Automated Scoring of K-12 Science Items](https://drive.google.com/file/d/1G1xc2B44lC8BwtELF69HKKKEs5eFIvz5/view?usp=drive_link). In Proceedings of the National Council on Measurement in Education (NCME) 2024 Conference, Philadelphia, PA.
+
+Lottridge, S., Burkhardt, A., Ormerod, C., Wolf, S., Young, M., Patel, M., Wang, H., Frost, J., McBeth, K., Benson, J., Flynn, M., Dwyer, K., Fitz, S., Berkheiser, R., Floyd, H., Davis, D., & Godek, B. (2024). [Write-on with Cambi: The development of an argumentative writing feedback tool](https://drive.google.com/file/d/1gAhk31TFbUIFl6KSmeq4-SvzdRR28Hj6/view?usp=drive_link). In Proceedings of the National Council on Measurement in Education (NCME) 2024 Conference, Philadelphia, PA.

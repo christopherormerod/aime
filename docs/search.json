@@ -49,11 +49,74 @@
     "text": "Postdoc Research Association - AI Learning Technologies @ USC\nThe Learning Sciences group would like to share a position opening for a postdoctoral researcher. If you have any questions, please contact Dr. Ben Nye (nye@ict.usc.edu).\nAdditional details are below.\n\nPostdoctoral Research Associate - AI Learning Technologies University of Southern California, Institute for Creative Technologies\n\nApply at: https://usccareers.usc.edu/job/los-angeles/postdoctoral-research-associate-ai-learning-technologies/1209/53758066992"
   },
   {
-    "objectID": "meetings/NCME2024/ncme-conference.html",
-    "href": "meetings/NCME2024/ncme-conference.html",
-    "title": "NCME Conference",
+    "objectID": "meetings/NCME2024/proceedings.html",
+    "href": "meetings/NCME2024/proceedings.html",
+    "title": "NCME Conference Proceedings 2024",
     "section": "",
-    "text": "Time\n7:45 - 9:15 am\nFriday\nKeynote Lecture\nSaturday\nSunday\nRecent Innovations in Automated Scoring\nFloor: First, 120C\n\nAutomated Scoring II\nFloor: First, 121C\n\n\n9:35 - 10:05 am\nKeynote Lecture\n\nInnovations and Practices of AI and Language Models in Large-Scale Assessments\nFloor: First, 121A\nMachine Learning Aspects of Computational Psychometrics\nFloor: First, 124\n\n\n10:05 - 11:05 am\nUsing Generative AI in Education: Results from Large-Scale EdTech Platform R&D\nFloor: Fourth, Terrace Ballroom III\n\nMachine Learning Aspects of Computational Psychometrics\nFloor: First, 124\n\n\n11:25 - 12:25 pm\nApplications of AI\nFloor: First, 124\nGSIC Poster Session II\nFloor: Fourth, Terrace Ballroom IV\n\n\n\n1:15 - 2:45pm\nAssessment on the AI: Challenges and Opportunities of Leveraging Large Language Model\n\nFloor: First, 121C\nAutomated Scoring I\nFloor: First, 125\nInnovation Demonstration I\nFloor: Fourth, Terrace Ballroom IV\nRevolutionizing Alignment and Tagging Using AI: Results from the Front Lines\nFloor: First, 123\nInnovations in the Measurement of 21st Century Skills\nFloor: First, 120C\nTackling Challenges in Automated Scoring: Data Augmentation, Multilingualism, and Feedback Mechanisms\nFloor: First, 121C\nInnovation Demonstration II\nFloor: Fourth, Terrace Ballroom IV\nScaling, Linking, and Equating in Automatic Item Generation\nFloor: First, 123\nElectronic Board Session II\nFloor: Fourth, Terrace Ballroom IV\n\n\n3:05 - 4:35 pm\n\nOne Year After GPT-4: How AI Changed Assessments?\nFloor: Fourth, Terrace Ballroom III\n\nAutomatic Item Generation\nFloor: First, 121C\nAddressing Fairness Concerns in Digital-First, AI-Powered Testing Environments\nFloor: First, 121C\nCulturally Responsive and Sustaining Approaches to Constructed Response Scoring in Assessment\nFloor: First, 120C\n\n\n4:55 - 6:25 pm\n\nSparking a Debate on the Role of Artificial Intelligence in Educational Measurement\n\nFloor: Fourth, Terrace Ballroom III"
+    "text": "Kwako, A., & Ormerod, C. (2024). Improving Transformer-Based Automated Scoring of K-12 Science Items. In Proceedings of the National Council on Measurement in Education (NCME) 2024 Conference, Philadelphia, PA.\nLottridge, S., Burkhardt, A., Ormerod, C., Wolf, S., Young, M., Patel, M., Wang, H., Frost, J., McBeth, K., Benson, J., Flynn, M., Dwyer, K., Fitz, S., Berkheiser, R., Floyd, H., Davis, D., & Godek, B. (2024). Write-on with Cambi: The development of an argumentative writing feedback tool. In Proceedings of the National Council on Measurement in Education (NCME) 2024 Conference, Philadelphia, PA."
+  },
+  {
+    "objectID": "meetings/May2024/slides.html#introductions",
+    "href": "meetings/May2024/slides.html#introductions",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Introductions",
+    "text": "Introductions\nExecutive Board\n\nCo-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+  },
+  {
+    "objectID": "meetings/May2024/slides.html#outline",
+    "href": "meetings/May2024/slides.html#outline",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Outline",
+    "text": "Outline\n\nOverview & Updates\nToday’s Speaker: Rose E. Wang, Stanford University\nAdditional SIG Updates & Calls for Participation"
+  },
+  {
+    "objectID": "meetings/May2024/slides.html#updates",
+    "href": "meetings/May2024/slides.html#updates",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Updates",
+    "text": "Updates\nZotero\nOpen Bibliography of LLMs in Education\nURL: https://www.zotero.org/groups/5515175/llms-4-edu_public/library\nDescription:\n\nWe’ve converted the Zotero Group into a public group, and AIMIE members can post resources/links and search for existing resources. There are currently 126 resources of empirical studies & conceptual work.\nWelcome your additions – greatest interest is on empirical studies that apply LLMs to education context and provide measures of accuracy / insight / impact. Critical work and vendor-provided work also posted.\nOrganizing a project to conduct a broader meta-analysis and synthesis of existing work; if interested in participating, contact John (jwhitmer@fas.org)"
+  },
+  {
+    "objectID": "meetings/May2024/slides.html#updates-1",
+    "href": "meetings/May2024/slides.html#updates-1",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Updates",
+    "text": "Updates\nZotero\n\n\n\n\nEasy to export library as a bibtex file.\nAdd references using Chrome/Edge/Safari/Firefox Connectors\nIntegration with Word, LibreOffice, Google Docs, Overleaf (paid), …"
+  },
+  {
+    "objectID": "meetings/May2024/slides.html#updates-2",
+    "href": "meetings/May2024/slides.html#updates-2",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Updates",
+    "text": "Updates\nZotero\nThe papers are currently categorized:"
+  },
+  {
+    "objectID": "meetings/May2024/slides.html#updates-3",
+    "href": "meetings/May2024/slides.html#updates-3",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Updates",
+    "text": "Updates\nCall for participation\nResource Subgroup: We are looking to develop a resource subgroup.\nThe primary objectives of this subgroup are:\n\nDeveloping a repository of articles focused on AI in Measurement and Education.\nEstablishing a repository of code for prompting and fine-tuning Large Language Models (LLMs) in Assessment."
+  },
+  {
+    "objectID": "meetings/May2024/slides.html#research-presentation",
+    "href": "meetings/May2024/slides.html#research-presentation",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Research Presentation",
+    "text": "Research Presentation\nNatural Language Processing for Improving Student Learning Outcomes\nRose E. Wang, Stanford University"
+  },
+  {
+    "objectID": "meetings/May2024/slides.html#teaching-and-learning-with-ai",
+    "href": "meetings/May2024/slides.html#teaching-and-learning-with-ai",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Teaching and Learning with AI",
+    "text": "Teaching and Learning with AI\nDates: July 22nd-24th, 2024\nPlace: Orlando, FL\nThe Teaching & Learning with AI conference aims to discuss how to use AI tools effectively in instruction and support. By joining this conversation, you can help shape the impact of artificial intelligence in both teaching and learning.\nhttps://digitallearning.ucf.edu/teachwithai/"
+  },
+  {
+    "objectID": "meetings/May2024/slides.html#ai-for-educators-conference-2024",
+    "href": "meetings/May2024/slides.html#ai-for-educators-conference-2024",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "AI For Educators Conference 2024",
+    "text": "AI For Educators Conference 2024\nArtificial Intelligence: Friend or Foe?\nDate: 15th of July\nCurious to know how schools and districts successfully implement artificial intelligence (AI) in educational settings? Eager to get real-world examples of how AI is personalizing learning, increasing student engagement, improving processes, increasing productivity, and more?\nDiscover how AI can benefit you at the AI for Educators Conference (AI for Edu)!\nhttps://tcea.org/event/ai-for-educators-conference-2024/"
   },
   {
     "objectID": "meetings/June2023/slides.html#executive-board",
@@ -474,6 +537,13 @@
     "title": "Artificial Intelligence in Measurement and Education",
     "section": "AI For Educators Conference 2024",
     "text": "AI For Educators Conference 2024\nArtificial Intelligence: Friend or Foe?\nDate: 15th of July\nCurious to know how schools and districts successfully implement artificial intelligence (AI) in educational settings? Eager to get real-world examples of how AI is personalizing learning, increasing student engagement, improving processes, increasing productivity, and more?\nDiscover how AI can benefit you at the AI for Educators Conference (AI for Edu)!\nhttps://tcea.org/event/ai-for-educators-conference-2024/"
+  },
+  {
+    "objectID": "meetings/NCME2024/ncme-conference.html",
+    "href": "meetings/NCME2024/ncme-conference.html",
+    "title": "NCME Conference",
+    "section": "",
+    "text": "Time\n7:45 - 9:15 am\nFriday\nKeynote Lecture\nSaturday\nSunday\nRecent Innovations in Automated Scoring\nFloor: First, 120C\n\nAutomated Scoring II\nFloor: First, 121C\n\n\n9:35 - 10:05 am\nKeynote Lecture\n\nInnovations and Practices of AI and Language Models in Large-Scale Assessments\nFloor: First, 121A\nMachine Learning Aspects of Computational Psychometrics\nFloor: First, 124\n\n\n10:05 - 11:05 am\nUsing Generative AI in Education: Results from Large-Scale EdTech Platform R&D\nFloor: Fourth, Terrace Ballroom III\n\nMachine Learning Aspects of Computational Psychometrics\nFloor: First, 124\n\n\n11:25 - 12:25 pm\nApplications of AI\nFloor: First, 124\nGSIC Poster Session II\nFloor: Fourth, Terrace Ballroom IV\n\n\n\n1:15 - 2:45pm\nAssessment on the AI: Challenges and Opportunities of Leveraging Large Language Model\n\nFloor: First, 121C\nAutomated Scoring I\nFloor: First, 125\nInnovation Demonstration I\nFloor: Fourth, Terrace Ballroom IV\nRevolutionizing Alignment and Tagging Using AI: Results from the Front Lines\nFloor: First, 123\nInnovations in the Measurement of 21st Century Skills\nFloor: First, 120C\nTackling Challenges in Automated Scoring: Data Augmentation, Multilingualism, and Feedback Mechanisms\nFloor: First, 121C\nInnovation Demonstration II\nFloor: Fourth, Terrace Ballroom IV\nScaling, Linking, and Equating in Automatic Item Generation\nFloor: First, 123\nElectronic Board Session II\nFloor: Fourth, Terrace Ballroom IV\n\n\n3:05 - 4:35 pm\n\nOne Year After GPT-4: How AI Changed Assessments?\nFloor: Fourth, Terrace Ballroom III\n\nAutomatic Item Generation\nFloor: First, 121C\nAddressing Fairness Concerns in Digital-First, AI-Powered Testing Environments\nFloor: First, 121C\nCulturally Responsive and Sustaining Approaches to Constructed Response Scoring in Assessment\nFloor: First, 120C\n\n\n4:55 - 6:25 pm\n\nSparking a Debate on the Role of Artificial Intelligence in Educational Measurement\n\nFloor: Fourth, Terrace Ballroom III"
   },
   {
     "objectID": "meetings/November2023/slides.html#introductions",

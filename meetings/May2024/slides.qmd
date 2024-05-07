@@ -1,0 +1,122 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   Overview & Updates
+
+-   Today's Speaker: Rose E. Wang, Stanford University
+
+-   Additional SIG Updates & Calls for Participation
+
+## Updates
+
+### Zotero
+
+Open Bibliography of LLMs in Education
+
+URL: <https://www.zotero.org/groups/5515175/llms-4-edu_public/library>
+
+Description:
+
+-   We’ve converted the Zotero Group into a public group, and AIMIE members can post resources/links and search for existing resources. There are currently 126 resources of empirical studies & conceptual work.
+
+-   Welcome your additions – greatest interest is on empirical studies that apply LLMs to education context and provide measures of accuracy / insight / impact. Critical work and vendor-provided work also posted.
+
+-   Organizing a project to conduct a broader meta-analysis and synthesis of existing work; if interested in participating, contact John ([jwhitmer\@fas.org](mailto:jwhitmer@fas.org))
+
+## Updates
+
+### Zotero
+
+::: {.column width="70%"}
+
+![](zotero1.png)
+:::
+
+- Easy to export library as a bibtex file. 
+
+- Add references using Chrome/Edge/Safari/Firefox Connectors
+
+- Integration with Word, LibreOffice, Google Docs, Overleaf (paid), ...
+
+## Updates
+
+### Zotero
+
+The papers are currently categorized:
+
+::: {.column width="15%"}
+
+![](zotero2.png)
+
+::: 
+
+::: {.column width="80%"}
+
+![](zotero3.png)
+
+::: 
+
+
+## Updates
+
+### Call for participation
+
+**Resource Subgroup:** We are looking to develop a resource subgroup.
+
+The primary objectives of this subgroup are:
+
+-   Developing a repository of articles focused on AI in Measurement and Education.
+
+-   Establishing a repository of code for prompting and fine-tuning Large Language Models (LLMs) in Assessment.
+
+## Research Presentation
+
+
+### Natural Language Processing for Improving Student Learning Outcomes
+
+Rose E. Wang, Stanford University
+
+
+# Additional SIG Updates & Calls for Participation
+
+## Teaching and Learning with AI
+
+**Dates:** July 22nd-24th, 2024
+
+**Place:** Orlando, FL
+
+The Teaching & Learning with AI conference aims to discuss how to use AI tools effectively in instruction and support. By joining this conversation, you can help shape the impact of artificial intelligence in both teaching and learning.
+
+<https://digitallearning.ucf.edu/teachwithai/>
+
+## AI For Educators Conference 2024
+
+### Artificial Intelligence: Friend or Foe?
+
+**Date:** 15th of July
+
+Curious to know how schools and districts successfully implement artificial intelligence (AI) in educational settings? Eager to get real-world examples of how AI is personalizing learning, increasing student engagement, improving processes, increasing productivity, and more?
+
+Discover how AI can benefit you at the AI for Educators Conference (AI for Edu)!
+
+<https://tcea.org/event/ai-for-educators-conference-2024/>
+
+# Thank You
