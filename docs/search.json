@@ -67,35 +67,35 @@
     "href": "meetings/May2024/slides.html#outline",
     "title": "Artificial Intelligence in Measurement and Education",
     "section": "Outline",
-    "text": "Outline\n\nOverview & Updates\nToday’s Speaker: Rose E. Wang, Stanford University\nAdditional SIG Updates & Calls for Participation"
+    "text": "Outline\n\nAIME Updates\nToday’s Speaker: Rose E. Wang, Stanford University\nAdditional SIG Updates & Calls for Participation"
   },
   {
-    "objectID": "meetings/May2024/slides.html#updates",
-    "href": "meetings/May2024/slides.html#updates",
+    "objectID": "meetings/May2024/slides.html#aime-updates",
+    "href": "meetings/May2024/slides.html#aime-updates",
     "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Updates",
-    "text": "Updates\nZotero\nOpen Bibliography of LLMs in Education\nURL: https://www.zotero.org/groups/5515175/llms-4-edu_public/library\nDescription:\n\nWe’ve converted the Zotero Group into a public group, and AIMIE members can post resources/links and search for existing resources. There are currently 126 resources of empirical studies & conceptual work.\nWelcome your additions – greatest interest is on empirical studies that apply LLMs to education context and provide measures of accuracy / insight / impact. Critical work and vendor-provided work also posted.\nOrganizing a project to conduct a broader meta-analysis and synthesis of existing work; if interested in participating, contact John (jwhitmer@fas.org)"
+    "section": "AIME Updates",
+    "text": "AIME Updates\nZotero\nOpen Bibliography of LLMs in Education\nURL: https://www.zotero.org/groups/5515175/llms-4-edu_public/library\nDescription:\n\nWe’ve converted the Zotero Group into a public group, and AIMIE members can post resources/links and search for existing resources. There are currently 126 resources of empirical studies & conceptual work.\nWelcome your additions – greatest interest is on empirical studies that apply LLMs to education context and provide measures of accuracy / insight / impact. Critical work and vendor-provided work also posted.\nOrganizing a project to conduct a broader meta-analysis and synthesis of existing work; if interested in participating, contact John (jwhitmer@fas.org)"
   },
   {
-    "objectID": "meetings/May2024/slides.html#updates-1",
-    "href": "meetings/May2024/slides.html#updates-1",
+    "objectID": "meetings/May2024/slides.html#aime-updates-1",
+    "href": "meetings/May2024/slides.html#aime-updates-1",
     "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Updates",
-    "text": "Updates\nZotero\n\n\n\n\nEasy to export library as a bibtex file.\nAdd references using Chrome/Edge/Safari/Firefox Connectors\nIntegration with Word, LibreOffice, Google Docs, Overleaf (paid), …"
+    "section": "AIME Updates",
+    "text": "AIME Updates\nZotero\n\n\n\n\nEasy to export library as a bibtex file.\nAdd references using Chrome/Edge/Safari/Firefox Connectors\nIntegration with Word, LibreOffice, Google Docs, Overleaf (paid), …"
   },
   {
-    "objectID": "meetings/May2024/slides.html#updates-2",
-    "href": "meetings/May2024/slides.html#updates-2",
+    "objectID": "meetings/May2024/slides.html#aime-updates-2",
+    "href": "meetings/May2024/slides.html#aime-updates-2",
     "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Updates",
-    "text": "Updates\nZotero\nThe papers are currently categorized:"
+    "section": "AIME Updates",
+    "text": "AIME Updates\nZotero\nThe papers are currently categorized:"
   },
   {
-    "objectID": "meetings/May2024/slides.html#updates-3",
-    "href": "meetings/May2024/slides.html#updates-3",
+    "objectID": "meetings/May2024/slides.html#aime-updates-3",
+    "href": "meetings/May2024/slides.html#aime-updates-3",
     "title": "Artificial Intelligence in Measurement and Education",
-    "section": "Updates",
-    "text": "Updates\nCall for participation\nResource Subgroup: We are looking to develop a resource subgroup.\nThe primary objectives of this subgroup are:\n\nDeveloping a repository of articles focused on AI in Measurement and Education.\nEstablishing a repository of code for prompting and fine-tuning Large Language Models (LLMs) in Assessment."
+    "section": "AIME Updates",
+    "text": "AIME Updates\nCall for participation\nResource Subgroup: We are looking to develop a resource subgroup.\nThe primary objectives of this subgroup are:\n\nDeveloping a repository of articles focused on AI in Measurement and Education.\nEstablishing a repository of code for prompting and fine-tuning Large Language Models (LLMs) in Assessment."
   },
   {
     "objectID": "meetings/May2024/slides.html#research-presentation",
@@ -103,6 +103,13 @@
     "title": "Artificial Intelligence in Measurement and Education",
     "section": "Research Presentation",
     "text": "Research Presentation\nNatural Language Processing for Improving Student Learning Outcomes\nRose E. Wang, Stanford University"
+  },
+  {
+    "objectID": "meetings/May2024/slides.html#ai-education-summit",
+    "href": "meetings/May2024/slides.html#ai-education-summit",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "AI & Education Summit",
+    "text": "AI & Education Summit\nDates: July 24 – 26, 2024\nPlace: Cambridge, MA USA\nAs computers continue to automate more routine tasks, AI education is a key enabler to future opportunities where success depends increasingly on intellect, creativity, empathy, and having the right skills and knowledge. Being digitally literate is no longer sufficient in the era of AI.\nhttps://raise.mit.edu/events/ai-education-summit\nPaper submissions must be submitted via EasyChair by 11:59 PM EDT on May 24th, 2024."
   },
   {
     "objectID": "meetings/May2024/slides.html#teaching-and-learning-with-ai",

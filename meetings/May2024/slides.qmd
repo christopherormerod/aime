@@ -19,13 +19,13 @@ format:
 
 ## Outline
 
--   Overview & Updates
+-   AIME Updates
 
 -   Today's Speaker: Rose E. Wang, Stanford University
 
 -   Additional SIG Updates & Calls for Participation
 
-## Updates
+## AIME Updates
 
 ### Zotero
 
@@ -41,7 +41,7 @@ Description:
 
 -   Organizing a project to conduct a broader meta-analysis and synthesis of existing work; if interested in participating, contact John ([jwhitmer\@fas.org](mailto:jwhitmer@fas.org))
 
-## Updates
+## AIME Updates
 
 ### Zotero
 
@@ -56,7 +56,7 @@ Description:
 
 - Integration with Word, LibreOffice, Google Docs, Overleaf (paid), ...
 
-## Updates
+## AIME Updates
 
 ### Zotero
 
@@ -75,7 +75,7 @@ The papers are currently categorized:
 ::: 
 
 
-## Updates
+## AIME Updates
 
 ### Call for participation
 
@@ -96,6 +96,19 @@ Rose E. Wang, Stanford University
 
 
 # Additional SIG Updates & Calls for Participation
+
+## AI & Education Summit
+
+**Dates:** July 24 – 26, 2024
+
+**Place:** Cambridge, MA USA 
+
+As computers continue to automate more routine tasks, AI education is a key enabler to future opportunities where success depends increasingly on intellect, creativity, empathy, and having the right skills and knowledge. Being digitally literate is no longer sufficient in the era of AI.
+
+[https://raise.mit.edu/events/ai-education-summit](https://raise.mit.edu/events/ai-education-summit)
+
+Paper submissions must be submitted via EasyChair by 11:59 PM EDT on May 24th, 2024.
+
 
 ## Teaching and Learning with AI
 
