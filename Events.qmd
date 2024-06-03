@@ -110,43 +110,57 @@ May 8th 4:00pm - 5:00pm (EST)
 
 June 12th 4:00pm - 5:00pm (EST)
 
-**Title:** Write On with Cambi: The development of an argumentative writing feedback tool
-
-**Presenters:** Christopher Ormerod, Amy Burkhardt, and Milan Patel from Cambium Assessment
-
-------------------------------------------------------------------------
-
-July 10th 4:00pm - 5:00pm
-
 **Title:** TBD
 
-**Presenters:** Corey Palermo from Measurement Inc. and Josh Wilson from the University of Delaware
-
+**Presenter:** TBD
 
 ------------------------------------------------------------------------
 
 
 # Active Publication Opportunities
 
-## The 49th International Association for Educational Assessment (IAEA) Annual Conference
+This is a running list of potentially relevant publication opportunities for Generative AI.
 
-The 49th International Association for Educational Assessment (IAEA) Annual Conference, hosted by ETS in Philadelphia, Pennsylvania, U.S., will provide an opportunity for industry thought leaders, training providers, and practitioners to examine current  and recent advancements in educational assessments, focusing on the theme How Can AI Help Improve Educational Assessments? While AI has gained broader interest globally in education and beyond with the creation of chat GPT and the subsequent emergence of many other tools and applications based on generative AI, forms of AI have been used in assessments for decades, including automatic item generation for new assessments, natural language processing (NLP) or large-language model (LLM) methods for automatic scoring of essays (e.g., ETS e-rater), or onthefly individualized assessment assembly based on computer-adaptive testing (CAT).
+## White Paper Proposal
 
-**Place**: Philadelphia, PA
+### Call for Participation - The ethical use of AI in educational measurement
 
-**Date**: September 22–25, 2024
+We are looking for researchers to contribute to a white paper on the Ethical use of AI in educational measurement. Examples of topics include the following:
 
-[https://iaea.info/](https://iaea.info/)
+-   Accountability when AI is used for measurement
 
-## The Teaching & Learning with AI conference
+-   Detection and mitigation of algorithmic bias when using AI for measurement
 
-Teaching & Learning with AI is designed for instructors, higher education professionals, librarians, researchers, and policymakers who are interested in exploring the potential of AI in higher ed across the higher education landscape. If you want to learn more about how you can leverage AI to improve learning outcomes, research, services, and operations, then this is a must-attend event.
+-   Transparency in the use of AI for measurement
 
-**Place**: Orlando, FL
+-   Toxicity in generative AI applications
 
-**Date**: July 22–24, 2024
+-   Regulations on the ethical use of AI for measurement
 
-[https://digitallearning.ucf.edu/teachwithai/](https://digitallearning.ucf.edu/teachwithai/)
+If you are interested, please email Okan Bulut at [bulut\@ualberta.ca](mailto:bulut@ualberta.ca).
+
+# Special Issue Education and Information Technologies
+
+Special Issue on Applications of Generative Artificial Intelligence Technologies in Education Applications of generative technologies to education are diverse and can be described through several viewpoints: Stakeholders, employment sector, ethical issues. Expected contributions include the following, but as we write this call for papers new applications appear in new contexts, so works illustrating other points of view are also welcome:
+
+-   helpful tools for teachers, such as MCQ generators that simplify their daily tasks and save more time for direct interaction with students
+
+-   changing teachers' and institutions' evaluation practices to avoid possible cheating and plagiarism
+
+-   personalized advice and follow up for students, new tools available for helping them in solving many problems
+
+-   new policies design by institutions, including new diploma architectures applications dedicated to parents
+
+-   new curricula adapted in terms of content as well as in ways of teaching and learning
+
+From an ethical viewpoint,
+
+-   how to deal with potential "fakes" everywhere
+-   would educators and parents accept the use of core tools applications if their underlying principles are not made public?
+-   would educators and parents accept new tools if their training needs a computing power that only a handful of private world corporations can afford and that needs huge amounts of energy?
+-   How does generative artificial intelligence affect progress towards the United Nation's Sustainable Development Goal 4, on ensuring inclusive and equitable quality education for all?
+
+Submission website www.editorialmanager.com/eait
 
 ------------------------------------------------------------------------
 
