@@ -90,7 +90,7 @@ March 14th 4:00pm - 5:00pm (EST) [Slides](meetings/March2024/slides.html)
 
 **Title:** Using Large Language Models for Item Development beyond Language Testing: Barriers and Opportunities
 
-**Presenter:** Victoria Yaneva, National Board of Medical Examiners
+**Presenter:** Victoria Yaneva, National Board of Medical Examiners 
 
 ------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ May 8th 4:00pm - 5:00pm (EST)
 
 **Title:** Natural Language Processing for Improving Student Learning Outcomes
 
-**Presenter:** Rose E. Wang, Stanford University
+**Presenter:** Rose E. Wang, Stanford University \[[link](https://drive.google.com/file/d/1oX5MwTNqd3Bb1MngWL95Ixw66MWJYaUt/view?usp=drive_link])\]
 
 ------------------------------------------------------------------------
 
