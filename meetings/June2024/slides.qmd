@@ -41,7 +41,7 @@ The theme of the 2025 NCME Annual Meeting is "Educational Measurement: In Servic
 
 ## AIME Updates
 
-### Andrew Ho
+### Discussion with Andrew Ho and Katherine Castellano
 
 - Discussion of the proposal process and encourage members to work together to advance coordinated proposals.
 
@@ -61,8 +61,8 @@ The primary objectives of this subgroup are:
 
 ### Synthesis of LLMs for Education Evidence
  
-Building on the [existing Zotero repository]( https://www.zotero.org/groups/5515175/llms-4-edu_public), [Google archive here](https://docs.google.com/document/d/18oWafIFc_l-jU5S6-Fktg81eRV07sVDYfrlrFJ_vS64/edit?usp=drive_link), conduct a literature review of LLMs in Education and synthesize the a) methods used to evaluate validity, reliability and fairness and b) identify benchmarks and threshold levels. 
- 
+Building on the previously shared [public Zotero group](https://www.zotero.org/groups/5515175/llms-4-edu_public), [Google archive version](https://docs.google.com/document/d/18oWafIFc_l-jU5S6-Fktg81eRV07sVDYfrlrFJ_vS64/edit?usp=drive_link), conduct a literature review & synthesis of LLMs in Education with two goals: a) identify methods used to evaluate validity, reliability and fairness and b) set benchmarks and threshold levels. 
+
 We have developed an [initial project scope]( https://docs.google.com/document/d/1w-od6u2GQjgJmWboeapaAaiLbTmMLHGKdJF8YzA5C7I/edit?usp=drive_link), and several subcommittee members (Kehinde James, Daniel Olutola, Olushola Soyoye, and John Whitmer) have begun working on it, building on discussions at NCME.
  
 Our next meeting is on 6/24 @ 1pm PT; please contact Kehinde if you would like to join or add [this link](http://meet.google.com/gxs-tzwe-xga).
