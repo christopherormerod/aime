@@ -100,7 +100,7 @@ Consider this [Schedule of Talks about AI and Measurement or Education](meetings
 
 ------------------------------------------------------------------------
 
-May 8th 4:00pm - 5:00pm (EST)
+May 8th 4:00pm - 5:00pm (EST) [Slides](meetings/May2024/slides.html)
 
 **Title:** Natural Language Processing for Improving Student Learning Outcomes
 
