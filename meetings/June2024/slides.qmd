@@ -67,6 +67,21 @@ We have developed an [initial project scope]( https://docs.google.com/document/d
  
 Our next meeting is on 6/24 @ 1pm PT; please contact Kehinde if you would like to join or add [this link](http://meet.google.com/gxs-tzwe-xga).
 
+
+## AIME Updates
+
+### Synthesis of LLMs for Education Evidence
+ 
+![](image002.png)
+
+
+## AIME Updates
+
+### Synthesis of LLMs for Education Evidence
+ 
+![](image003.png)
+
+
 ## AIME Updates
 
 ### Routledge International Handbook of Automated Essay Evaluation
