@@ -24,6 +24,8 @@ The white paper can be downloaded from the arxiv:
 
 [https://arxiv.org/abs/2406.18900](https://arxiv.org/abs/2406.18900)
 
+A special thanks to Okan Bulut for his organization and all the authors for putting this together.
+
 ## Leadership Team
 
 **Co-chair:** [Christopher Ormerod](mailto:christopher.ormerod@gmail.com)

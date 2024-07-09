@@ -49,6 +49,8 @@ Okan Bulut, Maggie Beiting-Parrish, Jodi M Casabianca, Sharon C Slater, Hong Jia
 
 <https://arxiv.org/abs/2406.18900>
 
+A special thanks to Okan Bulut for his organization and all the authors for putting this together. 
+
 ## Research Presentation
 
 ### Examining Automated Writing Evaluation Tools
