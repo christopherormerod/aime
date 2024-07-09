@@ -1,0 +1,110 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   AIME Updates
+
+-   Today's Speakers: Corey Palermo from Measurement Incorporated and Joshua Wilson from the University of Delaware
+
+-   Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+### NCME Annual Meeting
+
+The theme of the 2025 NCME Annual Meeting is "Educational Measurement: In Service of Society." The theme emphasizes the "why" of our work in educational measurement and echoes the last three words of the [NCME mission](https://www.ncme.org/about/about-ncme/mission): "to advance theory and applications of educational measurement **to benefit society**"
+
+**Proposal Deadline:** Friday, September 13, 11:59PM PDT
+
+**Dates:** April 23-26, 2025
+
+**Place:** Denver, CO
+
+<https://www.ncme.org/event/annual-meeting/upcoming-meeting2025>
+
+## AIME Updates
+
+The white paper on the ethical use of AI in Educational Measurement is available
+
+### The Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges
+
+Okan Bulut, Maggie Beiting-Parrish, Jodi M Casabianca, Sharon C Slater, Hong Jiao, Dan Song, Christopher M Ormerod, Deborah Gbemisola Fabiyi, Rodica Ivan, Cole Walsh, Oscar Rios, Joshua Wilson, Seyma N Yildirim-Erbasli, Tarid Wongvorachan, Joyce Xinle Liu, Bin Tan, Polina Morilova
+
+<https://arxiv.org/abs/2406.18900>
+
+## Research Presentation
+
+### Examining Automated Writing Evaluation Tools
+
+Corey Palermo from Measurement Incorporated and Joshua Wilson from the University of Delaware
+
+### Abstract
+
+In this session, Corey Palermo from Measurement Incorporated and Joshua Wilson from the University of Delaware will present their research on AWE tools. The session will begin with an overview of various lines of AWE research. Following this, the speakers will summarize the results of two focal studies: one investigating Elementary English learners' engagement with automated feedback and another examining the causal impact of AWE on student writing outcomes. The session will conclude with implications and recommendations for researchers and developers of AWE tools. Participants will also have the opportunity for questions and discussion.
+
+# Additional SIG Updates & Calls for Participation
+
+## Postdoc in NLP for Education at U. Mass. Amherst
+
+We are seeking a full-time postdoctoral research associate to work in the machine learning for education (ML4Ed) research group, led by Andrew Lan, at UMass. Research directions:
+
+-   First, natural language processing (NLP) for education, including large language model (LLM)-based student modeling, question/feedback/learning content generation, automated scoring and student error diagnosis, etc.
+
+-   Second, building a national cyberinfrastructure for transforming STEM education, a \$90M project funded via NSF’s mid-scale research infrastructure-2 program.
+
+Ideal candidates have a strong publication record in relevant areas. Applicants should have a PhD degree (by the time they start) in computer science or a related field (e.g., education, psychology).
+
+Please send your CV to [andrewlan\@cs.umass.edu](mailto:andrewlan@cs.umass.edu) if interested. 
+
+## AI & Education Summit
+
+**Dates:** July 24 – 26, 2024
+
+**Place:** Cambridge, MA USA
+
+As computers continue to automate more routine tasks, AI education is a key enabler to future opportunities where success depends increasingly on intellect, creativity, empathy, and having the right skills and knowledge. Being digitally literate is no longer sufficient in the era of AI.
+
+<https://raise.mit.edu/events/ai-education-summit>
+
+Paper submissions must be submitted via EasyChair by 11:59 PM EDT on May 24th, 2024.
+
+## Teaching and Learning with AI
+
+**Dates:** July 22nd-24th, 2024
+
+**Place:** Orlando, FL
+
+The Teaching & Learning with AI conference aims to discuss how to use AI tools effectively in instruction and support. By joining this conversation, you can help shape the impact of artificial intelligence in both teaching and learning.
+
+<https://digitallearning.ucf.edu/teachwithai/>
+
+## AI For Educators Conference 2024
+
+### Artificial Intelligence: Friend or Foe?
+
+**Date:** 15th of July
+
+Curious to know how schools and districts successfully implement artificial intelligence (AI) in educational settings? Eager to get real-world examples of how AI is personalizing learning, increasing student engagement, improving processes, increasing productivity, and more?
+
+Discover how AI can benefit you at the AI for Educators Conference (AI for Edu)!
+
+<https://tcea.org/event/ai-for-educators-conference-2024/>
+
+# Thank You

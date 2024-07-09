@@ -14,9 +14,19 @@ Interested in joining us? The signup form can be found [here](https://form.jotfo
 
 For any additional information regarding this SIGIMIE, please contact a member of the leadership team.
 
-# Leadership Team
+## White paper on the use of AI in Educational Measurement
 
-**Co-chair:** [Christopher Ormerod](mailto:christopher.ormerod@cambiumassessment.com)
+This AIME initiative is a collaboration between authors from Academia, Government, and Industry. 
+
+### The Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges
+
+The white paper can be downloaded from the arxiv:
+
+[https://arxiv.org/abs/2406.18900](https://arxiv.org/abs/2406.18900)
+
+## Leadership Team
+
+**Co-chair:** [Christopher Ormerod](mailto:christopher.ormerod@gmail.com)
 
 **Co-chair:** [John Whitmer](mailto:jwhitmer@fas.org)
 

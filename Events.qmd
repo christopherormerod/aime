@@ -90,7 +90,7 @@ March 14th 4:00pm - 5:00pm (EST) [Slides](meetings/March2024/slides.html)
 
 **Title:** Using Large Language Models for Item Development beyond Language Testing: Barriers and Opportunities
 
-**Presenter:** Victoria Yaneva, National Board of Medical Examiners 
+**Presenter:** Victoria Yaneva, National Board of Medical Examiners
 
 ------------------------------------------------------------------------
 
@@ -104,11 +104,11 @@ May 8th 4:00pm - 5:00pm (EST) [Slides](meetings/May2024/slides.html)
 
 **Title:** Natural Language Processing for Improving Student Learning Outcomes
 
-**Presenter:** Rose E. Wang, Stanford University \[[link](https://drive.google.com/file/d/1oX5MwTNqd3Bb1MngWL95Ixw66MWJYaUt/view?usp=drive_link])\]
+**Presenter:** Rose E. Wang, Stanford University \[[link](https://drive.google.com/file/d/1oX5MwTNqd3Bb1MngWL95Ixw66MWJYaUt/view?usp=drive_link%5D)\]
 
 ------------------------------------------------------------------------
 
-June 12th 4:00pm - 5:00pm (EST)
+June 12th 4:00pm - 5:00pm (EST) [Slides](meetings/June2024/slides.html)
 
 **Title:** Write On with Cambi: The development of an argumentative writing feedback tool
 
@@ -116,27 +116,25 @@ June 12th 4:00pm - 5:00pm (EST)
 
 ------------------------------------------------------------------------
 
-July 10th 4:00pm - 5:00pm
+July 10th 4:00pm - 5:00pm (EST) [Slides](meetings/July2024/slides.html)
 
-**Title:** TBD
+**Title:** Examining Automated Writing Evaluation Tools
 
 **Presenters:** Corey Palermo from Measurement Inc. and Josh Wilson from the University of Delaware
 
-
 ------------------------------------------------------------------------
-
 
 # Active Publication Opportunities
 
 ## The 49th International Association for Educational Assessment (IAEA) Annual Conference
 
-The 49th International Association for Educational Assessment (IAEA) Annual Conference, hosted by ETS in Philadelphia, Pennsylvania, U.S., will provide an opportunity for industry thought leaders, training providers, and practitioners to examine current  and recent advancements in educational assessments, focusing on the theme How Can AI Help Improve Educational Assessments? While AI has gained broader interest globally in education and beyond with the creation of chat GPT and the subsequent emergence of many other tools and applications based on generative AI, forms of AI have been used in assessments for decades, including automatic item generation for new assessments, natural language processing (NLP) or large-language model (LLM) methods for automatic scoring of essays (e.g., ETS e-rater), or onthefly individualized assessment assembly based on computer-adaptive testing (CAT).
+The 49th International Association for Educational Assessment (IAEA) Annual Conference, hosted by ETS in Philadelphia, Pennsylvania, U.S., will provide an opportunity for industry thought leaders, training providers, and practitioners to examine current and recent advancements in educational assessments, focusing on the theme How Can AI Help Improve Educational Assessments? While AI has gained broader interest globally in education and beyond with the creation of chat GPT and the subsequent emergence of many other tools and applications based on generative AI, forms of AI have been used in assessments for decades, including automatic item generation for new assessments, natural language processing (NLP) or large-language model (LLM) methods for automatic scoring of essays (e.g., ETS e-rater), or onthefly individualized assessment assembly based on computer-adaptive testing (CAT).
 
 **Place**: Philadelphia, PA
 
 **Date**: September 22–25, 2024
 
-[https://iaea.info/](https://iaea.info/)
+<https://iaea.info/>
 
 ## The Teaching & Learning with AI conference
 
@@ -146,7 +144,7 @@ Teaching & Learning with AI is designed for instructors, higher education profes
 
 **Date**: July 22–24, 2024
 
-[https://digitallearning.ucf.edu/teachwithai/](https://digitallearning.ucf.edu/teachwithai/)
+<https://digitallearning.ucf.edu/teachwithai/>
 
 ------------------------------------------------------------------------
 
