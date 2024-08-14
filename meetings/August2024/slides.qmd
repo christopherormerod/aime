@@ -1,0 +1,140 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   AIME Updates
+
+-   Today's Speakers: Sergio Araneda form Caveon
+
+-   Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+### NCME Annual Meeting
+
+The theme of the 2025 NCME Annual Meeting is "Educational Measurement: In Service of Society." The theme emphasizes the "why" of our work in educational measurement and echoes the last three words of the [NCME mission](https://www.ncme.org/about/about-ncme/mission): "to advance theory and applications of educational measurement **to benefit society**"
+
+**Proposal Deadline:** Friday, September 13, 11:59PM PDT
+
+**Dates:** April 23-26, 2025
+
+**Place:** Denver, CO
+
+<https://www.ncme.org/event/annual-meeting/upcoming-meeting2025>
+
+* Note: Many of you are organizing sessions. 
+
+## AIME Updates
+
+### NCME Reviewers Wanted 
+
+The NCME Annual Meeting Co-Chairs, Katherine Castellana and Scott Monroe, and our president, Andrew Ho, are looking for reviewers
+
+<https://www.xcdsystem.com/ncme/member/index.cfm>
+
+In collaboration with the board, we have created four AI-based categories:
+
+- AI: Automated Item Generation and Validation using AI 
+
+- AI: Automated Scoring and Feedback using AI 
+
+- AI: Evaluation of AI in Education
+
+- AI: Fairness and Ethics of AI in Education
+
+Please consider being a reviewer, discussant, or chair for any of the above areas or any others. 
+
+## AIME Updates
+
+### Do we want a special conference AIME conference?
+
+NCME leadership is seeking early proposals NCME events, which may primarily consist of:
+
+- a statement of the purpose of the event and how it aligns to NCME’s mission;
+- preliminary details about the time, place, and intended audience;
+- identification of an Organizing Committee (or at least its Chair or Co-Chairs) who take responsibility for all aspects of planning (albeit assisted by NCME planning staff); and
+- any additional details about the topic, potential speakers, session formats, or possibilities for fundraising that you wish to highlight, if known.
+
+The NCME meeting planners will assist with project management, venue selection, event registration, and advertising.
+
+### Interested in taking the lead on this? 
+
+## AIME Updates
+
+The white paper on the ethical use of AI in Educational Measurement is available
+
+### The Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges
+
+Okan Bulut, Maggie Beiting-Parrish, Jodi M Casabianca, Sharon C Slater, Hong Jiao, Dan Song, Christopher M Ormerod, Deborah Gbemisola Fabiyi, Rodica Ivan, Cole Walsh, Oscar Rios, Joshua Wilson, Seyma N Yildirim-Erbasli, Tarid Wongvorachan, Joyce Xinle Liu, Bin Tan, Polina Morilova
+
+<https://arxiv.org/abs/2406.18900>
+
+A special thanks to Okan Bulut for his organization and all the authors for putting this together.
+
+## Research Presentation
+
+### Securing Tests with AI: Initial Explorations in Item Generation
+
+Sergio Araneda from Caveon
+
+### Abstract
+
+Generative AI and off-the-shelf large language models (LLMs) offer transformative possibilities for enhancing test security. This presentation delves into the potential of AI to prevent cheating by enabling the creation of randomly parallel tests. We will share initial explorations at Caveon, highlighting research focused on leveraging AI for test security purposes. Specifically, we will discuss methods for generating a large volume of diverse items and domain templates, which help to randomize tests and mitigate the risk of pre-knowledge. A key case study will be presented, showcasing the development of approximately 1,500 items for a client through a semi-automated process. Additionally, we will explore the use of LLMs to facilitate the programming of SmartItems and examine prompt engineering techniques for binary response items. This presentation provides a comprehensive overview of our research, advocating for the use of AI not just to expedite existing processes, but to enable more profound innovations in test development practices.
+
+# Additional SIG Updates & Calls for Participation
+
+## Postdoc in NLP for Education at U. Mass. Amherst
+
+We are seeking a full-time postdoctoral research associate to work in the machine learning for education (ML4Ed) research group, led by Andrew Lan, at UMass. Research directions:
+
+-   First, natural language processing (NLP) for education, including large language model (LLM)-based student modeling, question/feedback/learning content generation, automated scoring and student error diagnosis, etc.
+
+-   Second, building a national cyberinfrastructure for transforming STEM education, a \$90M project funded via NSF’s mid-scale research infrastructure-2 program.
+
+Ideal candidates have a strong publication record in relevant areas. Applicants should have a PhD degree (by the time they start) in computer science or a related field (e.g., education, psychology).
+
+Please send your CV to [andrewlan\@cs.umass.edu](mailto:andrewlan@cs.umass.edu) if interested.
+
+## 49th Annual IAEA Conference
+
+### How Can AI Help Improve Educational Assessments?
+
+The 49th International Association for Educational Assessment (IAEA) Annual Conference, hosted by ETS in Philadelphia, Pennsylvania, U.S., will provide an opportunity for industry thought leaders, training providers, and practitioners to examine current and recent advancements in educational assessments, focusing on the theme How Can AI Help Improve Educational Assessments?
+
+**Date:** 22-25 September 2024
+
+**Place:** Philadelphia
+
+<https://iaea.info/iaea-2024-annual-conference-updates/>
+
+
+## 2024 NCME Special Conference on Classroom Assessment
+
+### Reclaiming the Promise of Balanced Assessment Systems: Achieving Deeper Learning at Scale for Both Students and Adults.
+
+This year’s special conference is being co-hosted by the University of Illinois at Chicago and the Chicago Public Schools, with support from the Center for Assessment. These hosts continue NCME’s longstanding commitment to improving assessment practices that privilege deeper learning for all, and that happen directly between teachers and their students.
+
+**Date:** 19-20 September 2024
+
+**Place:** Chigaco
+
+<https://www.ncme.org/event/classroom-assessment/upcoming-meeting>
+
+# Thank You

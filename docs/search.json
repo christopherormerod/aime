@@ -287,111 +287,6 @@
     "text": "AAAI2024 Workshop on AI for Education\nBridging Innovation and Responsibility\nThis two-day in-person workshop explores the innovations in artificial intelligence (AI), specifically generative-AI (GenAI), in educational applications, and discusses the related ethical implications of responsible-AI (RAI).\nDay 1. Cognitive and learning science principles for improving genAI-based learning frameworks and tutoring systems.\nDay 2. Responsible AI (RAI; e.g., Fairness, Accountability, Interpretability, and Transparency) for consequential decision-making in education (e.g. admissions, early warning systems, grading).\n\n\nhttps://ai4ed.cc/workshops/aaai2024\nDate: February 26-27, 2024\nLocation: Vancouver Convention Center, Vancouver, Canada"
   },
   {
-    "objectID": "literature.html",
-    "href": "literature.html",
-    "title": "Literature",
-    "section": "",
-    "text": "This is a collection of references to empirical studies, conceptual articles about LLMs in education, and other publications relevant to understanding the current moment. This is a snapshot (updated 5/25/23) of a Zotero group; read/write access available on request if you have a suggestion or would like to see the latest & greatest.\nThis is a work in progress; a current formatted version of the literature is available here"
-  },
-  {
-    "objectID": "guidelines.html",
-    "href": "guidelines.html",
-    "title": "Guidelines for a Talk at AIME",
-    "section": "",
-    "text": "Firstly, we appreciate all the time our speakers dedicate to giving a talk in the AIME speaker series. This speaker series was designed as an interdisciplinary collaboration between data scientists and psychometricians. The idea behind this merger was to pair the use of AI in teaching and assessment with the expertise required to measure their educational benefits. Examples of topics of interest to the series include:\nAs the field of data science and NLP continues to develop, we expect that new applications to education will arise. We are very interested in data scientists who are actively seeking educational applications of their research."
-  },
-  {
-    "objectID": "guidelines.html#getting-started",
-    "href": "guidelines.html#getting-started",
-    "title": "Guidelines for a Talk at AIME",
-    "section": "Getting Started",
-    "text": "Getting Started\nLike any talk, the first two things we will need from you are a Title and Abstract (&lt;200 words), which will be used to advertise the talk. As a special interest group of the National Council for Measurement in Education (NCME), it will be advertised to all (approximately 1,800) members of the NCME. We will also advertise the event to SIG members through our group email. Feel free to share the provided link to anyone who might be interested.\nWe also encourage presenters to provide draft slides to the AIME leadership group for feedback ~1 week before their session."
-  },
-  {
-    "objectID": "guidelines.html#audience",
-    "href": "guidelines.html#audience",
-    "title": "Guidelines for a Talk at AIME",
-    "section": "Audience",
-    "text": "Audience\nThis SIGIMIE serves as an intellectual home for data scientists and psychometricians who are interested in the applications of AI to education. Our members are a mix of academics, industry professionals, and government researchers. This means that most members hold advanced degrees in a scientific or educational discipline with a solid statistical background. With this being the case, many of our members will be as interested in the methodologies you present as the final results; please spend some time discussing technical details about your approach."
-  },
-  {
-    "objectID": "guidelines.html#timing",
-    "href": "guidelines.html#timing",
-    "title": "Guidelines for a Talk at AIME",
-    "section": "Timing",
-    "text": "Timing\nOne of the great things about an AIME talk is the discussions afterwards. It is difficult for these discussions to take place if a talk is too long. For this reason, we kindly ask speakers to limit their presentation to 30 minutes unless otherwise advised. The organizers will provide you with the time you have remaining."
-  },
-  {
-    "objectID": "guidelines.html#recording-and-slides",
-    "href": "guidelines.html#recording-and-slides",
-    "title": "Guidelines for a Talk at AIME",
-    "section": "Recording and Slides",
-    "text": "Recording and Slides\nIt is expected that many of our members have prior commitments that may exclude them from participating on the day of your talk. For this reason, we record talks and make any supplementary materials available on the AIME website. This ensures that people don’t miss out on your presentation if they cannot attend, and they are also able to explore the details at their own pace afterwards. Please let us know of any copyright issues that may prevent the open dissemination of any material provided. (We encourage, Creative Commons By-Share-alike licensing for presentations)."
-  },
-  {
-    "objectID": "guidelines.html#have-fun",
-    "href": "guidelines.html#have-fun",
-    "title": "Guidelines for a Talk at AIME",
-    "section": "Have Fun",
-    "text": "Have Fun\nLastly, have some fun with it. If you are like us, then you believe the application of AI to educational measurement presents an exciting interdisciplinary opportunity. Let your passion resonate in what you say and how you say it. The more you are excited about your work, the more likely everyone else will be excited by it too."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The recent explosion of “Generative AI” has broad and deep implications for Education Measurement. By “Generative AI” we mean algorithms that create new text, images, or sound using machine learning algorithms trained on previous existing samples of that data. This technology is already in operational use in assessments and learning solutions and is being rapidly developed.  At the same time, it brings significant challenges to foundational principles in measurement validity, fairness, and reliability. With evidence and constructs constantly recreated, and data not representative nor static, many concepts of measurement and practices to implement them need to be rethought.\nGrounding innovation with principles from measurement can help to reduce the risk of these new approaches, improve their impact on student learning, and ensure that students from minoritized communities are not harmed, without rejecting their potential value. This genie will not be put back into its bottle.  Instead, measurement experts can help shape these solutions, collaboratively identifying important areas of focus and sharing innovative solutions. \nThis special interest group (SIGIME) seeks to advance the theoretical and applied research into AI of educational measurement by bringing together data scientists, psychometricians, education researchers, and other interested stakeholders. The SIGIME will discuss current practices in using Generative AI, approaches to evaluate their precision/accuracy, and areas where more foundational research is required into the way we test and measure educational outcomes. This group seeks to create a strong professional identity and intellectual home for those interested in the use of AI in many areas, including automated scoring, item evaluation, validity studies, formative feedback, and generative AI for automated item generation. A critical initial responsibility is to ensure that there are guidelines around FATE (fair, accountable, transparent, and ethical) principles for applying AI in measurement (Harris 2023 ). Further, the interpretability of machine learning models is often a difficulty in evaluating the validity of these methods using conventional psychometric approaches, although there is active research in this area (Dorsey and Michaels 2022).\nWe suggest three initial applied areas for exploration: \n\nItem Generation. This new technology is rapidly changing the way we think about education and problem-solving. With generative AI, the ability to create an infinite item pool is within our grasp and one that is customized to the interests or social context of the learner. However, some important ethical and psychometric considerations need to be addressed. How do we filter this pool for the best items? What are our standards of validity and accuracy when there is no baseline? How should assessment item development processes be designed? It is important for those of us who understand these systems best to help educators and test developers make informed decisions about how to use generative AI fairly and appropriately.\nAutomated scoring of open-ended items. Automated Scoringis possibly the most widely used application of AI in education, and has been identified as the top use of AI published in measurement journals (Zheng et. all, 2023). There has been a major shift in the past few years in the methods used. The development and incorporation of large language models (LLMs) in automated scoring systems have led to substantial increases in scoring accuracy and increased flexibility to generalize models to new items with a lower training effort. However, LLMs are difficult to interpret and have a greater risk of bias. Since LLMs are trained on large amounts of data that is not from students (fortunately), this introduces new ways in which scoring engines could be biased. As we move forward, we need to ensure that using LLMs in automated scoring remains fair and equitable.\nFormative Feedback. In many contexts, assessment is rapidly moving from an isolated activity to one that is embedded within the learning experience. As AI methods continue to advance, an open area of research as to how we can leverage AI to provide students with improved diagnostic feedback. Integrating AI-based tools into automated writing evaluation (AWE) systems requires that the feedback returned is grounded in educational theory. Dialogue between data scientists, educators, and psychometricians is key to ensuring that AI is utilized to improve educational outcomes. A special interest group within the NCME could provide an appropriate forum for these discussions. \n\nGenerative AI is taking the world by storm, and we believe NCME can make a deep and substantive contribution to how this technology is used in education.  A special interest group on Artificial Intelligence (AI) in Measurement and Education would provide a timely forum for researchers and practitioners in the use of AI in Education and Measurement to share their work, discuss challenges, and develop best practices. \n\n\n\n\nReferences\n\nDorsey, David W., and Hillary R. Michaels. 2022. “Validity Arguments Meet Artificial Intelligence in Innovative Educational Assessment: A Discussion and Look Forward.” Journal of Educational Measurement 59 (3): 389–94. https://doi.org/10.1111/jedm.12330.\n\n\nHarris, Robert. 2023. “FATE (Fairness and Transparency) Hits the Mainstream: UK’s 5 Principles for AI Regulation.” https://feedzai.com/blog/fate-fairness-and-transparency-hits-the-mainstream-uks-5-principles-for-ai-regulation/."
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "On this page, we aim to keep you up-to-date on events relevant to AI in Education."
-  },
-  {
-    "objectID": "events.html#speaker-series",
-    "href": "events.html#speaker-series",
-    "title": "Events",
-    "section": "Speaker Series",
-    "text": "Speaker Series\nIf you are interested in presenting, please contact the leadership team. Guidelines for speakers can be found here.\n\nJuly 12th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle: “Khanmigo” Demonstration & Lessons Learned Building GenAI Apps\nPresenter: Kristen Dicerbo, Chief Learning Officer, Khan Academy\nTitle: Open Source Revolution: Large Models on Small Hardware\nPresenter: Chris Ormerod, Principal Data Scientist, Cambium Assessment\n\nAugust 9th 4:00pm - 5:00pm (EST) over Zoom. Slides\nTitle : Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning\nPresenter: Andrew Lan, University of Massachusetts Amherst\nRecording : [link] (Passcode: BaF?W=@6)\n\nSeptember 13th 4:00pm - 5:00pm (EST). Slides\nTitle: Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks\nPresenter: Andrew Runge, Duolingo\nRecording : [link] (Passcode: MA4^r8E#)\n\nOctober 11th 4:00pm - 5:00pm (EST) Slides\nTitle: Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies\nPresenter: Réne Kizilcec, Assistant Professor, Purdue University [link]\n\nNovember 8th 4:00pm - 5:00pm (EST) Slides\nTitle: Exploring the Results of the NAEP Math and Reading Automated Scoring Challenges: Implications for Fairness\nPresenter: Maggie Beiting-Parrish, Federation of American Scientists [link]\n\nDecember 13th 4:00pm - 5:00pm (EST)\nTitle: Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference\nPresenter: Zachary Levonian [link]\n\n\nMember Events 2024\nFebruary 14th 4:00pm - 5:00pm (EST) Slides\nTitle: An Application of Text Embeddings to Support Alignment of Educational Content Standards\nPresenters: Harold Doran & Reese Butterfuss, Human Resources Research Organization\n\nMarch 14th 4:00pm - 5:00pm (EST) Slides\nTitle: Using Large Language Models for Item Development beyond Language Testing: Barriers and Opportunities\nPresenter: Victoria Yaneva, National Board of Medical Examiners\n\nApril 11th-14th : NCME Annual Conference\nConsider this Schedule of Talks about AI and Measurement or Education\n\nMay 8th 4:00pm - 5:00pm (EST) Slides\nTitle: Natural Language Processing for Improving Student Learning Outcomes\nPresenter: Rose E. Wang, Stanford University [link]\n\nJune 12th 4:00pm - 5:00pm (EST) Slides\nTitle: Write On with Cambi: The development of an argumentative writing feedback tool\nPresenters: Christopher Ormerod, Amy Burkhardt, and Milan Patel from Cambium Assessment\n\nJuly 10th 4:00pm - 5:00pm (EST) Slides\nTitle: Examining Automated Writing Evaluation Tools\nPresenters: Corey Palermo from Measurement Inc. and Josh Wilson from the University of Delaware"
-  },
-  {
-    "objectID": "events.html#the-49th-international-association-for-educational-assessment-iaea-annual-conference",
-    "href": "events.html#the-49th-international-association-for-educational-assessment-iaea-annual-conference",
-    "title": "Events",
-    "section": "The 49th International Association for Educational Assessment (IAEA) Annual Conference",
-    "text": "The 49th International Association for Educational Assessment (IAEA) Annual Conference\nThe 49th International Association for Educational Assessment (IAEA) Annual Conference, hosted by ETS in Philadelphia, Pennsylvania, U.S., will provide an opportunity for industry thought leaders, training providers, and practitioners to examine current and recent advancements in educational assessments, focusing on the theme How Can AI Help Improve Educational Assessments? While AI has gained broader interest globally in education and beyond with the creation of chat GPT and the subsequent emergence of many other tools and applications based on generative AI, forms of AI have been used in assessments for decades, including automatic item generation for new assessments, natural language processing (NLP) or large-language model (LLM) methods for automatic scoring of essays (e.g., ETS e-rater), or onthefly individualized assessment assembly based on computer-adaptive testing (CAT).\nPlace: Philadelphia, PA\nDate: September 22–25, 2024\nhttps://iaea.info/"
-  },
-  {
-    "objectID": "events.html#the-teaching-learning-with-ai-conference",
-    "href": "events.html#the-teaching-learning-with-ai-conference",
-    "title": "Events",
-    "section": "The Teaching & Learning with AI conference",
-    "text": "The Teaching & Learning with AI conference\nTeaching & Learning with AI is designed for instructors, higher education professionals, librarians, researchers, and policymakers who are interested in exploring the potential of AI in higher ed across the higher education landscape. If you want to learn more about how you can leverage AI to improve learning outcomes, research, services, and operations, then this is a must-attend event.\nPlace: Orlando, FL\nDate: July 22–24, 2024\nhttps://digitallearning.ucf.edu/teachwithai/\n\nPlease send any new entries to John Whitmer jwhitmer@fas.org and Maggie Beiting-Parrish Magdalen.Beiting@ed.gov"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Welcome to the Special Interest Group on Artificial Intelligence in Measurement and Education (AIME) with the National Council of Measurement in Education. Our goal is to serve as an intellectual home for data scientists and psychometricians interested in the application of AI to measurement and education.\nOur charter can be found here.\nOur NCME webpage can be found here.\nInterested in joining us? The signup form can be found here. We currently hold monthly meetings and are organizing a speaker series.\nFor any additional information regarding this SIGIMIE, please contact a member of the leadership team."
-  },
-  {
-    "objectID": "index.html#white-paper-on-the-use-of-ai-in-educational-measurement",
-    "href": "index.html#white-paper-on-the-use-of-ai-in-educational-measurement",
-    "title": "Home",
-    "section": "White paper on the use of AI in Educational Measurement",
-    "text": "White paper on the use of AI in Educational Measurement\nThis AIME initiative is a collaboration between authors from Academia, Government, and Industry.\n\nThe Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges\nThe white paper can be downloaded from the arxiv:\nhttps://arxiv.org/abs/2406.18900\nA special thanks to Okan Bulut for his organization and all the authors for putting this together."
-  },
-  {
-    "objectID": "index.html#leadership-team",
-    "href": "index.html#leadership-team",
-    "title": "Home",
-    "section": "Leadership Team",
-    "text": "Leadership Team\nCo-chair: Christopher Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parish"
-  },
-  {
     "objectID": "meetings/August2023/slides.html#executive-board",
     "href": "meetings/August2023/slides.html#executive-board",
     "title": "Artificial Intelligence in Measurement and Education",
@@ -446,6 +341,181 @@
     "title": "Artificial Intelligence in Measurement and Education",
     "section": "Leveraging Large Language Models for Assessment Support: Applications and Implications",
     "text": "Leveraging Large Language Models for Assessment Support: Applications and Implications\nJournal: Computers and Education: Artificial Intelligence (Open Access)\nPublished: 28 June 2023\nDeadline: 30 October 2023\nContact: Prof. Rafael Ferreira Mello at rflm@cesar.org.br\nURL: Call for Papers\nThis special issue focuses on exploring the implications of utilizing large language models (LLMs) for educational assessment, with particular emphasis on leveraging LLMs for formative feedback provision and mitigating challenges related to academic integrity. To this end, we invite researchers from diverse fields to submit papers investigating the use of LLMs to support the assessment process."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to the Special Interest Group on Artificial Intelligence in Measurement and Education (AIME) with the National Council of Measurement in Education. Our goal is to serve as an intellectual home for data scientists and psychometricians interested in the application of AI to measurement and education.\nOur charter can be found here.\nOur NCME webpage can be found here.\nInterested in joining us? The signup form can be found here. We currently hold monthly meetings and are organizing a speaker series.\nFor any additional information regarding this SIGIMIE, please contact a member of the leadership team."
+  },
+  {
+    "objectID": "index.html#white-paper-on-the-use-of-ai-in-educational-measurement",
+    "href": "index.html#white-paper-on-the-use-of-ai-in-educational-measurement",
+    "title": "Home",
+    "section": "White paper on the use of AI in Educational Measurement",
+    "text": "White paper on the use of AI in Educational Measurement\nThis AIME initiative is a collaboration between authors from Academia, Government, and Industry.\n\nThe Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges\nThe white paper can be downloaded from the arxiv:\nhttps://arxiv.org/abs/2406.18900\nA special thanks to Okan Bulut for his organization and all the authors for putting this together."
+  },
+  {
+    "objectID": "index.html#leadership-team",
+    "href": "index.html#leadership-team",
+    "title": "Home",
+    "section": "Leadership Team",
+    "text": "Leadership Team\nCo-chair: Christopher Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parish"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "On this page, we aim to keep you up-to-date on events relevant to AI in Education."
+  },
+  {
+    "objectID": "events.html#speaker-series",
+    "href": "events.html#speaker-series",
+    "title": "Events",
+    "section": "Speaker Series",
+    "text": "Speaker Series\nIf you are interested in presenting, please contact the leadership team. Guidelines for speakers can be found here.\n\nJuly 12th 4:00pm - 5:00pm (EST) over Zoom. [Slides]\nTitle: “Khanmigo” Demonstration & Lessons Learned Building GenAI Apps\nPresenter: Kristen Dicerbo, Chief Learning Officer, Khan Academy\nTitle: Open Source Revolution: Large Models on Small Hardware\nPresenter: Chris Ormerod, Principal Data Scientist, Cambium Assessment\n\nAugust 9th 4:00pm - 5:00pm (EST) over Zoom. [Slides]\nTitle : Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning\nPresenter: Andrew Lan, University of Massachusetts Amherst\nRecording : [link] (Passcode: BaF?W=@6)\n\nSeptember 13th 4:00pm - 5:00pm (EST). [Slides]\nTitle: Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks\nPresenter: Andrew Runge, Duolingo\nRecording : [link] (Passcode: MA4^r8E#)\n\nOctober 11th 4:00pm - 5:00pm (EST) [Slides]\nTitle: Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies\nPresenter: Réne Kizilcec, Assistant Professor, Purdue University [link]\n\nNovember 8th 4:00pm - 5:00pm (EST) [Slides]\nTitle: Exploring the Results of the NAEP Math and Reading Automated Scoring Challenges: Implications for Fairness\nPresenter: Maggie Beiting-Parrish, Federation of American Scientists [link]\n\nDecember 13th 4:00pm - 5:00pm (EST) [Slides]\nTitle: Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference\nPresenter: Zachary Levonian [link]\n\n\nMember Events 2024\nFebruary 14th 4:00pm - 5:00pm (EST) [Slides]\nTitle: An Application of Text Embeddings to Support Alignment of Educational Content Standards\nPresenters: Harold Doran & Reese Butterfuss, Human Resources Research Organization\n\nMarch 14th 4:00pm - 5:00pm (EST) [Slides]\nTitle: Using Large Language Models for Item Development beyond Language Testing: Barriers and Opportunities\nPresenter: Victoria Yaneva, National Board of Medical Examiners\n\nApril 11th-14th : NCME Annual Conference\nConsider this Schedule of Talks about AI and Measurement or Education\n\nMay 8th 4:00pm - 5:00pm (EST) [Slides]\nTitle: Natural Language Processing for Improving Student Learning Outcomes\nPresenter: Rose E. Wang, Stanford University [link]\n\nJune 12th 4:00pm - 5:00pm (EST) [Slides]\nTitle: Write On with Cambi: The development of an argumentative writing feedback tool\nPresenters: Christopher Ormerod, Amy Burkhardt, and Milan Patel from Cambium Assessment\n\nJuly 10th 4:00pm - 5:00pm (EST) [Slides]\nTitle: Examining Automated Writing Evaluation Tools\nPresenters: Corey Palermo from Measurement Inc. and Josh Wilson from the University of Delaware [link]\n\nAugust 14th 4:00pm - 5:00pm (EST) [Slides]\nTitle: Securing Tests with AI: Initial Explorations in Item Generation\nPresenter: Sergio Araneda from Caveon"
+  },
+  {
+    "objectID": "events.html#the-49th-international-association-for-educational-assessment-iaea-annual-conference",
+    "href": "events.html#the-49th-international-association-for-educational-assessment-iaea-annual-conference",
+    "title": "Events",
+    "section": "The 49th International Association for Educational Assessment (IAEA) Annual Conference",
+    "text": "The 49th International Association for Educational Assessment (IAEA) Annual Conference\nThe 49th International Association for Educational Assessment (IAEA) Annual Conference, hosted by ETS in Philadelphia, Pennsylvania, U.S., will provide an opportunity for industry thought leaders, training providers, and practitioners to examine current and recent advancements in educational assessments, focusing on the theme How Can AI Help Improve Educational Assessments? While AI has gained broader interest globally in education and beyond with the creation of chat GPT and the subsequent emergence of many other tools and applications based on generative AI, forms of AI have been used in assessments for decades, including automatic item generation for new assessments, natural language processing (NLP) or large-language model (LLM) methods for automatic scoring of essays (e.g., ETS e-rater), or onthefly individualized assessment assembly based on computer-adaptive testing (CAT).\nPlace: Philadelphia, PA\nDate: September 22–25, 2024\nhttps://iaea.info/"
+  },
+  {
+    "objectID": "events.html#ncme-special-conference-on-classroom-assessment",
+    "href": "events.html#ncme-special-conference-on-classroom-assessment",
+    "title": "Events",
+    "section": "2024 NCME Special Conference on Classroom Assessment",
+    "text": "2024 NCME Special Conference on Classroom Assessment\nThis year’s special conference is being co-hosted by the University of Illinois at Chicago and the Chicago Public Schools, with support from the Center for Assessment. These hosts continue NCME’s longstanding commitment to improving assessment practices that privilege deeper learning for all, and that happen directly between teachers and their students.\nPlace: Chicago, IL\nDate: September 19-20, 2024\n\nPlease send any new entries to John Whitmer jwhitmer@fas.org and Maggie Beiting-Parrish Magdalen.Beiting@ed.gov"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The recent explosion of “Generative AI” has broad and deep implications for Education Measurement. By “Generative AI” we mean algorithms that create new text, images, or sound using machine learning algorithms trained on previous existing samples of that data. This technology is already in operational use in assessments and learning solutions and is being rapidly developed.  At the same time, it brings significant challenges to foundational principles in measurement validity, fairness, and reliability. With evidence and constructs constantly recreated, and data not representative nor static, many concepts of measurement and practices to implement them need to be rethought.\nGrounding innovation with principles from measurement can help to reduce the risk of these new approaches, improve their impact on student learning, and ensure that students from minoritized communities are not harmed, without rejecting their potential value. This genie will not be put back into its bottle.  Instead, measurement experts can help shape these solutions, collaboratively identifying important areas of focus and sharing innovative solutions. \nThis special interest group (SIGIME) seeks to advance the theoretical and applied research into AI of educational measurement by bringing together data scientists, psychometricians, education researchers, and other interested stakeholders. The SIGIME will discuss current practices in using Generative AI, approaches to evaluate their precision/accuracy, and areas where more foundational research is required into the way we test and measure educational outcomes. This group seeks to create a strong professional identity and intellectual home for those interested in the use of AI in many areas, including automated scoring, item evaluation, validity studies, formative feedback, and generative AI for automated item generation. A critical initial responsibility is to ensure that there are guidelines around FATE (fair, accountable, transparent, and ethical) principles for applying AI in measurement (Harris 2023 ). Further, the interpretability of machine learning models is often a difficulty in evaluating the validity of these methods using conventional psychometric approaches, although there is active research in this area (Dorsey and Michaels 2022).\nWe suggest three initial applied areas for exploration: \n\nItem Generation. This new technology is rapidly changing the way we think about education and problem-solving. With generative AI, the ability to create an infinite item pool is within our grasp and one that is customized to the interests or social context of the learner. However, some important ethical and psychometric considerations need to be addressed. How do we filter this pool for the best items? What are our standards of validity and accuracy when there is no baseline? How should assessment item development processes be designed? It is important for those of us who understand these systems best to help educators and test developers make informed decisions about how to use generative AI fairly and appropriately.\nAutomated scoring of open-ended items. Automated Scoringis possibly the most widely used application of AI in education, and has been identified as the top use of AI published in measurement journals (Zheng et. all, 2023). There has been a major shift in the past few years in the methods used. The development and incorporation of large language models (LLMs) in automated scoring systems have led to substantial increases in scoring accuracy and increased flexibility to generalize models to new items with a lower training effort. However, LLMs are difficult to interpret and have a greater risk of bias. Since LLMs are trained on large amounts of data that is not from students (fortunately), this introduces new ways in which scoring engines could be biased. As we move forward, we need to ensure that using LLMs in automated scoring remains fair and equitable.\nFormative Feedback. In many contexts, assessment is rapidly moving from an isolated activity to one that is embedded within the learning experience. As AI methods continue to advance, an open area of research as to how we can leverage AI to provide students with improved diagnostic feedback. Integrating AI-based tools into automated writing evaluation (AWE) systems requires that the feedback returned is grounded in educational theory. Dialogue between data scientists, educators, and psychometricians is key to ensuring that AI is utilized to improve educational outcomes. A special interest group within the NCME could provide an appropriate forum for these discussions. \n\nGenerative AI is taking the world by storm, and we believe NCME can make a deep and substantive contribution to how this technology is used in education.  A special interest group on Artificial Intelligence (AI) in Measurement and Education would provide a timely forum for researchers and practitioners in the use of AI in Education and Measurement to share their work, discuss challenges, and develop best practices. \n\n\n\n\nReferences\n\nDorsey, David W., and Hillary R. Michaels. 2022. “Validity Arguments Meet Artificial Intelligence in Innovative Educational Assessment: A Discussion and Look Forward.” Journal of Educational Measurement 59 (3): 389–94. https://doi.org/10.1111/jedm.12330.\n\n\nHarris, Robert. 2023. “FATE (Fairness and Transparency) Hits the Mainstream: UK’s 5 Principles for AI Regulation.” https://feedzai.com/blog/fate-fairness-and-transparency-hits-the-mainstream-uks-5-principles-for-ai-regulation/."
+  },
+  {
+    "objectID": "guidelines.html",
+    "href": "guidelines.html",
+    "title": "Guidelines for a Talk at AIME",
+    "section": "",
+    "text": "Firstly, we appreciate all the time our speakers dedicate to giving a talk in the AIME speaker series. This speaker series was designed as an interdisciplinary collaboration between data scientists and psychometricians. The idea behind this merger was to pair the use of AI in teaching and assessment with the expertise required to measure their educational benefits. Examples of topics of interest to the series include:\nAs the field of data science and NLP continues to develop, we expect that new applications to education will arise. We are very interested in data scientists who are actively seeking educational applications of their research."
+  },
+  {
+    "objectID": "guidelines.html#getting-started",
+    "href": "guidelines.html#getting-started",
+    "title": "Guidelines for a Talk at AIME",
+    "section": "Getting Started",
+    "text": "Getting Started\nLike any talk, the first two things we will need from you are a Title and Abstract (&lt;200 words), which will be used to advertise the talk. As a special interest group of the National Council for Measurement in Education (NCME), it will be advertised to all (approximately 1,800) members of the NCME. We will also advertise the event to SIG members through our group email. Feel free to share the provided link to anyone who might be interested.\nWe also encourage presenters to provide draft slides to the AIME leadership group for feedback ~1 week before their session."
+  },
+  {
+    "objectID": "guidelines.html#audience",
+    "href": "guidelines.html#audience",
+    "title": "Guidelines for a Talk at AIME",
+    "section": "Audience",
+    "text": "Audience\nThis SIGIMIE serves as an intellectual home for data scientists and psychometricians who are interested in the applications of AI to education. Our members are a mix of academics, industry professionals, and government researchers. This means that most members hold advanced degrees in a scientific or educational discipline with a solid statistical background. With this being the case, many of our members will be as interested in the methodologies you present as the final results; please spend some time discussing technical details about your approach."
+  },
+  {
+    "objectID": "guidelines.html#timing",
+    "href": "guidelines.html#timing",
+    "title": "Guidelines for a Talk at AIME",
+    "section": "Timing",
+    "text": "Timing\nOne of the great things about an AIME talk is the discussions afterwards. It is difficult for these discussions to take place if a talk is too long. For this reason, we kindly ask speakers to limit their presentation to 30 minutes unless otherwise advised. The organizers will provide you with the time you have remaining."
+  },
+  {
+    "objectID": "guidelines.html#recording-and-slides",
+    "href": "guidelines.html#recording-and-slides",
+    "title": "Guidelines for a Talk at AIME",
+    "section": "Recording and Slides",
+    "text": "Recording and Slides\nIt is expected that many of our members have prior commitments that may exclude them from participating on the day of your talk. For this reason, we record talks and make any supplementary materials available on the AIME website. This ensures that people don’t miss out on your presentation if they cannot attend, and they are also able to explore the details at their own pace afterwards. Please let us know of any copyright issues that may prevent the open dissemination of any material provided. (We encourage, Creative Commons By-Share-alike licensing for presentations)."
+  },
+  {
+    "objectID": "guidelines.html#have-fun",
+    "href": "guidelines.html#have-fun",
+    "title": "Guidelines for a Talk at AIME",
+    "section": "Have Fun",
+    "text": "Have Fun\nLastly, have some fun with it. If you are like us, then you believe the application of AI to educational measurement presents an exciting interdisciplinary opportunity. Let your passion resonate in what you say and how you say it. The more you are excited about your work, the more likely everyone else will be excited by it too."
+  },
+  {
+    "objectID": "literature.html",
+    "href": "literature.html",
+    "title": "Literature",
+    "section": "",
+    "text": "This is a collection of references to empirical studies, conceptual articles about LLMs in education, and other publications relevant to understanding the current moment. This is a snapshot (updated 5/25/23) of a Zotero group; read/write access available on request if you have a suggestion or would like to see the latest & greatest.\nThis is a work in progress; a current formatted version of the literature is available here"
+  },
+  {
+    "objectID": "meetings/August2024/slides.html#introductions",
+    "href": "meetings/August2024/slides.html#introductions",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Introductions",
+    "text": "Introductions\nExecutive Board\n\nCo-Chair: Chris Ormerod\nCo-chair: John Whitmer\nSecretary: Maggie Beiting-Parrish"
+  },
+  {
+    "objectID": "meetings/August2024/slides.html#outline",
+    "href": "meetings/August2024/slides.html#outline",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Outline",
+    "text": "Outline\n\nAIME Updates\nToday’s Speakers: Sergio Araneda form Caveon\nAdditional SIG Updates & Calls for Participation"
+  },
+  {
+    "objectID": "meetings/August2024/slides.html#aime-updates",
+    "href": "meetings/August2024/slides.html#aime-updates",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "AIME Updates",
+    "text": "AIME Updates\nNCME Annual Meeting\nThe theme of the 2025 NCME Annual Meeting is “Educational Measurement: In Service of Society.” The theme emphasizes the “why” of our work in educational measurement and echoes the last three words of the NCME mission: “to advance theory and applications of educational measurement to benefit society”\nProposal Deadline: Friday, September 13, 11:59PM PDT\nDates: April 23-26, 2025\nPlace: Denver, CO\nhttps://www.ncme.org/event/annual-meeting/upcoming-meeting2025\n\nNote: Many of you are organizing sessions."
+  },
+  {
+    "objectID": "meetings/August2024/slides.html#aime-updates-1",
+    "href": "meetings/August2024/slides.html#aime-updates-1",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "AIME Updates",
+    "text": "AIME Updates\nNCME Reviewers Wanted\nThe NCME Annual Meeting Co-Chairs, Katherine Castellana and Scott Monroe, and our president, Andrew Ho, are looking for reviewers\nhttps://www.xcdsystem.com/ncme/member/index.cfm\nIn collaboration with the board, we have created four AI-based categories:\n\nAI: Automated Item Generation and Validation using AI\nAI: Automated Scoring and Feedback using AI\nAI: Evaluation of AI in Education\nAI: Fairness and Ethics of AI in Education\n\nPlease consider being a reviewer, discussant, or chair for any of the above areas or any others."
+  },
+  {
+    "objectID": "meetings/August2024/slides.html#aime-updates-2",
+    "href": "meetings/August2024/slides.html#aime-updates-2",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "AIME Updates",
+    "text": "AIME Updates\nDo we want a special conference AIME conference?\nNCME leadership is seeking early proposals NCME events, which may primarily consist of:\n\na statement of the purpose of the event and how it aligns to NCME’s mission;\npreliminary details about the time, place, and intended audience;\nidentification of an Organizing Committee (or at least its Chair or Co-Chairs) who take responsibility for all aspects of planning (albeit assisted by NCME planning staff); and\nany additional details about the topic, potential speakers, session formats, or possibilities for fundraising that you wish to highlight, if known.\n\nThe NCME meeting planners will assist with project management, venue selection, event registration, and advertising.\nInterested in taking the lead on this?"
+  },
+  {
+    "objectID": "meetings/August2024/slides.html#aime-updates-3",
+    "href": "meetings/August2024/slides.html#aime-updates-3",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "AIME Updates",
+    "text": "AIME Updates\nThe white paper on the ethical use of AI in Educational Measurement is available\nThe Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges\nOkan Bulut, Maggie Beiting-Parrish, Jodi M Casabianca, Sharon C Slater, Hong Jiao, Dan Song, Christopher M Ormerod, Deborah Gbemisola Fabiyi, Rodica Ivan, Cole Walsh, Oscar Rios, Joshua Wilson, Seyma N Yildirim-Erbasli, Tarid Wongvorachan, Joyce Xinle Liu, Bin Tan, Polina Morilova\nhttps://arxiv.org/abs/2406.18900\nA special thanks to Okan Bulut for his organization and all the authors for putting this together."
+  },
+  {
+    "objectID": "meetings/August2024/slides.html#research-presentation",
+    "href": "meetings/August2024/slides.html#research-presentation",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Research Presentation",
+    "text": "Research Presentation\nSecuring Tests with AI: Initial Explorations in Item Generation\nSergio Araneda from Caveon\nAbstract\nGenerative AI and off-the-shelf large language models (LLMs) offer transformative possibilities for enhancing test security. This presentation delves into the potential of AI to prevent cheating by enabling the creation of randomly parallel tests. We will share initial explorations at Caveon, highlighting research focused on leveraging AI for test security purposes. Specifically, we will discuss methods for generating a large volume of diverse items and domain templates, which help to randomize tests and mitigate the risk of pre-knowledge. A key case study will be presented, showcasing the development of approximately 1,500 items for a client through a semi-automated process. Additionally, we will explore the use of LLMs to facilitate the programming of SmartItems and examine prompt engineering techniques for binary response items. This presentation provides a comprehensive overview of our research, advocating for the use of AI not just to expedite existing processes, but to enable more profound innovations in test development practices."
+  },
+  {
+    "objectID": "meetings/August2024/slides.html#postdoc-in-nlp-for-education-at-u.-mass.-amherst",
+    "href": "meetings/August2024/slides.html#postdoc-in-nlp-for-education-at-u.-mass.-amherst",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "Postdoc in NLP for Education at U. Mass. Amherst",
+    "text": "Postdoc in NLP for Education at U. Mass. Amherst\nWe are seeking a full-time postdoctoral research associate to work in the machine learning for education (ML4Ed) research group, led by Andrew Lan, at UMass. Research directions:\n\nFirst, natural language processing (NLP) for education, including large language model (LLM)-based student modeling, question/feedback/learning content generation, automated scoring and student error diagnosis, etc.\nSecond, building a national cyberinfrastructure for transforming STEM education, a $90M project funded via NSF’s mid-scale research infrastructure-2 program.\n\nIdeal candidates have a strong publication record in relevant areas. Applicants should have a PhD degree (by the time they start) in computer science or a related field (e.g., education, psychology).\nPlease send your CV to andrewlan@cs.umass.edu if interested."
+  },
+  {
+    "objectID": "meetings/August2024/slides.html#th-annual-iaea-conference",
+    "href": "meetings/August2024/slides.html#th-annual-iaea-conference",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "49th Annual IAEA Conference",
+    "text": "49th Annual IAEA Conference\nHow Can AI Help Improve Educational Assessments?\nThe 49th International Association for Educational Assessment (IAEA) Annual Conference, hosted by ETS in Philadelphia, Pennsylvania, U.S., will provide an opportunity for industry thought leaders, training providers, and practitioners to examine current and recent advancements in educational assessments, focusing on the theme How Can AI Help Improve Educational Assessments?\nDate: 22-25 September 2024\nPlace: Philadelphia\nhttps://iaea.info/iaea-2024-annual-conference-updates/"
+  },
+  {
+    "objectID": "meetings/August2024/slides.html#ncme-special-conference-on-classroom-assessment",
+    "href": "meetings/August2024/slides.html#ncme-special-conference-on-classroom-assessment",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "2024 NCME Special Conference on Classroom Assessment",
+    "text": "2024 NCME Special Conference on Classroom Assessment\nReclaiming the Promise of Balanced Assessment Systems: Achieving Deeper Learning at Scale for Both Students and Adults.\nThis year’s special conference is being co-hosted by the University of Illinois at Chicago and the Chicago Public Schools, with support from the Center for Assessment. These hosts continue NCME’s longstanding commitment to improving assessment practices that privilege deeper learning for all, and that happen directly between teachers and their students.\nDate: 19-20 September 2024\nPlace: Chigaco\nhttps://www.ncme.org/event/classroom-assessment/upcoming-meeting"
   },
   {
     "objectID": "meetings/February2024/slides.html#introductions",

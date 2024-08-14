@@ -8,7 +8,7 @@ On this page, we aim to keep you up-to-date on events relevant to AI in Educatio
 
 ------------------------------------------------------------------------
 
-June 14th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/June2023/slides.html) [Notes](meetings/June14-202.html)
+June 14th 4:00pm - 5:00pm (EST) over Zoom. \[[Slides](meetings/June2023/slides.html) [Notes](meetings/June14-202.html)\]
 
 **Introductory meeting**
 
@@ -20,7 +20,7 @@ If you are interested in presenting, please contact the leadership team. Guideli
 
 ------------------------------------------------------------------------
 
-July 12th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/July2023/slides.html)
+July 12th 4:00pm - 5:00pm (EST) over Zoom. \[[Slides](meetings/July2023/slides.html)\]
 
 **Title:** "Khanmigo" Demonstration & Lessons Learned Building GenAI Apps
 
@@ -32,7 +32,7 @@ July 12th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/July2023/slides.htm
 
 ------------------------------------------------------------------------
 
-August 9th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/August2023/slides.html)
+August 9th 4:00pm - 5:00pm (EST) over Zoom. \[[Slides](meetings/August2023/slides.html)\]
 
 **Title :** Exploring Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning
 
@@ -42,7 +42,7 @@ August 9th 4:00pm - 5:00pm (EST) over Zoom. [Slides](meetings/August2023/slides.
 
 ------------------------------------------------------------------------
 
-September 13th 4:00pm - 5:00pm (EST). [Slides](meetings/September2023/slides.html)
+September 13th 4:00pm - 5:00pm (EST). \[[Slides](meetings/September2023/slides.html)\]
 
 **Title:** Automated Item Development for Language Assessment: Using GPT to create complex reading and listening tasks
 
@@ -52,7 +52,7 @@ September 13th 4:00pm - 5:00pm (EST). [Slides](meetings/September2023/slides.htm
 
 ------------------------------------------------------------------------
 
-October 11th 4:00pm - 5:00pm (EST) [Slides](meetings/October2023/slides.html)
+October 11th 4:00pm - 5:00pm (EST) \[[Slides](meetings/October2023/slides.html)\]
 
 **Title:** Bias in Large Language Models in Education: Sources, Measures, and Mitigation Strategies
 
@@ -60,7 +60,7 @@ October 11th 4:00pm - 5:00pm (EST) [Slides](meetings/October2023/slides.html)
 
 ------------------------------------------------------------------------
 
-November 8th 4:00pm - 5:00pm (EST) [Slides](meetings/November2023/slides.html)
+November 8th 4:00pm - 5:00pm (EST) \[[Slides](meetings/November2023/slides.html)\]
 
 **Title:** Exploring the Results of the NAEP Math and Reading Automated Scoring Challenges: Implications for Fairness
 
@@ -68,7 +68,7 @@ November 8th 4:00pm - 5:00pm (EST) [Slides](meetings/November2023/slides.html)
 
 ------------------------------------------------------------------------
 
-December 13th 4:00pm - 5:00pm (EST)
+December 13th 4:00pm - 5:00pm (EST) \[[Slides](meetings/December/2023/slides.html)\]
 
 **Title:** Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference
 
@@ -78,7 +78,7 @@ December 13th 4:00pm - 5:00pm (EST)
 
 ### **Member Events 2024**
 
-February 14th 4:00pm - 5:00pm (EST) [Slides](meetings/February2024/slides.html)
+February 14th 4:00pm - 5:00pm (EST) \[[Slides](meetings/February2024/slides.html)\]
 
 **Title:** An Application of Text Embeddings to Support Alignment of Educational Content Standards
 
@@ -86,7 +86,7 @@ February 14th 4:00pm - 5:00pm (EST) [Slides](meetings/February2024/slides.html)
 
 ------------------------------------------------------------------------
 
-March 14th 4:00pm - 5:00pm (EST) [Slides](meetings/March2024/slides.html)
+March 14th 4:00pm - 5:00pm (EST) \[[Slides](meetings/March2024/slides.html)\]
 
 **Title:** Using Large Language Models for Item Development beyond Language Testing: Barriers and Opportunities
 
@@ -100,7 +100,7 @@ Consider this [Schedule of Talks about AI and Measurement or Education](meetings
 
 ------------------------------------------------------------------------
 
-May 8th 4:00pm - 5:00pm (EST) [Slides](meetings/May2024/slides.html)
+May 8th 4:00pm - 5:00pm (EST) \[[Slides](meetings/May2024/slides.html)\]
 
 **Title:** Natural Language Processing for Improving Student Learning Outcomes
 
@@ -108,7 +108,7 @@ May 8th 4:00pm - 5:00pm (EST) [Slides](meetings/May2024/slides.html)
 
 ------------------------------------------------------------------------
 
-June 12th 4:00pm - 5:00pm (EST) [Slides](meetings/June2024/slides.html)
+June 12th 4:00pm - 5:00pm (EST) \[[Slides](meetings/June2024/slides.html)\]
 
 **Title:** Write On with Cambi: The development of an argumentative writing feedback tool
 
@@ -116,11 +116,19 @@ June 12th 4:00pm - 5:00pm (EST) [Slides](meetings/June2024/slides.html)
 
 ------------------------------------------------------------------------
 
-July 10th 4:00pm - 5:00pm (EST) [Slides](meetings/July2024/slides.html)
+July 10th 4:00pm - 5:00pm (EST) \[[Slides](meetings/July2024/slides.html)\]
 
 **Title:** Examining Automated Writing Evaluation Tools
 
-**Presenters:** Corey Palermo from Measurement Inc. and Josh Wilson from the University of Delaware
+**Presenters:** Corey Palermo from Measurement Inc. and Josh Wilson from the University of Delaware \[[link](https://drive.google.com/file/d/1oX5MwTNqd3Bb1MngWL95Ixw66MWJYaUt/view?usp=drive_link)\]
+
+------------------------------------------------------------------------
+
+August 14th 4:00pm - 5:00pm (EST) \[[Slides](meetings/August2024/slides.html)\]
+
+**Title:** Securing Tests with AI: Initial Explorations in Item Generation
+
+**Presenter:** Sergio Araneda from Caveon
 
 ------------------------------------------------------------------------
 
@@ -136,15 +144,13 @@ The 49th International Association for Educational Assessment (IAEA) Annual Conf
 
 <https://iaea.info/>
 
-## The Teaching & Learning with AI conference
+## 2024 NCME Special Conference on Classroom Assessment
 
-Teaching & Learning with AI is designed for instructors, higher education professionals, librarians, researchers, and policymakers who are interested in exploring the potential of AI in higher ed across the higher education landscape. If you want to learn more about how you can leverage AI to improve learning outcomes, research, services, and operations, then this is a must-attend event.
+This year’s special conference is being co-hosted by the University of Illinois at Chicago and the Chicago Public Schools, with support from the Center for Assessment. These hosts continue NCME’s longstanding commitment to improving assessment practices that privilege deeper learning for all, and that happen directly between teachers and their students.
 
-**Place**: Orlando, FL
+**Place**: Chicago, IL
 
-**Date**: July 22–24, 2024
-
-<https://digitallearning.ucf.edu/teachwithai/>
+**Date**: September 19-20, 2024
 
 ------------------------------------------------------------------------
 
