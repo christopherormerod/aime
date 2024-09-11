@@ -21,9 +21,22 @@ format:
 
 -   AIME Updates
 
--   Today's Speakers: Sergio Araneda form Caveon
-
 -   Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+### Do we want a special conference AIME conference?
+
+NCME leadership is seeking early proposals NCME events, which may primarily consist of:
+
+-   a statement of the purpose of the event and how it aligns to NCME’s mission;
+-   preliminary details about the time, place, and intended audience;
+-   identification of an Organizing Committee (or at least its Chair or Co-Chairs) who take responsibility for all aspects of planning (albeit assisted by NCME planning staff); and
+-   any additional details about the topic, potential speakers, session formats, or possibilities for fundraising that you wish to highlight, if known.
+
+The NCME meeting planners will assist with project management, venue selection, event registration, and advertising.
+
+### Interested in taking the lead on this?
 
 ## AIME Updates
 
@@ -31,7 +44,7 @@ format:
 
 The theme of the 2025 NCME Annual Meeting is "Educational Measurement: In Service of Society." The theme emphasizes the "why" of our work in educational measurement and echoes the last three words of the [NCME mission](https://www.ncme.org/about/about-ncme/mission): "to advance theory and applications of educational measurement **to benefit society**"
 
-**Proposal Deadline:** Friday, September 13, 11:59PM PDT
+**Proposal Deadline:** This Friday, September 13, 11:59PM PDT
 
 **Dates:** April 23-26, 2025
 
@@ -60,43 +73,6 @@ In collaboration with the board, we have created four AI-based categories:
 -   AI: Fairness and Ethics of AI in Education
 
 Please consider being a reviewer, discussant, or chair for any of the above areas or any others.
-
-## AIME Updates
-
-### Do we want a special conference AIME conference?
-
-NCME leadership is seeking early proposals NCME events, which may primarily consist of:
-
--   a statement of the purpose of the event and how it aligns to NCME’s mission;
--   preliminary details about the time, place, and intended audience;
--   identification of an Organizing Committee (or at least its Chair or Co-Chairs) who take responsibility for all aspects of planning (albeit assisted by NCME planning staff); and
--   any additional details about the topic, potential speakers, session formats, or possibilities for fundraising that you wish to highlight, if known.
-
-The NCME meeting planners will assist with project management, venue selection, event registration, and advertising.
-
-### Interested in taking the lead on this?
-
-## AIME Updates
-
-The white paper on the ethical use of AI in Educational Measurement is available
-
-### The Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges
-
-Okan Bulut, Maggie Beiting-Parrish, Jodi M Casabianca, Sharon C Slater, Hong Jiao, Dan Song, Christopher M Ormerod, Deborah Gbemisola Fabiyi, Rodica Ivan, Cole Walsh, Oscar Rios, Joshua Wilson, Seyma N Yildirim-Erbasli, Tarid Wongvorachan, Joyce Xinle Liu, Bin Tan, Polina Morilova
-
-<https://arxiv.org/abs/2406.18900>
-
-A special thanks to Okan Bulut for his organization and all the authors for putting this together.
-
-## Research Presentation
-
-### Securing Tests with AI: Initial Explorations in Item Generation
-
-Sergio Araneda from Caveon
-
-### Abstract
-
-Generative AI and off-the-shelf large language models (LLMs) offer transformative possibilities for enhancing test security. This presentation delves into the potential of AI to prevent cheating by enabling the creation of randomly parallel tests. We will share initial explorations at Caveon, highlighting research focused on leveraging AI for test security purposes. Specifically, we will discuss methods for generating a large volume of diverse items and domain templates, which help to randomize tests and mitigate the risk of pre-knowledge. A key case study will be presented, showcasing the development of approximately 1,500 items for a client through a semi-automated process. Additionally, we will explore the use of LLMs to facilitate the programming of SmartItems and examine prompt engineering techniques for binary response items. This presentation provides a comprehensive overview of our research, advocating for the use of AI not just to expedite existing processes, but to enable more profound innovations in test development practices.
 
 # Additional SIG Updates & Calls for Participation
 
