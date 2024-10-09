@@ -23,7 +23,6 @@ format:
 
 -   Today's Speaker: Victoria Yaneva, National Board of Medical Examiners
 
-
 -   Additional SIG Updates & Calls for Participation
 
 ## NCME Annual Conference
@@ -36,7 +35,7 @@ https://convention2.allacademic.com/one/ncme/ncme24/
 
 -   We are planning an in-person get-together on Saturday.
 
--   Proceedings of the NCME conference by AIME members  - please upload here <https://t.ly/ncme-2024-ai>
+-   Proceedings of the NCME conference by AIME members - please upload here <https://t.ly/ncme-2024-ai>
 
 ## Research Presentation
 
@@ -55,7 +54,6 @@ Using Large Language Models for Item Development beyond Language Testing: Barrie
 The Teaching & Learning with AI conference aims to discuss how to use AI tools effectively in instruction and support. By joining this conversation, you can help shape the impact of artificial intelligence in both teaching and learning.
 
 <https://digitallearning.ucf.edu/teachwithai/>
-
 
 ## AI For Educators Conference 2024
 

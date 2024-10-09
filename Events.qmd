@@ -139,6 +139,14 @@ September 11th 4:00pm - 5:00pm (EST) \[[Slides](meetings/September2024/slides.ht
 
 ------------------------------------------------------------------------
 
+October 9th 4:00pm - 5:00pm (EST) \[[Slides](meetings/October2024/slides.html)\]
+
+**Title:** Enhancing Automated Scoring Engines with Generative AI: A Dual-Study
+
+**Presenter:** Justin O. Barber and Edward W. Wolfe from Pearson
+
+------------------------------------------------------------------------
+
 
 # Active Publication Opportunities
 
