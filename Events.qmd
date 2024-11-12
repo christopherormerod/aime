@@ -132,7 +132,6 @@ August 14th 4:00pm - 5:00pm (EST) \[[Slides](meetings/August2024/slides.html)\]
 
 ------------------------------------------------------------------------
 
-
 September 11th 4:00pm - 5:00pm (EST) \[[Slides](meetings/September2024/slides.html)\]
 
 (Speaker Cancellation)
@@ -147,26 +146,24 @@ October 9th 4:00pm - 5:00pm (EST) \[[Slides](meetings/October2024/slides.html)\]
 
 ------------------------------------------------------------------------
 
+November 13th 4:00pm - 5:00pm (EST) \[[Slides](meetings/November2024/slides.html)\]
 
-# Active Publication Opportunities
+**Title:** Human-AI Partnerships to Support Collaborative Learning
 
-## The 49th International Association for Educational Assessment (IAEA) Annual Conference
+**Presenter:** Peter Foltz, University of Colorado, Boulder
 
-The 49th International Association for Educational Assessment (IAEA) Annual Conference, hosted by ETS in Philadelphia, Pennsylvania, U.S., will provide an opportunity for industry thought leaders, training providers, and practitioners to examine current and recent advancements in educational assessments, focusing on the theme How Can AI Help Improve Educational Assessments? While AI has gained broader interest globally in education and beyond with the creation of chat GPT and the subsequent emergence of many other tools and applications based on generative AI, forms of AI have been used in assessments for decades, including automatic item generation for new assessments, natural language processing (NLP) or large-language model (LLM) methods for automatic scoring of essays (e.g., ETS e-rater), or onthefly individualized assessment assembly based on computer-adaptive testing (CAT).
 
-**Place**: Philadelphia, PA
+------------------------------------------------------------------------
 
-**Date**: September 22–25, 2024
+## INNOVATIONS IN TESTING CONFERENCE!
 
-<https://iaea.info/>
+The Association of Test Publishers (ATP)
 
-## 2024 NCME Special Conference on Classroom Assessment
+Better Together: Testing the Limits. Learn from the assessment industries' leading organizations at Innovations, the testing community conference. Share the latest technology and concepts in innovations, foster networking for professional growth, and refresh your expertise. We challenge you to test the limits by showcasing your organization’s cutting-edge solutions and sharing research findings to lead the way.
 
-This year’s special conference is being co-hosted by the University of Illinois at Chicago and the Chicago Public Schools, with support from the Center for Assessment. These hosts continue NCME’s longstanding commitment to improving assessment practices that privilege deeper learning for all, and that happen directly between teachers and their students.
+**Date**: March 23-26 
 
-**Place**: Chicago, IL
-
-**Date**: September 19-20, 2024
+**Place**: Orlando, FL
 
 ------------------------------------------------------------------------
 

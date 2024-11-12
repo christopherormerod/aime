@@ -1,0 +1,131 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   AIME Updates
+
+-   Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+### AIME conference (Proposal).
+
+We are submitting proposal for a Special AI in Measurement and Education Conference
+
+Submitted by: AIME SIG Conference Organizing Committee (Joshua Wilson as Committee Chair)
+
+**Theme:** Building Robust Evidence for AI in Educational Measurement
+
+**Possible topics**
+
+-   AI Applications in Measurement and Assessment
+
+-   AI applications in Instruction
+
+-   Ethical Issues
+
+-   Assessment Opportunities and Challenges
+
+-   Building Technological Expertise
+
+We met with Rich Patz and Amy Hendrickson on November 1st regarding planning. 
+
+## AIME Updates
+
+### NCME Annual Meeting
+
+The theme of the 2025 NCME Annual Meeting is "Educational Measurement: In Service of Society." The theme emphasizes the "why" of our work in educational measurement and echoes the last three words of the [NCME mission](https://www.ncme.org/about/about-ncme/mission): "to advance theory and applications of educational measurement **to benefit society**"
+
+**Dates:** April 23-26, 2025
+
+**Place:** Denver, CO
+
+**Sessions**: Congratulations to every session organizer and participant. 
+
+## AIME Updates
+
+### Next Week
+
+We are still looking for a speaker. 
+
+
+## Research Presentation
+
+Peter Foltz, University of Colorado, Boulder
+
+Human-AI Partnerships to Support Collaborative Learning
+
+# Additional SIG Updates & Calls for Participation
+
+## NeurIPS 2024
+
+NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems
+
+<https://neurips.cc/>
+
+**Place:** Vancouver Convention Center
+
+**Date:** December 10-15, 2024
+
+The Conference and Workshop on Neural Information Processing Systems (abbreviated as NeurIPS and formerly NIPS) is a machine learning and computational neuroscience conference held every December. Along with ICLR and ICML, it is one of the three primary conferences of high impact in machine learning and artificial intelligence research.
+
+## NeurIPS Workshop on Large Foundation Models for Educational Assessment
+
+<https://neurips2024edu.github.io/>
+
+**Date:** December 15, 2024
+
+Original high-quality contributions are solicited on the following topics:
+
+::: columns
+::: {.column width="45%"}
+-   LLMs for automated scoring
+-   LLMs for automated item generation
+-   LLMs for computerized adaptive testing
+-   LLMs for educational content generation
+-   LLMs for knowledge tracing
+-   LLMs for creating technology-enhanced items
+-   Knowledge augmentation of large models for educational assessment
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="45%"}
+-   Knowledge editing of large models for educational assessment
+-   Finetune large foundation models for educational assessment
+-   Generative AI for assessment security and accountability
+-   Trustworthy AI (Fairness, Explainability, Privacy) for educational assessment
+:::
+:::
+
+AIME Member Keynotes include Sue Lottridge and Hong Jiao
+
+## 26th International Conference on Artificial Intelligence in Education
+
+AIED 2025 will be the 26th edition and celebrates the quarter of century advancing science and engineering of intelligent human-technology ecosystems that support learning. The conference will be the latest of a longstanding series of international conferences, known for high quality and innovative research on AI-assisted systems and cognitive science approaches for educational computing applications.
+
+**Dates:** July 22-26, 2025
+
+**Place:** Palermo, Italy
+
+<https://iaied.org/conferences>
+
+# Thank You
