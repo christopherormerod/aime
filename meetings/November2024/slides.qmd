@@ -21,6 +21,8 @@ format:
 
 -   AIME Updates
 
+-   Research Presentation: Peter Foltz, University of Colorado, Boulder, "Human-AI Partnerships to Support Collaborative Learning"
+
 -   Additional SIG Updates & Calls for Participation
 
 ## AIME Updates
@@ -45,7 +47,7 @@ Submitted by: AIME SIG Conference Organizing Committee (Joshua Wilson as Committ
 
 -   Building Technological Expertise
 
-We met with Rich Patz and Amy Hendrickson on November 1st regarding planning. 
+We met with Rich Patz and Amy Hendrickson on November 1st regarding planning.
 
 ## AIME Updates
 
@@ -57,14 +59,21 @@ The theme of the 2025 NCME Annual Meeting is "Educational Measurement: In Servic
 
 **Place:** Denver, CO
 
-**Sessions**: Congratulations to every session organizer and participant. 
+**Sessions**: Congratulations to every session organizer and participant.
 
 ## AIME Updates
 
-### Next Week
+## AI Evidence Hub
 
-We are still looking for a speaker. 
+Evidence in AI Group has been 'curating' LLM in EDU eidence into a [public Zotero group](https://www.zotero.org/groups/5515175/llms-4-edu_public) (t.ly/zg2yE).
 
+We've connected this group into a public web portal: [aievidencehub.org](https://aievidencehub.org/lib/). Welcome feedback and contributions; synchs hourly between Zotero and Web portal.
+
+Moving slowly with analyzing research using analysis framework; let John (jwhitmer\@fas.org) know if you're interested in contributing.
+
+### Next Meeting
+
+Speaker suggestions? Self-nominations welcome!
 
 ## Research Presentation
 
