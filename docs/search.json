@@ -893,7 +893,7 @@
     "href": "meetings/November2024/slides.html#outline",
     "title": "Artificial Intelligence in Measurement and Education",
     "section": "Outline",
-    "text": "Outline\n\nAIME Updates\nAdditional SIG Updates & Calls for Participation"
+    "text": "Outline\n\nAIME Updates\nResearch Presentation: Peter Foltz, University of Colorado, Boulder, “Human-AI Partnerships to Support Collaborative Learning”\nAdditional SIG Updates & Calls for Participation"
   },
   {
     "objectID": "meetings/November2024/slides.html#aime-updates",
@@ -914,7 +914,7 @@
     "href": "meetings/November2024/slides.html#aime-updates-2",
     "title": "Artificial Intelligence in Measurement and Education",
     "section": "AIME Updates",
-    "text": "AIME Updates\nNext Week\nWe are still looking for a speaker."
+    "text": "AIME Updates"
   },
   {
     "objectID": "meetings/November2024/slides.html#research-presentation",
@@ -1062,5 +1062,12 @@
     "title": "Artificial Intelligence in Measurement and Education",
     "section": "2024 NCME Special Conference on Classroom Assessment",
     "text": "2024 NCME Special Conference on Classroom Assessment\nReclaiming the Promise of Balanced Assessment Systems: Achieving Deeper Learning at Scale for Both Students and Adults.\nThis year’s special conference is being co-hosted by the University of Illinois at Chicago and the Chicago Public Schools, with support from the Center for Assessment. These hosts continue NCME’s longstanding commitment to improving assessment practices that privilege deeper learning for all, and that happen directly between teachers and their students.\nDate: 19-20 September 2024\nPlace: Chicago\nhttps://www.ncme.org/event/classroom-assessment/upcoming-meeting"
+  },
+  {
+    "objectID": "meetings/November2024/slides.html#ai-evidence-hub",
+    "href": "meetings/November2024/slides.html#ai-evidence-hub",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "AI Evidence Hub",
+    "text": "AI Evidence Hub\nEvidence in AI Group has been ‘curating’ LLM in EDU eidence into a public Zotero group (t.ly/zg2yE).\nWe’ve connected this group into a public web portal: aievidencehub.org. Welcome feedback and contributions; synchs hourly between Zotero and Web portal.\nMoving slowly with analyzing research using analysis framework; let John (jwhitmer@fas.org) know if you’re interested in contributing.\nNext Meeting\nSpeaker suggestions? Self-nominations welcome!"
   }
 ]
