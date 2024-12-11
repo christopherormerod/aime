@@ -68,7 +68,7 @@ November 8th 4:00pm - 5:00pm (EST) \[[Slides](meetings/November2023/slides.html)
 
 ------------------------------------------------------------------------
 
-December 13th 4:00pm - 5:00pm (EST) \[[Slides](meetings/December/2023/slides.html)\]
+December 13th 4:00pm - 5:00pm (EST) \[[Slides](meetings/December2023/slides.html)\]
 
 **Title:** Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference
 
@@ -142,7 +142,7 @@ October 9th 4:00pm - 5:00pm (EST) \[[Slides](meetings/October2024/slides.html)\]
 
 **Title:** Enhancing Automated Scoring Engines with Generative AI: A Dual-Study
 
-**Presenter:** Justin O. Barber and Edward W. Wolfe from Pearson
+**Presenter:** Justin O. Barber and Edward W. Wolfe from Pearson \[[link](https://drive.google.com/file/d/1--D7rcv234AVJ-Xj1DZFMWNsD0fV7jeZ/view?usp=sharing)\]
 
 ------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ November 13th 4:00pm - 5:00pm (EST) \[[Slides](meetings/November2024/slides.html
 
 **Title:** Human-AI Partnerships to Support Collaborative Learning
 
-**Presenter:** Peter Foltz, University of Colorado, Boulder
+**Presenter:** Peter Foltz, University of Colorado, Boulder \[[link](https://drive.google.com/file/d/1f5Ydqce3QLdVfBQJBmTHv9W_3wMU_jLb/view?usp=sharing)\]
 
 
 ------------------------------------------------------------------------
@@ -161,7 +161,7 @@ The Association of Test Publishers (ATP)
 
 Better Together: Testing the Limits. Learn from the assessment industries' leading organizations at Innovations, the testing community conference. Share the latest technology and concepts in innovations, foster networking for professional growth, and refresh your expertise. We challenge you to test the limits by showcasing your organization’s cutting-edge solutions and sharing research findings to lead the way.
 
-**Date**: March 23-26 
+**Date**: March 23-26, 2025
 
 **Place**: Orlando, FL
 
