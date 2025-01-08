@@ -1,0 +1,55 @@
+---
+title: "Topics: AIME Conference 2025"
+subtitle: "Innovation and Evidence: Shaping the Future of AI in Educational Measurement"
+navbar: false
+---
+
+1.  **AI Applications in Measurement and Assessment**
+
+    -   AI-driven scoring systems and their validity.
+
+    -   AI-driven item evaluation and generation.
+
+    -   Explainability and transparency in AI-driven measurement processes.
+
+    -   AI-driven personalized assessment.
+
+2.  **AI Applications in Instruction**
+
+    -   Use of AI for formative feedback and personalized learning.
+
+    -   Use of AI to generate new content, lesson plans, and materials.
+
+    -   AI as support for special populations (students with disabilities, multilingual learners).
+
+    -   AI as “Socratic” tutors.
+
+    -   AI as socioemotional learning tutor and support.
+
+    -   AI as career/college exploration. 
+
+3.  **Ethical Issues**
+
+    -   Data safety, privacy, and security in AI systems.
+
+    -   Addressing bias, fairness, and representativeness in AI algorithms.
+
+    -   Intellectual property concerns related to AI-generated content.
+
+    -   AI used for cheating & issues with plagiarism detection.
+
+4.  **Assessment Opportunities and Challenges**
+
+    -   Leveraging AI and assessment data to support differentiation, feedback, and personalized, effective learning.
+
+    -   Designing assessments that leverage AI while ensuring academic integrity.
+
+    -   Preventing and detecting academic dishonesty facilitated by AI tools.
+
+5.  **Building Technological Expertise:**
+
+    -   Strategies for increasing AI literacy among educators and practitioners.
+
+    -   Establishment of frameworks to guide the development and evaluation of AI-based assessment systems
+
+    -   Collaborative approaches to capacity-building in LEAs.

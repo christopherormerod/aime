@@ -1,0 +1,45 @@
+---
+title: "AIME Conference 2025"
+subtitle: "Innovation and Evidence: Shaping the Future of AI in Educational Measurement"
+navbar: false
+---
+
+![](https://images.trvl-media.com/lodging/1000000/30000/25600/25509/7de87b8f.jpg?impolicy=resizecrop&rw=1200&ra=fit)
+
++------------------+-----------------------------------------------------------+
+| ## Details       |                                                           |
++==================+===========================================================+
+| **Location**     | Pittsburgh, PA                                            |
++------------------+-----------------------------------------------------------+
+| **Deadline**     | June 5th 2025 ([Submission details](submission.html))     |
++------------------+-----------------------------------------------------------+
+| **Date**         | 27th-29th of October 2025                                 |
++------------------+-----------------------------------------------------------+
+| **Organizers**   | Joshua Wilson, University of Delaware                     |
+|                  |                                                           |
+|                  | Maggie Beiting-Parrish, Federation of American Scientists |
+|                  |                                                           |
+|                  | Christopher Ormerod, Cambium Assessment                   |
++------------------+-----------------------------------------------------------+
+| **Contact**      | aime.conference\@gmail.com                                |
++------------------+-----------------------------------------------------------+
+
+## Purpose
+
+The Artificial Intelligence in Measurement and Education (AIME) Special Interest Group (SIG) proposes to host a special conference dedicated to building the evidence base and application of measurement expertise to addressing critical issues surrounding the use of Artificial Intelligence (AI) in measurement, evaluation, assessment, and education.
+
+[Click here to read more about the purpose.](purpose.html)
+
+## Topics
+
+1.  **AI Applications in Measurement and Assessment**
+
+2.  **AI Applications in Instruction**
+
+3.  **Ethical Issues**
+
+4.  **Assessment Opportunities and Challenges**
+
+5.  **Building Technological Expertise**
+
+[Click here to read more about the details of each topic.](topics.html)

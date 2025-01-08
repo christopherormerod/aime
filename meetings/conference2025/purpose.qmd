@@ -1,0 +1,25 @@
+---
+title: "Purpose: AIME Conference 2025"
+subtitle: "Innovation and Evidence: Shaping the Future of AI in Educational Measurement"
+navbar: false
+---
+
+1.  **Purpose and Rationale**
+
+    The Artificial Intelligence in Measurement and Education (AIME) Special Interest Group (SIG) proposes to host a special conference dedicated to building the evidence base and application of measurement expertise to addressing critical issues surrounding the use of Artificial Intelligence (AI) in measurement, evaluation, assessment, and education. We are at a critical juncture where:
+
+    -   **AI Adoption is Accelerating**: The integration of AI into educational applications and assessment solutions is rapidly accelerating. Educational standards are beginning to focus on [AI literacy](https://ai4k12.org/), and there is an urgent need for educators and researchers worldwide to understand and navigate the technical, ethical, and educational challenges that AI presents.
+
+    -   **Proliferation of AI Tools Without Measurement-informed Evidence**: A surge of new AI tools (as well as revisions of existing tools) is being developed and marketed to State and Local Education Agencies (SEAs, LEAs), educators, and researchers. Many of these tools lack evidence to support their validity, reliability, and fairness – let alone their efficacy.
+
+    -   **Data Security and Ethical Issues**: AI introduces new complexities and ethical challenges related to transparency, data safety, privacy, representativeness, bias, intellectual property rights, and academic dishonesty.
+
+    -   **Need for Shared Expertise & Openly Available Toolsets**: Knowledge of AI remains siloed, with machine learning and data science specialists often operating in isolation from psychometricians, learning scientists, educational researchers, and policy makers. There is a pressing need to bring together these communities to share interdisciplinary knowledge and expertise. The emergence of open science and licensing approaches provides an opportunity to replicate promising approaches and enable larger-scale research than previously possible. 
+
+    The proposed conference aims to convene a diverse community of AI experts, educational data mining researchers, psychometricians, educational researchers, and SEA/LEA leadership. This conference will provide **NCME members** with a unique opportunity to deepen their understanding of AI applications within educational measurement and upskill in critical areas, such as algorithmic transparency, bias mitigation, and ethical AI use in assessment. As AI continues to reshape educational tools, there is a pressing need for NCME members to expand their expertise and stay at the forefront of developments in AI-enhanced assessment design, validation, and efficacy.
+
+    For professionals in **machine learning, natural language processing, and data science**, this conference offers an invaluable opportunity to engage with educational measurement experts. As these professionals increasingly develop AI-driven tools and applications for the education sector, understanding best practices in assessment development, validity, and reliability is essential for building products that meet rigorous educational standards. Engaging with the NCME community will allow them to deepen their knowledge of measurement principles and collaborate with those who have experience evaluating the efficacy of complex assessment solutions in diverse educational contexts.
+
+    For **policymakers and leaders within state and local education agencies**, this conference provides a crucial platform to explore the intersection of AI, educational measurement, and policy. With a growing influx of AI-powered tools in education, these leaders are tasked with creating policies that support safe, effective, and equitable technology use. By attending, policymakers will gain insights into best practices in AI and assessment, helping them make informed decisions and serve as responsible consumers of new assessment technologies.
+
+    The conference will feature **comprehensive training sessions**, including both introductory and advanced offerings on AI applications in measurement and education. In addition, dedicated programming tracks will address specific topics relevant to each audience—from psychometric best practices to AI deployment strategies and policy considerations—ensuring that participants from all backgrounds leave equipped with actionable knowledge and new professional networks.
