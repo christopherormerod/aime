@@ -45,7 +45,7 @@ Two recent special issues have appeared featuring the work of members:
 [https://dergipark.org.tr/en/pub/epod/issue/84493 ](https://dergipark.org.tr/en/pub/epod/issue/84493 )
 
 
-### AIME conference (Proposal).
+## AIME conference (Proposal).
 
 We are submitting proposal for a Special AI in Measurement and Education Conference
 
@@ -76,10 +76,6 @@ The theme of the 2025 NCME Annual Meeting is "Educational Measurement: In Servic
 **Dates:** April 23-26, 2025
 
 **Place:** Denver, CO
-
-### Next Meeting
-
-Speaker suggestions? Self-nominations welcome!
 
 ## Research Presentation
 
