@@ -21,7 +21,7 @@ format:
 
 -   AIME Updates
 
--   Research Presentation: Sanmi Koyeyo, Sang Troung, and Angelina Wang, "Vignettes on Algorithmic Fairness and Generative AI Evaluation."
+-   Research Presentation: Sanmi Koyejo, Sang Truong, and Angelina Wang, "Vignettes on Algorithmic Fairness and Generative AI Evaluation."
 
 -   Additional SIG Updates & Calls for Participation
 
@@ -59,7 +59,7 @@ Note: We have reserved a space to meet at NCME.
 
 ## Research Presentation
 
-Sanmi Koyeyo, Sang Troung, and Angelina Wang. Stanford University
+Sanmi Koyejo, Sang Truong, and Angelina Wang. Stanford University
 
 Vignettes on Algorithmic Fairness and Generative AI Evaluation.
 
