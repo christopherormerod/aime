@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+
+$body-bg: #f1f1f1;
+$body-color: #001f3f;
+$link-color: #42affa;
+$presentation-font-size-root:25px;
+
+/*-- scss:rules --*/
+
+.reveal .slide blockquote {
+  border-left: 3px solid $text-muted;
+  padding-left: 0.5em;
+}
+
+ .reveal .slide-logo { 
+   display: block; 
+   position: fixed; 
+   top: 24px; 
+   right: 24px; 
+   max-height: 5.0rem!important;
+   height: 100%; 
+   width: auto; 
+ }
