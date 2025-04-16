@@ -1,0 +1,108 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   AIME Updates
+
+-   Research Presentation: Okan Bulut and Elisabetta Mazzullo, University of Alberta
+
+-   Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+### Artificial Intelligence in Measurement and Education Conference (AIME–Con)
+
+**Theme:** Innovation and Evidence: Shaping the Future of AI in Educational Measurement
+
+**Date:** 10/27 - 10/29
+
+**Proposal Deadline:** 5/31
+
+**Location:** Wyndham Grand Pittsburgh Downtown
+
+**Website:** [www.ncme.org/event/special-conferences/aime-conference](https://www.ncme.org/event/special-conferences/aime-conference)
+
+**Contact:** [aimecon@ncme.org](mailto:aimecon@ncme.org)
+
+#### Next steps
+
+We will be looking for volunteers to training sessions and to chair review committees.
+
+## AIME Updates
+
+### NCME Annual Meeting
+
+The theme of the 2025 NCME Annual Meeting is "Educational Measurement: In Service of Society." The theme emphasizes the "why" of our work in educational measurement and echoes the last three words of the [NCME mission](https://www.ncme.org/about/about-ncme/mission): "to advance theory and applications of educational measurement **to benefit society**"
+
+**Dates:** April 23-26, 2025
+
+**Place:** Denver, CO
+
+We have reserved the Gold Coin room to meet up as a SIGIME:
+
+**Date:** Friday April 25th
+
+**Time:** 3pm 
+
+**Place:** Gold Coin Room
+
+## Research Presentation
+
+Okan Bulut and Elisabetta Mazzullo, University of Alberta
+
+Generating Automatic Feedback for Open-Ended Questions with Fine-Tuned LLMs: A Comparison of GPT and Llama
+
+# Additional SIG Updates & Calls for Participation
+
+## Special Issue of Assessing Writing
+
+Joshua Wilson and Corey Palermo are co-editing a special issue, titled **“AI and Writing Assessment: Innovations, Validity, and Ethical Considerations.”** This special issue aims to advance the field’s understanding of how AI can be responsibly and effectively integrated into writing assessment, with a focus on innovation, validity, and ethics.
+
+**Abstract Deadline:** 31st of March, 2025
+
+**Submission Deadline:** 1st of October, 2025
+
+**Contacts:**
+
+-   Dr. Joshua Wilson (University of Delaware): [joshwils\@udel.edu](mailto:joshwils@udel.edu "mailto:joshwils@udel.edu")
+
+-   Dr. Corey Palermo (Measurement Incorporated): [cpalermo\@measinc.com](mailto:cpalermo@measinc.com "mailto:cpalermo@measinc.com")
+
+## Building Educational Applications (BEA)
+
+The **BEA Workshop** is a leading venue for NLP innovation in the context of educational applications. It is one of the largest one-day workshops in the ACL community with over 100 registered attendees in the past several years.
+
+<https://sig-edu.org/bea/2025>
+
+**Place:** Vienna, Austria
+
+**Date:** July 31 and August 1, 2025
+
+## 26th International Conference on Artificial Intelligence in Education
+
+AIED 2025 will be the 26th edition and celebrates the quarter of century advancing science and engineering of intelligent human-technology ecosystems that support learning. The conference will be the latest of a longstanding series of international conferences, known for high quality and innovative research on AI-assisted systems and cognitive science approaches for educational computing applications.
+
+**Dates:** July 22-26, 2025
+
+**Place:** Palermo, Italy
+
+<https://iaied.org/conferences>
+
+# Thank You

@@ -152,7 +152,6 @@ November 13th 4:00pm - 5:00pm (EST) \[[Slides](meetings/November2024/slides.html
 
 **Presenter:** Peter Foltz, University of Colorado, Boulder \[[link](https://drive.google.com/file/d/1f5Ydqce3QLdVfBQJBmTHv9W_3wMU_jLb/view?usp=sharing)\]
 
-
 ### **Member Events 2025**
 
 January 8th 4:00pm - 5:00pm (EST) \[[Slides](meetings/January2025/slides.html)\]
@@ -171,11 +170,35 @@ February 26th 4:00pm - 5:00pm (EST) \[[Slides](meetings/February2025/slides.html
 
 ------------------------------------------------------------------------
 
-March 19th 4:00pm - 5:00pm (EST) 
+March 19th 4:00pm - 5:00pm (EST)  \[[Slides](meetings/March2025/slides.html)\]
+
+**Title:** Generating Automatic Feedback for Open-Ended Questions with Fine-Tuned LLMs: A Comparison of GPT and Llama
+
+**Presenter:** Okan Bulut, and Elisabetta Mazzullo, University of Alberta
+
+------------------------------------------------------------------------
+
+April 23th-26th : NCME Annual Conference
+
+[https://www.ncme.org/event/annual-meeting/upcoming-meeting2025](https://www.ncme.org/event/annual-meeting/upcoming-meeting2025)
+
+[AI Talks](meetings/NCME2025/ncme-conference.html)
+
+------------------------------------------------------------------------
+
+May 14th: 4:00pm - 5:00pm (EST)
 
 **Title:** TBD
 
-**Presenter:** TBD
+**Presenter:** Hotaka Maeda, Smarter Balanced
+
+------------------------------------------------------------------------
+
+June 11th: 4:00pm - 5:00pm (EST)
+
+**Title:** TBD
+
+**Presenter:** 
 
 ------------------------------------------------------------------------
 
