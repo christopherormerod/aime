@@ -38,6 +38,7 @@ format:
 | | **Revolutionizing Big Data with Advanced AI and Machine Learning** <br>Location: Penrose 2 |
 | 11:30am - 1:00pm | **Innovations in Automated Scoring Modeling** <br>Location: Colorado AB |
 | 1:30pm - 3:00pm | **LLM respondents in Measurement** <br>Location: Colorado AB |
+| | **Computation Psychometrics in the Wild: Scalable Procedures for Maining Test Scores** <br>Location: Denver 1-2 |
 | 2:30pm - 3:00pm | **AIME In-Person SIGIMIE Meeting** <br>Location: The Gold Coin Room |
 | 4:30pm - 6:00pm | **From Principles to Practice: Operationalizing Responsible AI in Educational Measurement** <br>Location: Colorado EF |
 | | **Using Large Language Models for Alignment and Progression Tasks** <br>Location: Colorado CD |
