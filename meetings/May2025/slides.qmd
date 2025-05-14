@@ -39,15 +39,13 @@ format:
 
 **Website:** [www.ncme.org/event/special-conferences/aime-conference](https://www.ncme.org/event/special-conferences/aime-conference)
 
-**Contact:** [aimecon@ncme.org](mailto:aimecon@ncme.org)
+**Contact:** [aimecon\@ncme.org](mailto:aimecon@ncme.org)
 
 #### Next steps
 
-The submission portal is open 
+The submission portal is open
 
-[https://www.xcdsystem.com/ncme/member/index.cfm](https://www.xcdsystem.com/ncme/member/index.cfm)
-
-## AIME Updates
+<https://www.xcdsystem.com/ncme/member/index.cfm>
 
 ## Research Presentation
 
