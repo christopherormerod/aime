@@ -1,0 +1,96 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   AIME Updates
+
+-   Research Presentation: Hotaka Maeda, Smarter Balanced
+
+-   Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+### Artificial Intelligence in Measurement and Education Conference (AIME–Con)
+
+**Theme:** Innovation and Evidence: Shaping the Future of AI in Educational Measurement
+
+**Date:** 10/27 - 10/29
+
+**Proposal Deadline:** 6/15/2025
+
+**Location:** Wyndham Grand Pittsburgh Downtown
+
+**Website:** [www.ncme.org/event/special-conferences/aime-conference](https://www.ncme.org/event/special-conferences/aime-conference)
+
+**Contact:** [aimecon@ncme.org](mailto:aimecon@ncme.org)
+
+#### Next steps
+
+The submission portal is open 
+
+[https://www.xcdsystem.com/ncme/member/index.cfm](https://www.xcdsystem.com/ncme/member/index.cfm)
+
+## AIME Updates
+
+## Research Presentation
+
+Hotaka Maeda, Smarter Balanced
+
+Finding Words Associated with DIF: Predicting Differential Item Functioning using LLMs and Explainable AI
+
+# Additional SIG Updates & Calls for Participation
+
+## Special Issue of Applied Linguistics
+
+Generative AI is transforming applied linguistics by enabling new approaches to language teaching, learning, assessment and research, creating both opportunities and ethical challenges. This special issue examines AI applications across diverse linguistic sub-fields, bringing together interdisciplinary perspectives from linguistics, education, computer science, and speech technology. It aims to inform researchers and practitioners about current AI capabilities, facilitate cross-disciplinary dialogue, and establish a collaborative research agenda between applied linguists and AI specialists.
+
+**Editors:** Geoff LaFlair and Okim Kang
+
+**Abstract Deadline:** June 6, 2025
+
+**Submission Deadline:** October 1, 2025
+
+**Final Publication Date:** September 30, 2026
+
+**Contacts:**
+
+-   Geoff LaFlair (Duolingo): [geoff\@duolingo.com](mailto:geoff@duolingo.com)
+
+## Building Educational Applications (BEA)
+
+The **BEA Workshop** is a leading venue for NLP innovation in the context of educational applications. It is one of the largest one-day workshops in the ACL community with over 100 registered attendees in the past several years.
+
+<https://sig-edu.org/bea/2025>
+
+**Place:** Vienna, Austria
+
+**Date:** July 31 and August 1, 2025
+
+## 26th International Conference on Artificial Intelligence in Education
+
+AIED 2025 will be the 26th edition and celebrates the quarter of century advancing science and engineering of intelligent human-technology ecosystems that support learning. The conference will be the latest of a longstanding series of international conferences, known for high quality and innovative research on AI-assisted systems and cognitive science approaches for educational computing applications.
+
+**Dates:** July 22-26, 2025
+
+**Place:** Palermo, Italy
+
+<https://iaied.org/conferences>
+
+# Thank You

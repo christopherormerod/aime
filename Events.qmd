@@ -174,7 +174,7 @@ March 19th 4:00pm - 5:00pm (EST)  \[[Slides](meetings/March2025/slides.html)\]
 
 **Title:** Generating Automatic Feedback for Open-Ended Questions with Fine-Tuned LLMs: A Comparison of GPT and Llama
 
-**Presenter:** Okan Bulut, and Elisabetta Mazzullo, University of Alberta
+**Presenter:** Okan Bulut, and Elisabetta Mazzullo, University of Alberta \[[link](https://drive.google.com/file/d/1ZF3GjwMNvRYHu03W90fqHhzkFF0eEdtW/view?usp=drive_link)\]
 
 ------------------------------------------------------------------------
 
@@ -186,9 +186,9 @@ April 23th-26th : NCME Annual Conference
 
 ------------------------------------------------------------------------
 
-May 14th: 4:00pm - 5:00pm (EST)
+May 14th: 4:00pm - 5:00pm (EST)  \[[Slides](meetings/May2025/slides.html)\]
 
-**Title:** TBD
+**Title:** Finding Words Associated with DIF: Predicting Differential Item Functioning using LLMs and Explainable AI
 
 **Presenter:** Hotaka Maeda, Smarter Balanced
 
@@ -198,19 +198,25 @@ June 11th: 4:00pm - 5:00pm (EST)
 
 **Title:** TBD
 
-**Presenter:** 
+**Presenter:** Zachary A Pardos and Yunting Liu, Berkeley 
 
 ------------------------------------------------------------------------
 
-## INNOVATIONS IN TESTING CONFERENCE!
+**AIME-Con**
 
-The Association of Test Publishers (ATP)
+**Innovation and Evidence: Shaping the Future of AI in Educational Measurement**
 
-Better Together: Testing the Limits. Learn from the assessment industries' leading organizations at Innovations, the testing community conference. Share the latest technology and concepts in innovations, foster networking for professional growth, and refresh your expertise. We challenge you to test the limits by showcasing your organization’s cutting-edge solutions and sharing research findings to lead the way.
+| Presenting Organization | Artificial Intelligence in Measurement and Education (AIME) Special Interest Group of the National Council on Measurement in Education (NCME)                                                         |
+|----------------|--------------------------------------------------------|
+| Location                | Pittsburgh, Pennsylvania, United States<br>Wyndham Grand Pittsburgh Downtown                                                                                                                          |
+| Dates                   | October 27 through October 29, 2025                                                                                                                                                                   |
+| Modality                | In-person                                                                                                                                                                                             |
+| Call for Proposals      | See the [call for proposals here](https://higherlogicdownload.s3.amazonaws.com/NCME/4b7590fc-3903-444d-b89d-c45b7fa3da3f/UploadedImages/2025_AIME_Meeting/NCME_AIME-Con_2025_Call_for_Proposals.pdf). |
+| Proposal Deadline       | June 15, 2025; 11:59pm EST                                                                                                                                                                            |
 
-**Date**: March 23-26, 2025
+For more information, visit the official AIME-Con website:
 
-**Place**: Orlando, FL
+<https://www.ncme.org/event/special-conferences/aime-conference>
 
 ------------------------------------------------------------------------
 
