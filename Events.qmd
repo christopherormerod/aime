@@ -190,17 +190,26 @@ May 14th: 4:00pm - 5:00pm (EST)  \[[Slides](meetings/May2025/slides.html)\]
 
 **Title:** Finding Words Associated with DIF: Predicting Differential Item Functioning using LLMs and Explainable AI
 
-**Presenter:** Hotaka Maeda, Smarter Balanced
+**Presenter:** Hotaka Maeda, Smarter Balanced \[[Slides](meetings/May2025/maeda_aime_zoom_2025.pdf)\]
 
 ------------------------------------------------------------------------
 
-June 11th: 4:00pm - 5:00pm (EST)
+June 11th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/June2025/slides.html)\]
+
+**Title:** Leveraging LLMs as respondents for item evaluation and item generation: A psychometric analysis
+
+**Presenters:** Yunting Liu, Shreya Bhandari, and Zachary Pardos, UC Berkeley School of Education
+
+------------------------------------------------------------------------
+
+July 10th: 4:00pm - 5:00pm (EST) 
 
 **Title:** TBD
 
-**Presenter:** Zachary A Pardos and Yunting Liu, Berkeley 
+**Presenter:** Maharshi Gor, The University of Maryland
 
 ------------------------------------------------------------------------
+
 
 **AIME-Con**
 

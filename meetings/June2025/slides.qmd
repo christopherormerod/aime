@@ -1,0 +1,101 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   AIME Updates
+
+-   Research Presentation: Yunting Liu, Shreya Bhandari, and Zachary Pardos, UC Berkeley School of Education
+
+-   Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+### Artificial Intelligence in Measurement and Education Conference (AIME–Con)
+
+**Theme:** Innovation and Evidence: Shaping the Future of AI in Educational Measurement
+
+**Date:** 10/27 - 10/29
+
+**(Extended) Proposal Deadline:** 6/22/2025
+
+**Location:** Wyndham Grand Pittsburgh Downtown
+
+**Website:** [www.ncme.org/event/special-conferences/aime-conference](https://www.ncme.org/event/special-conferences/aime-conference)
+
+**Contact:** [aimecon\@ncme.org](mailto:aimecon@ncme.org)
+
+#### Next steps
+
+The submission portal is open
+
+<https://www.xcdsystem.com/ncme/member/index.cfm>
+
+## EXTENDED DEADLINE: AIME-Con Proposal Submissions Now Due June 22
+
+**Great news! We're giving you more time to submit your proposal for the Artificial Intelligence in Measurement and Education Conference (AIME-Con).**
+
+### New Deadline: June 22, 2025
+*(Extended from June 15)*
+
+We know how important it is to have adequate time to craft a thoughtful proposal, so we've extended the submission deadline by one week to give you the extra time you need.
+
+## EXTENDED DEADLINE: AIME-Con Proposal Submissions Now Due June 22
+
+### Resources Available to Help You:
+
+* **Revised Call for Proposals** - Updated with clarifying language to guide your submission. Access the revised call [HERE](https://higherlogicdownload.s3.amazonaws.com/NCME/4b7590fc-3903-444d-b89d-c45b7fa3da3f/UploadedImages/2025_AIME_Meeting/NCME_AIME-Con_2025_Call_for_Proposals.pdf). *Reminder:* Individual papers may be submitted as EITHER a 1000 word structured summary or 6-page paper.
+* **How-To Videos** - Step-by-step tutorials for navigating the XCD proposal submission platform. Videos available on our [conference website](https://www.ncme.org/event/special-conferences/aime-conference).
+* **Extended Timeline** - Now you have until **June 22** to perfect your proposal
+
+### Take Advantage of This Extra Week:
+
+* Refine your proposal using our updated guidelines.
+* Watch our instructional videos if you haven't already
+* Submit with confidence by the new June 22 deadline
+
+## Research Presentation
+
+Yunting Liu, Shreya Bhandari, and Zachary Pardos, UC Berkeley School of Education
+
+Leveraging LLMs as respondents for item evaluation and item generation: A psychometric analysis
+
+# Additional SIG Updates & Calls for Participation
+
+## Building Educational Applications (BEA)
+
+The **BEA Workshop** is a leading venue for NLP innovation in the context of educational applications. It is one of the largest one-day workshops in the ACL community with over 100 registered attendees in the past several years.
+
+<https://sig-edu.org/bea/2025>
+
+**Place:** Vienna, Austria
+
+**Date:** July 31 and August 1, 2025
+
+## 26th International Conference on Artificial Intelligence in Education
+
+AIED 2025 will be the 26th edition and celebrates the quarter of century advancing science and engineering of intelligent human-technology ecosystems that support learning. The conference will be the latest of a longstanding series of international conferences, known for high quality and innovative research on AI-assisted systems and cognitive science approaches for educational computing applications.
+
+**Dates:** July 22-26, 2025
+
+**Place:** Palermo, Italy
+
+<https://iaied.org/conferences>
+
+# Thank You

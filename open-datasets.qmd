@@ -10,6 +10,8 @@ If you have a dataset you'd like to share (or want to find one not listed here),
 
 -   [Kaggle ASAP AES Dataset](https://www.kaggle.com/c/asap-aes): A dataset containing essays to 8 different essay prompts.
 
+-   [Kaggle ASAP AES v2 Dataset](https://github.com/scrosseye/ASAP_2.0): A large dataset of 24278 essays to various prompts.
+
 ### **Automated Short Answer Scoring**
 
 -   [Kaggle ASAP SAS Dataset](https://www.kaggle.com/c/asap-sas/): A dataset containing student responses to 10 different short constructed response prompts.
