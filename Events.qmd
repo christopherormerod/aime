@@ -170,7 +170,7 @@ February 26th 4:00pm - 5:00pm (EST) \[[Slides](meetings/February2025/slides.html
 
 ------------------------------------------------------------------------
 
-March 19th 4:00pm - 5:00pm (EST)  \[[Slides](meetings/March2025/slides.html)\]
+March 19th 4:00pm - 5:00pm (EST) \[[Slides](meetings/March2025/slides.html)\]
 
 **Title:** Generating Automatic Feedback for Open-Ended Questions with Fine-Tuned LLMs: A Comparison of GPT and Llama
 
@@ -180,13 +180,13 @@ March 19th 4:00pm - 5:00pm (EST)  \[[Slides](meetings/March2025/slides.html)\]
 
 April 23th-26th : NCME Annual Conference
 
-[https://www.ncme.org/event/annual-meeting/upcoming-meeting2025](https://www.ncme.org/event/annual-meeting/upcoming-meeting2025)
+<https://www.ncme.org/event/annual-meeting/upcoming-meeting2025>
 
 [AI Talks](meetings/NCME2025/ncme-conference.html)
 
 ------------------------------------------------------------------------
 
-May 14th: 4:00pm - 5:00pm (EST)  \[[Slides](meetings/May2025/slides.html)\]
+May 14th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/May2025/slides.html)\]
 
 **Title:** Finding Words Associated with DIF: Predicting Differential Item Functioning using LLMs and Explainable AI
 
@@ -198,25 +198,40 @@ June 11th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/June2025/slides.html)\]
 
 **Title:** Leveraging LLMs as respondents for item evaluation and item generation: A psychometric analysis
 
-**Presenters:** Yunting Liu, Shreya Bhandari, and Zachary Pardos, UC Berkeley School of Education
+**Presenters:** Yunting Liu, Shreya Bhandari, and Zachary Pardos, UC Berkeley School of Education \[[link](https://drive.google.com/file/d/1UrhRempUJEe8AqaHlJnE_c546uHSlUuQ/view?usp=drive_link)\]
 
 ------------------------------------------------------------------------
 
-July 10th: 4:00pm - 5:00pm (EST) 
+July 10th: 4:00pm - 5:00pm (EST) \[[Slides](meetings/July2025/slides.html)\]
+
+**Title:** Complementary Minds: Quantifying Human–AI Strengths and Robustness for Question Answering
+
+**Presenter:** Maharshi Gor, The University of Maryland \[[link](https://drive.google.com/file/d/1UrhRempUJEe8AqaHlJnE_c546uHSlUuQ/view?usp=sharing)\]
+
+------------------------------------------------------------------------
+
+August 13th: 4:00pm - 5:00pm (EST)  \[[Slides](meetings/August2025/slides.html)\]
+
+**Title:** Henry Makinde, The University of North Carolina at Greensboro
+
+**Presenter:** AI-Generated Medical Certification Items Using LLMs
+
+------------------------------------------------------------------------
+
+September 10th: 4:00pm - 5:00pm (EST)
 
 **Title:** TBD
 
-**Presenter:** Maharshi Gor, The University of Maryland
+**Presenter:** TBD
 
 ------------------------------------------------------------------------
-
 
 **AIME-Con**
 
 **Innovation and Evidence: Shaping the Future of AI in Educational Measurement**
 
 | Presenting Organization | Artificial Intelligence in Measurement and Education (AIME) Special Interest Group of the National Council on Measurement in Education (NCME)                                                         |
-|----------------|--------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | Location                | Pittsburgh, Pennsylvania, United States<br>Wyndham Grand Pittsburgh Downtown                                                                                                                          |
 | Dates                   | October 27 through October 29, 2025                                                                                                                                                                   |
 | Modality                | In-person                                                                                                                                                                                             |
@@ -226,6 +241,46 @@ July 10th: 4:00pm - 5:00pm (EST)
 For more information, visit the official AIME-Con website:
 
 <https://www.ncme.org/event/special-conferences/aime-conference>
+
+------------------------------------------------------------------------
+
+**NCME 2026 Annual Meeting**
+
+**Moving Measurement Forward**
+
+| Presenting Organization | Artificial Intelligence in Measurement and Education (AIME) Special Interest Group of the National Council on Measurement in Education (NCME)                                                         |
+|------------------|------------------------------------------------------|
+| Location                | Los Angeles, California                                                                                                                         |
+| Dates                   | April 8 through October 11, 2026                                                                                                                                                                   |
+| Modality                | In-person                                                                                                                                                                                             |
+| Call for Proposals      | See the [call for proposals here](https://higherlogicdownload.s3.amazonaws.com/NCME/4b7590fc-3903-444d-b89d-c45b7fa3da3f/UploadedImages/2026_Annual_Meeting/CallforProposals2026_July2.pdf). |
+| Proposal Deadline       | September 12, 2025; 11:59pm PDT                                                                                                                                                                            |
+
+For more information, visit the official NCME Annual Meeting website:
+
+<https://www.ncme.org/event/annual-meeting/upcoming-meeting2026>
+
+------------------------------------------------------------------------
+
+**Special issue of Chinese/English Journal of Educational Measurement and Evaluation**
+
+CEJEME is inviting descriptive papers on big data sources that other researchers can explore or use for innovative experimentation — empirical findings are not required. This is a great opportunity to help shape the future of educational measurement!
+
+Deadline: August 31st
+
+Special Issue Co-Editors: 
+
+Yi (Isabel) Zheng
+
+Arizona State University 
+
+yi.isabel.zheng@asu.edu
+
+Okan Bulut 
+
+University of Alberta, 
+
+bulut@ualberta.ca
 
 ------------------------------------------------------------------------
 

@@ -1,0 +1,110 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   AIME Updates
+
+-   Research Presentation: Maharshi Gor, The University of Maryland
+
+-   Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+### Artificial Intelligence in Measurement and Education Conference (AIME–Con)
+
+**Theme:** Innovation and Evidence: Shaping the Future of AI in Educational Measurement
+
+**Date:** 10/27 - 10/29
+
+**(Extended) Proposal Deadline:** 6/22/2025
+
+**Location:** Wyndham Grand Pittsburgh Downtown
+
+**Website:** [www.ncme.org/event/special-conferences/aime-conference](https://www.ncme.org/event/special-conferences/aime-conference)
+
+**Contact:** [aimecon\@ncme.org](mailto:aimecon@ncme.org)
+
+#### Next steps
+
+## Submissions to AIME-Con
+
+Thank you to everyone who submitted to AIME-Con. For everyone's information, we received the following:
+
+-   186 Individual Paper/Works in Progress proposals
+
+-   18 Coordinated Session proposals
+
+-   10 Training Sessions proposals
+
+### Get those reviews in today!
+
+Please get those reviews in so that we can finalize the program.
+
+### Registration will be comming soon!!!
+
+We are looking at a registration that includes all meals. Thanks to the generous support of all our sponsors, we are currently projecting a registration fee of \$450.
+
+We are also looking to provide generous travel support for students and those affected by cuts/layoffs in education.
+
+## AIME Updates
+
+### NCME 2026 Annual Meeting
+
+**Date**: April 8-11, 2026
+
+**Location**: Los Angeles, California
+
+**Theme**: Moving Measurement Forward
+
+**Call for Proposals**: Friday, September 12, 2025, at 11:59 PM PDT
+
+The NCME Annual Meeting was a great success for AI. We encourage our members to collaborate towards organizing coordinated sessions over individual papers.
+
+**2026 Annual Meeting Program Chairs:** Pamela Kaliski and Stefanie Wind
+
+## Research Presentation
+
+Maharshi Gor, The University of Maryland
+
+Complementary Minds: Quantifying Human–AI Strengths and Robustness for Question Answering
+
+# Additional SIG Updates & Calls for Participation
+
+## Building Educational Applications (BEA)
+
+The **BEA Workshop** is a leading venue for NLP innovation in the context of educational applications. It is one of the largest one-day workshops in the ACL community with over 100 registered attendees in the past several years.
+
+<https://sig-edu.org/bea/2025>
+
+**Place:** Vienna, Austria
+
+**Date:** July 31 and August 1, 2025
+
+## 26th International Conference on Artificial Intelligence in Education
+
+AIED 2025 will be the 26th edition and celebrates the quarter of century advancing science and engineering of intelligent human-technology ecosystems that support learning. The conference will be the latest of a longstanding series of international conferences, known for high quality and innovative research on AI-assisted systems and cognitive science approaches for educational computing applications.
+
+**Dates:** July 22-26, 2025
+
+**Place:** Palermo, Italy
+
+<https://iaied.org/conferences>
+
+# Thank You

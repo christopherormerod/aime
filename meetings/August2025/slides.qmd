@@ -1,0 +1,92 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   AIME Updates
+
+-   Research Presentation: Henry Makinde, The University of North Carolina at Greensboro
+
+-   Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+### Artificial Intelligence in Measurement and Education Conference (AIME–Con)
+
+**Theme:** Innovation and Evidence: Shaping the Future of AI in Educational Measurement
+
+**Date:** 10/27 - 10/29
+
+**Location:** Wyndham Grand Pittsburgh Downtown
+
+**Website:** [www.ncme.org/event/special-conferences/aime-conference](https://www.ncme.org/event/special-conferences/aime-conference)
+
+**Contact:** [aimecon\@ncme.org](mailto:aimecon@ncme.org)
+
+Registration is now open.
+
+<https://ncme.site-ym.com/events/EventDetails.aspx?alias=2025AIMECon>
+
+Link to discounted hotel rate:
+
+<https://book.passkey.com/go/ncmeaime>
+
+## AIME Updates
+
+### NCME 2026 Annual Meeting
+
+**Date**: April 8-11, 2026
+
+**Location**: Los Angeles, California
+
+**Theme**: Moving Measurement Forward
+
+**Call for Proposals**: Friday, September 12, 2025, at 11:59 PM PDT
+
+The NCME Annual Meeting was a great success for AI. We encourage our members to collaborate towards organizing coordinated sessions over individual papers.
+
+**2026 Annual Meeting Program Chairs:** Pamela Kaliski and Stefanie Wind
+
+## Research Presentation
+
+Henry Makinde, The University of North Carolina at Greensboro
+
+AI-Generated Medical Certification Items Using LLMs
+
+# Additional SIG Updates & Calls for Participation
+
+## Special issue of **Chinese/English Journal of Educational Measurement and Evaluation**
+
+We welcome descriptive papers on big data sources that other researchers can explore or use for innovative experimentation — empirical findings are not required. This is a great opportunity to help shape the future of educational measurement!
+
+**Deadline:** August 31st
+
+**Special Issue Co-Editors:**
+
+[**Yi (Isabel) Zheng**](https://www.linkedin.com/in/yi-isabel-zheng/)
+
+Arizona State University
+
+[**yi.isabel.zheng\@asu.edu**](mailto:yi.isabel.zheng@asu.edu)
+
+[**Okan Bulut**](https://www.linkedin.com/in/drokanbulut/)
+
+University of Alberta,
+
+[**bulut\@ualberta.ca**](mailto:bulut@ualberta.ca)

@@ -19,7 +19,7 @@ For any additional information regarding this SIGIMIE, please contact a member o
 **Innovation and Evidence: Shaping the Future of AI in Educational Measurement**
 
 | Presenting Organization | Artificial Intelligence in Measurement and Education (AIME) Special Interest Group of the National Council on Measurement in Education (NCME)                                                         |
-|----------------|--------------------------------------------------------|
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Location                | Pittsburgh, Pennsylvania, United States<br>Wyndham Grand Pittsburgh Downtown                                                                                                                          |
 | Dates                   | October 27 through October 29, 2025                                                                                                                                                                   |
 | Modality                | In-person                                                                                                                                                                                             |
