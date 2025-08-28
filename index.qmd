@@ -18,13 +18,13 @@ For any additional information regarding this SIGIMIE, please contact a member o
 
 **Innovation and Evidence: Shaping the Future of AI in Educational Measurement**
 
-| Presenting Organization | Artificial Intelligence in Measurement and Education (AIME) Special Interest Group of the National Council on Measurement in Education (NCME)                                                         |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Location                | Pittsburgh, Pennsylvania, United States<br>Wyndham Grand Pittsburgh Downtown                                                                                                                          |
-| Dates                   | October 27 through October 29, 2025                                                                                                                                                                   |
-| Modality                | In-person                                                                                                                                                                                             |
-| Call for Proposals      | See the [call for proposals here](https://higherlogicdownload.s3.amazonaws.com/NCME/4b7590fc-3903-444d-b89d-c45b7fa3da3f/UploadedImages/2025_AIME_Meeting/NCME_AIME-Con_2025_Call_for_Proposals.pdf). |
-| Proposal Deadline       | June 15, 2025; 11:59pm EST                                                                                                                                                                            |
+| Presenting Organization | Artificial Intelligence in Measurement and Education (AIME) Special Interest Group of the National Council on Measurement in Education (NCME) |
+|--------------|----------------------------------------------------------|
+| Location                | Pittsburgh, Pennsylvania, United States<br>Wyndham Grand Pittsburgh Downtown                                                                  |
+| Dates                   | October 27 through October 29, 2025                                                                                                           |
+| Modality                | In-person                                                                                                                                     |
+| Program                 | Full Program [Here](meetings/AIMECon-Program-2025.pdf)                                                                                                             |
+| Proposal Deadline       | June 15, 2025; 11:59pm EST                                                                                                                    |
 
 For more information, visit the official AIME-Con website:
 
