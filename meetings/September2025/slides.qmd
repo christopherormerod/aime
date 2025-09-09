@@ -1,0 +1,96 @@
+---
+title: "Artificial Intelligence in Measurement and Education"
+ 
+format: 
+  revealjs:
+    logo: ../../images/logo-no-background-name.png
+    theme: [default, aime_theme.scss]
+---
+
+## Introductions
+
+### Executive Board
+
+-   Co-Chair: Chris Ormerod
+
+-   Co-chair: John Whitmer
+
+-   Secretary: Maggie Beiting-Parrish
+
+## Outline
+
+-   AIME Updates
+
+-   Research Presentation: Ummugul Bezirhan, Boston College
+
+-   Additional SIG Updates & Calls for Participation
+
+## AIME Updates
+
+### Artificial Intelligence in Measurement and Education Conference (AIME–Con)
+
+**Theme:** Innovation and Evidence: Shaping the Future of AI in Educational Measurement
+
+**Date:** 10/27 - 10/29
+
+**Location:** Wyndham Grand Pittsburgh Downtown
+
+**Website:** [www.ncme.org/event/special-conferences/aime-conference](https://www.ncme.org/event/special-conferences/aime-conference)
+
+**Contact:** [aimecon\@ncme.org](mailto:aimecon@ncme.org)
+
+Registration is now open.
+
+<https://ncme.site-ym.com/events/EventDetails.aspx?alias=2025AIMECon>
+
+Link to discounted hotel rate:
+
+<https://book.passkey.com/go/ncmeaime>
+
+## Early Bird Deadline Approaching
+
+Register by September 18 to secure the discounted rate before prices increase. Space is limited, so register today: AIME-Con Registration.
+
+**Special NCME Membership Promotion:**
+
+Become a member of the National Council on Measurement in Education (NCME) before registering to take advantage of the lower member registration fee. Even better—if you become a member and attend AIME-Con 2025, your membership will be extended through December 31, 2026 at no extra cost.
+
+**Professional Training Sessions:**
+
+Enhance your experience by signing up for our specialized 2- and 4-hour training sessions led by experts. View extended session descriptions to find the perfect fit for your professional development needs.
+
+**Explore the Full Program:** Check out the online program to see all the exciting sessions planned: AIME-Con Online Program
+
+We look forward to seeing you in Pittsburgh for what promises to be an outstanding and energizing conference!
+
+## AIME Updates
+
+### NCME 2026 Annual Meeting
+
+**Date**: April 8-11, 2026
+
+**Location**: Los Angeles, California
+
+**Theme**: Moving Measurement Forward
+
+**Call for Proposals**: Friday, September 12, 2025, at 11:59 PM PDT
+
+The NCME Annual Meeting was a great success for AI. We encourage our members to collaborate towards organizing coordinated sessions over individual papers.
+
+**2026 Annual Meeting Program Chairs:** Pamela Kaliski and Stefanie Wind
+
+## Research Presentation
+
+Ummugul Bezirhan, Boston College
+
+AI-Based Automated Scoring in Multilingual Large-Scale Assessments
+
+# Additional SIG Updates & Calls for Participation
+
+**The International Review of Research in Open and Distributed Learning (IRRODL)**
+
+This special issue will explore the rapidly evolving role of AI, including generative AI (GenAI) and artificial intelligence in education (AIED), across a range of online and distributed learning environments. We welcome empirical, theoretical, and conceptual papers that investigate the design, implementation, outcomes, and critical implications of AI technologies in educational settings.
+
+The deadline for submissions is October 31, 2025.
+
+https://www.irrodl.org/index.php/irrodl/announcement/view/35
