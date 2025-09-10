@@ -214,7 +214,7 @@ August 13th: 4:00pm - 5:00pm (EST)  \[[Slides](meetings/August2025/slides.html)\
 
 **Title:** Henry Makinde, The University of North Carolina at Greensboro
 
-**Presenter:** AI-Generated Medical Certification Items Using LLMs
+**Presenter:** AI-Generated Medical Certification Items Using LLMs \[[link](https://drive.google.com/file/d/1iT6t6mIs6XoKHoHAQkyyZEQJhrgNYBbF/view?usp=sharing)\]
 
 ------------------------------------------------------------------------
 
@@ -222,7 +222,7 @@ September 10th: 4:00pm - 5:00pm (EST)  \[[Slides](meetings/September2025/slides.
 
 **Title:** AI-Based Automated Scoring in Multilingual Large-Scale Assessments
 
-**Presenter:** Ummugul Bezirhan (Boston College)
+**Presenter:** Ummugul Bezirhan (Boston College) \[[link](https://drive.google.com/file/d/135gAHV1x2oYIfqdlWpnUSSIVliCehDHU/view?usp=sharing)\]
 
 ------------------------------------------------------------------------
 
