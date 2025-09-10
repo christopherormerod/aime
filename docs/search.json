@@ -1554,6 +1554,13 @@
     "text": "AIME Updates\nNCME 2026 Annual Meeting\nDate: April 8-11, 2026\nLocation: Los Angeles, California\nTheme: Moving Measurement Forward\nCall for Proposals: Friday, September 12, 2025, at 11:59 PM PDT\nThe NCME Annual Meeting was a great success for AI. We encourage our members to collaborate towards organizing coordinated sessions over individual papers.\n2026 Annual Meeting Program Chairs: Pamela Kaliski and Stefanie Wind"
   },
   {
+    "objectID": "meetings/September2025/slides.html#genai-evidence-hub-for-assessment",
+    "href": "meetings/September2025/slides.html#genai-evidence-hub-for-assessment",
+    "title": "Artificial Intelligence in Measurement and Education",
+    "section": "GenAI Evidence Hub for Assessment",
+    "text": "GenAI Evidence Hub for Assessment\nBuilding on prior efforts of this working group, we have received a grant to expand the “evidence hub” to ~250 research papers in several applied areas of GenAI.\nProject will:\n\nDevelop Evidence Rubric – refine and publish a rubric grounded in contemporary measurement standards.\nHuman Coding of ≥ 250 Studies – trained coders will apply the rubric, achieving Cohen’s kappa (κ) ≥ 0.80 on a 50-paper calibration set.\nPublish Results & Annotated Corpus – release practitioner guidance, a searchable database of coded studies, and a technical appendix on LLM-based auto-coding (target ≤ 0.05 κ divergence from human ratings).\n\nWe are currently reviewing the rubric, research design, and literature. If you’re interested in contributing research papers or reviewing research design, please contact John (john@ld-insights.com)"
+  },
+  {
     "objectID": "meetings/September2025/slides.html#research-presentation",
     "href": "meetings/September2025/slides.html#research-presentation",
     "title": "Artificial Intelligence in Measurement and Education",

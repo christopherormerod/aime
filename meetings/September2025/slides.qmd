@@ -79,6 +79,20 @@ The NCME Annual Meeting was a great success for AI. We encourage our members to 
 
 **2026 Annual Meeting Program Chairs:** Pamela Kaliski and Stefanie Wind
 
+## GenAI Evidence Hub for Assessment
+
+Building on prior efforts of this working group, we have received a grant to expand the “evidence hub” to ~250 research papers in several applied areas of GenAI. 
+
+Project will: 
+
+1. **Develop Evidence Rubric** – refine and publish a rubric grounded in contemporary measurement standards.
+
+2. **Human Coding of ≥ 250 Studies** – trained coders will apply the rubric, achieving Cohen’s kappa (κ) ≥ 0.80 on a 50-paper calibration set.
+
+3. **Publish Results & Annotated Corpus** – release practitioner guidance, a searchable database of coded studies, and a technical appendix on LLM-based auto-coding (target ≤ 0.05 κ divergence from human ratings).
+
+We are currently reviewing the rubric, research design, and literature.   If you’re interested in contributing research papers or reviewing research design, please contact John (john@ld-insights.com)
+
 ## Research Presentation
 
 Ummugul Bezirhan, Boston College
